@@ -1,0 +1,5 @@
+#comarcas {list-style-type:none; margin-left: 20px; margin-bottom:50px; padding:0}
+#comarcas li {float:left; margin-right:30px; font-weight:bold; font-size:20px;}
+#comarcas a:hover{background-color:#11AA11 ;}
+#comarcas a{background-color: white ; color: #AA1111}
+#activa a{background-color: yellow; color: #AA1111}
