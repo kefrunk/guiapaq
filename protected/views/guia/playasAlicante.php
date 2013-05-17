@@ -1,16 +1,16 @@
-<h3>Playas:</h3>
-<p>La ciudad de Alicante est&aacute; ba&ntilde;ada por las aguas del mediterr&aacute;neo, y magnificas playas se extienden por toda su costa. Desde playas m&iacute;ticas como la playa de San Juan o la del Postiguet, pasando por las de la Almadrava, La Albufereta, urbanova o las de muchavista o Arenales pertenecientes a munipios lindantes. Sin olvidar la bella isla de Tabarca a la que se puede acceder por barco desde el puerto de la ciudad. </p>
-	  		
+<h1><?php echo Yii::t('guia','Playas')?></h1> 
+<p><?php echo Yii::t('guia','intro playas Alicante')?></p>		
 
 <img src="images/alicanteplaya1.jpg" width="185px" height="123px">
 <img src="images/alicanteplaya2.jpg" width="185px" height="123px">
 <img src="images/alicanteplaya3.jpg" width="185px" height="123px">
 <img src="images/alicanteplaya4.jpg" width="185px" height="123px">
 <img src="images/alicanteplaya5.jpg" width="185px" height="123px">
-<div class="columnas1"> <div class="detalle"><h4>Caracter&iacute;sticas playa de San Juan:</h4>
-<ul><li><strong>Longitud: </strong>2900</li>
-<li><strong>Anchura media: </strong>90</li>
-<li><strong>Ocupacion: </strong>Alta</li>
+
+<div class="columnas1"> <div class="detalle"><h4><?php echo Yii::t('guia','Caracteristicas')?> playa de San Juan:</h4>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>2900</li>
+<li><strong><?php echo Yii::t('guia','Anchura Media')?>: </strong>90</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?> </strong><?php echo Yii::t('guia','Alta')?></li>
 
 </ul>
 </div>		       
@@ -57,13 +57,14 @@
 							 
 			                    <img src="images/bandera_azul.gif" alt="Bandera Azul" title="Bandera Azul"/></p>
 			        </div>
+					</div>
 			        
 			        
 
-<div class="columnas1"> <div class="detalle"><h4>Caracter&iacute;sticas playa els Tossals:</h4>
-<ul><li><strong>Longitud: </strong>1.672</li>
-<li><strong>Anchura media: </strong>50</li>
-<li><strong>Ocupacion: </strong>Media</li>
+<div class="columnas1"> <div class="detalle"><h4><?php echo Yii::t('guia','Caracteristicas')?> playa els Tossals:</h4>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>1.672</li>
+<li><strong><?php echo Yii::t('guia','Anchura Media')?>: </strong>50</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Media')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -86,11 +87,11 @@
 			                    <img src="images/playabierta.gif" alt="Playa Abierta" title="Playa Abierta"/></p>
 			        </div>
 			        
-			        
-<div class="columnas1"> <div class="detalle"><h4>Caracter&iacute;sticas playa de la Almadrava:</h4>
-<ul><li><strong>Longitud: </strong>750</li>
-<li><strong>Anchura media: </strong>6</li>
-<li><strong>Ocupacion: </strong>Media</li>
+</div>			        
+<div class="columnas1"> <div class="detalle"><h4><?php echo Yii::t('guia','Caracteristicas')?> playa de la Almadrava:</h4>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>750</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>6</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Media')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -106,12 +107,12 @@
 								
 			           </p>
 			        </div>
+</div>			        
 			        
-			        
-<div class="columnas1"> <div class="detalle"><h4>Caracter&iacute;sticas playa de La Albufereta	:</h4>
-<ul><li><strong>Longitud: </strong>500</li>
-<li><strong>Anchura media: </strong>18</li>
-<li><strong>Ocupacion: </strong>Media</li>
+<div class="columnas1"> <div class="detalle"><h4><?php echo Yii::t('guia','Caracteristicas')?> playa de La Albufereta	:</h4>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>500</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>18</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Media')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -148,11 +149,11 @@
 			            </p>
 			        </div>
 			        
-			        
-<div class="columnas1"> <div class="detalle"><h4>Caracter&iacute;sticas playa del Postiguet:</h4>
-<ul><li><strong>Longitud: </strong>900</li>
-<li><strong>Anchura media: </strong>45</li>
-<li><strong>Ocupacion: </strong>Alta</li>
+</div>			        
+<div class="columnas1"> <div class="detalle"><h4><?php echo Yii::t('guia','Caracteristicas')?> playa del Postiguet:</h4>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>900</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>45</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Alta')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -195,16 +196,16 @@
 			                    <img src="images/bandera_azul.gif" alt="Bandera Azul" title="Bandera Azul"/>
 			                    </p>
 			        </div>
+</div>			        
 			        
-			        
-<div class="columnas1"> <div class="detalle"><h4>Caracter&iacute;sticas playa de la isla de Tabarca:</h4>
-<ul><li><strong>Longitud: </strong>250</li>
-<li><strong>Anchura media: </strong>25</li>
-<li><strong>Ocupacion: </strong>Alta</li>
+
+<h4><?php echo Yii::t('guia','Caracteristicas')?> playa de la isla de Tabarca:</h4>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>250</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>25</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Alta')?></li>
 </ul>
-</div>		       
- <div class="detalle">
-			            <p class="leyenda">
+
+			        <p class="leyenda">
 						     
 			                      <img src="images/playabierta.gif" alt="Playa Abierta" title="Playa Abierta"/>
 							 
@@ -226,7 +227,6 @@
 							 
 			                    <img src="images/arenagruesa.gif" alt="Arena Gruesa" title="Arena Gruesa"/>
 							 
-			                    <img src="images/hoteles.gif" alt="Hoteles" title="Hoteles"/></p></div>
-			        
-	
-               			        
+			                    <img src="images/hoteles.gif" alt="Hoteles" title="Hoteles"/>
+					    
+			</p>		            			        

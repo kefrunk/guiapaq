@@ -1,16 +1,16 @@
-<h3>Playas:</h3> 
-<p>En dirección sur desde la desembocadura del río Segura en Guardamar hasta la provincia de Murcia, se extienden gran cantidad de playas, algunas de ellas verdaderos paraísos mediterráneos.  Torrevieja destaca con las playas de los locos, el cura, los naúfragos y La mata. Orihuela Costa con La Zenia, playa flamenca y ya l	indando con Murcia y muy cerquita de Cartagena encontramos las hermosas playas de Pilar de la Horadada.</p> 
-<h5>Guardamar</h5>
-<p>Situada en la costa sur de Alicante, Guardamar del Segura alberga un litoral con unas playas de arena de gran calidad, el exotismo de sus dunas que guardan vestigios de civilizaciones pasadas y una completa gama de servicios turísticos para disfrutar de la estancia. Dunas y pinares conforman un atractivo paisaje que invita al recreo y el esparcimiento.</p>
+<h1><?php echo Yii::t('guia','Playas')?></h1> 
+<p><?php echo Yii::t('guia','intro playas Vega Baja')?></p>
+<h2>Guardamar</h2>
+<p><?php echo Yii::t('guia','intro Guardamar')?></p>
 <img src="images/guardamar1.jpg" width="185px" height="123px">
 <img src="images/guardamar2.jpg" width="185px" height="123px">
 <img src="images/guardamar3.jpg" width="185px" height="123px">
 <br><a href="http://www.comunitatvalenciana.com/contenido/buscador/0?type=playa&amp;zona_turistica=0&amp;municipios=2119&amp;nombre_p=&amp;order=alfabetico&amp;tipo_order=asc&amp;serv_a=0&amp;serv_p=0&amp;serv_e=0" target="_blank">Mas info</a>
 
-<div class="columnas1"> <div class="detalle"><h4>Características playa les Ortigues:</h4>
-<ul><li><strong>Longitud: </strong>1490</li>
-<li><strong>Anchura media: </strong>60</li>
-<li><strong>Ocupacion: </strong>Media</li>
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa les Ortigues:</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>1490</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>60</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Media')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -31,10 +31,10 @@
 			        
 			        
 
-<div class="columnas1"> <div class="detalle"><h4>Características playa els Tossals:</h4>
-<ul><li><strong>Longitud: </strong>1.672</li>
-<li><strong>Anchura media: </strong>50</li>
-<li><strong>Ocupacion: </strong>Media</li>
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa els Tossals:</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>1.672</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>50</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Media')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -58,10 +58,10 @@
 			        </div>
 			        
 			        
-<div class="columnas1"> <div class="detalle"><h4>Características playa Centro:</h4>
-<ul><li><strong>Longitud: </strong>450</li>
-<li><strong>Anchura media: </strong>30</li>
-<li><strong>Ocupacion: </strong>Media</li>
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa Centro:</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>450</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>30</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Media')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -99,10 +99,10 @@
 			        </div>
 			        
 			        
-<div class="columnas1"> <div class="detalle"><h4>Características playa La Roqueta	:</h4>
-<ul><li><strong>Longitud: </strong>1180</li>
-<li><strong>Anchura media: </strong>35</li>
-<li><strong>Ocupacion: </strong>Media</li>
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa La Roqueta	:</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>1180</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>35</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Media')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -144,11 +144,11 @@
 			        </div>
 			        
 
-<h5>Torrevieja</h5>			        
-<div class="columnas1"> <div class="detalle"><h4>Características playa La Mata:</h4>
-<ul><li><strong>Longitud: </strong>2250</li>
-<li><strong>Anchura media: </strong>4</li>
-<li><strong>Ocupacion: </strong>Media Alta</li>
+<h2>Torrevieja</h2>			        
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa La Mata:</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>2250</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>4</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Media')?> <?php echo Yii::t('guia','Alta')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -189,10 +189,10 @@
 			        </div>
 			        
 			        
-<div class="columnas1"> <div class="detalle"><h4>Características playa Los locos:</h4>
-<ul><li><strong>Longitud: </strong>780</li>
-<li><strong>Anchura media: </strong>30</li>
-<li><strong>Ocupacion: </strong>Alta</li>
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa Los locos:</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>780</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>30</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Alta')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -227,10 +227,10 @@
 			                    <img src="images/bandera_azul.gif" alt="Bandera Azul" title="Bandera Azul"/></p>
 			        </div>
 			        
-<div class="columnas1"> <div class="detalle"><h4>Características playa Los Náufragos</h4>
-<ul><li><strong>Longitud: </strong>300</li>
-<li><strong>Anchura media: </strong>45</li>
-<li><strong>Ocupacion: </strong>Alta</li>
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa Los N&aacute;ufragos</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>300</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>45</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Alta')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -269,10 +269,10 @@
 			        </div>		
 			        
 			        
-<div class="columnas1"> <div class="detalle"><h4>Características playa del Cura:</h4>
-<ul><li><strong>Longitud: </strong>380</li>
-<li><strong>Anchura media: </strong>25</li>
-<li><strong>Ocupacion: </strong>Alta</li>
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa del Cura:</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>380</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>25</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Alta')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -307,11 +307,11 @@
 			        </div>	   
 			        
 	
-<h5>Orihuela Costa</h5>			        
-<div class="columnas1"> <div class="detalle"><h4>Características playa Cabo Roig:</h4>
-<ul><li><strong>Longitud: </strong>387</li>
-<li><strong>Anchura media: </strong>43</li>
-<li><strong>Ocupacion: </strong>Alta</li>
+<h2>Orihuela Costa</h2>			        
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa Cabo Roig:</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>387</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>43</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Alta')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -354,10 +354,10 @@
 			                    <img src="images/patines.gif" alt="Patines" title="Patines"/></p>
 			        </div>
 			        
-<div class="columnas1"> <div class="detalle"><h4>Características playa de Campoamor:</h4>
-<ul><li><strong>Longitud: </strong>513</li>
-<li><strong>Anchura media: </strong>70</li>
-<li><strong>Ocupacion: </strong>Alta</li>
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa de Campoamor:</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>513</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>70</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Alta')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -406,10 +406,10 @@
 			        </div>     
 			        
 			        
-			        <div class="columnas1"> <div class="detalle"><h4>Características playa Flamenca:</h4>
-<ul><li><strong>Longitud: </strong>175</li>
-<li><strong>Anchura media: </strong>42</li>
-<li><strong>Ocupacion: </strong>Alta</li>
+			        <div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa Flamenca:</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>175</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>42</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Alta')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -455,10 +455,10 @@
 							 
 			                    <img src="images/chiringuito.gif" alt="Chiringuito" title="Chiringuito"/></p></div>
 			        
-			        <div class="columnas1"> <div class="detalle"><h4>Características playa La Zenia</h4>
-<ul><li><strong>Longitud: </strong>167</li>
-<li><strong>Anchura media: </strong>21</li>
-<li><strong>Ocupacion: </strong>Alta</li>
+			        <div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa La Zenia</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>167</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>21</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Alta')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -495,11 +495,11 @@
 			                    <img src="images/chiringuito.gif" alt="Chiringuito" title="Chiringuito"/>
 			                    </p> </div>
 
-<h5>Pilar de la Horadada</h5>	
- <div class="columnas1"> <div class="detalle"><h4>Características playa del Conde</h4>
-<ul><li><strong>Longitud: </strong>210</li>
-<li><strong>Anchura media: </strong>18</li>
-<li><strong>Ocupacion: </strong>Alta</li>
+<h2>Pilar de la Horadada</h2>	
+ <div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa del Conde</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>210</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>18</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Alta')?></li>
 </ul>
 </div>		       
  <div class="detalle">
@@ -546,10 +546,10 @@
 			                    <img src="images/vigila.gif" alt="Vigilancia Marítima" title="Vigilancia Marítima"/>
 							 
 			                    <img src="images/accminus.gif" alt="Acceso Persona Movilidad Reducida" title="Acceso Persona Movilidad Reducida"/></p> </div>
-			        <div class="columnas1"> <div class="detalle"><h4>Características playa Mil Palmeras</h4>
-<ul><li><strong>Longitud: </strong>800</li>
-<li><strong>Anchura media: </strong>4</li>
-<li><strong>Ocupacion: </strong>Alta</li>
+			        <div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa Mil Palmeras</h3>
+<ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>800</li>
+<li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>4</li>
+<li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Alta')?></li>
 </ul>
 </div>		       
  <div class="detalle">

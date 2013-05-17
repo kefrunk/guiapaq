@@ -48,10 +48,16 @@ span.tabMenu, span.tabMenuActive, span.tabMenuOver
    /* the background must be the same as the tabFiller background */
    background: #E8FFFF;
    border: 2px solid black;
-   border-top: 7px solid black;
    margin: 0px 0px 0px 38px;     /* this moves the buttons to the right */
    padding: 0px 12px 0px 10px;
    }
+   
+
+a.link:hover
+{
+        color: #cccccc;
+		background: #0000FF;
+}
 
 span.tabMenuActive
    {
@@ -77,8 +83,12 @@ div.tabPane
   {
   position: absolute;
   margin: 4px;
+   border: 2px solid black;
+   height: 30em;
+   width:48em;
   overflow: auto;
   /* the background of this must be the same of tabFiller */
   background: #E8FFFF;
+ 
   }
 
