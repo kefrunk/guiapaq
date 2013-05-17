@@ -19,6 +19,21 @@ return array(
 		//Vega Baja
 	'intro playas Vega Baja' => 'En dirección sur desde la desembocadura del río Segura en Guardamar hasta la provincia de Murcia, se extienden gran cantidad de playas, algunas de ellas verdaderos paraísos mediterráneos.  Torrevieja destaca con las playas de los locos, el cura, los naúfragos y La mata. Orihuela Costa con La Zenia, playa flamenca y ya l	indando con Murcia y muy cerquita de Cartagena encontramos las hermosas playas de Pilar de la Horadada.',
 	'intro Guardamar' =>'<p>Situada en la costa sur de Alicante, Guardamar del Segura alberga un litoral con unas playas de arena de gran calidad, el exotismo de sus dunas que guardan vestigios de civilizaciones pasadas y una completa gama de servicios turísticos para disfrutar de la estancia. Dunas y pinares conforman un atractivo paisaje que invita al recreo y el esparcimiento.',
+		//Alt imagenes playas
+	'imgAltPlayaAbierta' => 'Playa Abierta',
+	'imgAltPlayaSemiurbana' => 'Playa Semi Urbana',
+	'imgAltEstadodelmar'  => 'Estado del mar',
+	'imgAltPasarelas' => 'Pasarelas',
+	'imgAltAccesomovreducida' => 'Acceso Persona Movilidad Reducida',
+	'imgAltRestaurante' =>' Restaurante',
+	'imgAltVela' => 'Vela',
+	'imgAltLavapies' => 'Lavapies',
+	'imgAltJuegosDeportivos'=>'Juegos Deportivos',
+	'imgAltPatines' => 'Patines',
+	'imgAltBanderazul' =>'Bandera Azul',
+	'imgAltPlayavirgen' =>'Playa Virgen',
+	'imgAltMotoagua' => 'Moto deAgua',
+	
 	'Mas Info' => 'Mas Info',
 	
 	//--------------------------//
@@ -76,22 +91,71 @@ return array(
 	
 	//-----------------------------------------------------//
 	
+	
+	
+	
 	//----------------ESCAPADAS--------------------//
 	
 	//Alicante
+	'Recorrido por la ciudad de Alicante' =>'Recorrido por la ciudad de Alicante',
 	'intro visita Alicante' => 'La ciudad de Alicante es uno de los destinos más visitados en España debido a la gran variedad de alternativas turísticas que ofrece. Aquí se expone información sobre algunos de los encantos de esta ciudad que nadie debe perderse',
+	'Puerto'=>'Puerto de Alicante',
+	'Castillo de Santa Barbara' => 'Castillo de Santa Barbara',
+	'Museos' =>'Museos',
+	'Museos Alicante parrafo 1' => 'Museos Alicante parrafo 1',
+	'Fiestas en Alicante' =>'Fiestas en Alicante',
+	'Hogueras Alicante parrafo 1' => 'Del 20 al 24 de Junio',
+	'Carnavales' => 'Carnavales',
+	'Comarca de Alicante' => 'Comarca de Alicante',
+	'santa faz parrafo 1'=>'Segunda semana siguiente a Jueves santo',
+	'Tranvia Alicante Parrafo 1' =>'Tranvia Alicante Parrafo 1',
+	
+	//Elche
+	'Recorrido por la comarca del Baix Vinalopo' =>'Recorrido por la comarca del Baix Vinalopo<br>Elche, Crevillente y Santa Pola',
+	'intro visita Elche' => 'La ciudad de Elche...',
+	//Vega Baja
+	'Recorrido por la comarca de la Vega baja' =>'Recorrido por la comarca de la Vega Baja',
+	'intro visita Vegabaja' => 'La ciudad de Orihuela...',
+	//Vinalopo medio y alto
+	'Recorrido por las comarcas del Vinalopo' =>'Recorrido por las comarcas del Vinalopo',
+	'intro visita Vinalopo' => 'La ciudad de Elda...',
+	'Plano ciudad de Elda' => 'Plano ciudad de Elda',
+	'Donde comer en Elda' => 'Donde comer en Elda',
+	'Museo del calzado' =>'Museo del calzado',
+	//Frases comunes escapadas
+	'Cosas que visitar' => 'Cosas que visitar', 
+	//---------------------------------------------//
+	
+	
+	
+	
 	
 	//-------------INFORMACION DE INTERES------------//
+	
 	'subtitulo elche Fiestas' => 'Fiestas',
 	'subtitulo elche Hoteles' => 'Hoteles',
 	'subtitulo elche Restaurantes' => 'Restaurantes',
-	'subtitulo elche Telofonos' => 'Tekefonos de Interes',
+	'subtitulo elche Telofonos' => 'Telefonos de Interes',
+	
 	//------------------------------------------------//
 	
 	
-	//------------GENERAL----------//
+	
+	
+	//------------GENERAL------------//
+	
 	'elchetitulo' => 'Elche y Comarca',
 	'vinalopotitulo' => 'Vinalopo Medio y Alto',
+	'y' => 'y',
 	
+	//-------------------------------//
+	
+	'elchetitulo'     
+	
+	//---------LINKS EXTERNOS PARA DIFERENTES IDIOMAS--------//
+	
+	
+	
+	//-------------------------------------------------------//
 );
 ?>

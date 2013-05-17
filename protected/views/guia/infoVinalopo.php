@@ -42,7 +42,7 @@ Saturday morning: 09:30 until 13:00</p>
 	</div>
 </div>
 <div class="sucursal">
-	<img src="images/contacto_novelda.jpg" />
+	<img src="/imgGuia/contacto_novelda.jpg" />
 	<div class="content">
 <h3>Novelda</h3>
 <p>Avda. Jesus Navarro Jover, 23<br />

@@ -18,16 +18,16 @@
 	  			966 61 54 5</p>
 	  			<p><b>Hotel Holiday Inn:</b> <br>Calle Miguel Servet<br>03203 Elche, Alicante
 	  			<br>966 65 15 51</p>
-	  		<h2>Restaurantes </h2>
-	  		<p><b>Restaurante El Granaino:</b> <br>Jos&eacute; Maria Buch, 40 <br>
+	  		<h2><?php echo Yii::t('guia','imgAltRestaurante')?>s </h2>
+	  		<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> El Granaino:</b> <br>Jos&eacute; Maria Buch, 40 <br>
   			 Elche, Alicante<br>966 664 080</p>
-  			<p><b>Restaurante La Finca:</b> <br>Partida Perleta, Pol&iacute;gono 1, num 7, S/N<br> 
+  			<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> La Finca:</b> <br>Partida Perleta, Pol&iacute;gono 1, num 7, S/N<br> 
   			03295 Elche, Alicante<br>
   			965 45 60 07</p>
   			<p><b>La Mas&iacute;a de Chencho:</b> <br>Partida de Jubalcoi, polig. 1, num 9<br>
   			03295 Elche, Alicante<br>
   			965 45 97 47 - 965 42 17 84</p>
-  			<p><b>Restaurante Madeira:</b> <br>Calle de la Porta de la Morera, 5<br> 03203 Elche, Alicante<br>
+  			<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> Madeira:</b> <br>Calle de la Porta de la Morera, 5<br> 03203 Elche, Alicante<br>
   			965 42 29 67</p>
   			<p><b>El Misteri D''Anna:</b> <br>Partida Pe&ntilde;a &Aacute;guilas, 347<br>03296 Elche, Alicante
   			<br>966 67 56 44</p>

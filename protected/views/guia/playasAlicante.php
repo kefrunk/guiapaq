@@ -1,11 +1,11 @@
 <h1><?php echo Yii::t('guia','Playas')?></h1> 
 <p><?php echo Yii::t('guia','intro playas Alicante')?></p>		
 
-<img src="images/alicanteplaya1.jpg" width="185px" height="123px">
-<img src="images/alicanteplaya2.jpg" width="185px" height="123px">
-<img src="images/alicanteplaya3.jpg" width="185px" height="123px">
-<img src="images/alicanteplaya4.jpg" width="185px" height="123px">
-<img src="images/alicanteplaya5.jpg" width="185px" height="123px">
+<p><img src="/imgGuia/alicanteplaya1.jpg" width="185px" height="123px">
+<img src="/imgGuia/alicanteplaya2.jpg" width="185px" height="123px">
+<img src="/imgGuia/alicanteplaya3.jpg" width="185px" height="123px">
+<img src="/imgGuia/alicanteplaya4.jpg" width="185px" height="123px">
+<img src="/imgGuia/alicanteplaya5.jpg" width="185px" height="123px"></p>
 
 <div class="columnas1"> <div class="detalle"><h4><?php echo Yii::t('guia','Caracteristicas')?> playa de San Juan:</h4>
 <ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>2900</li>
@@ -17,45 +17,45 @@
  <div class="detalle">
 			            <p class="leyenda">
 						     
-			                   <img src="images/playabierta.gif" alt="Playa Abierta" title="Playa Abierta"/>
+			                   <img src="/imgGuia/playabierta.gif" alt="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>" title="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>"/>
 							 
-			                    <img src="images/playasemiurb.gif" alt="Playa Semi Urbana" title="Playa Semi Urbana"/>
+			                    <img src="/imgGuia/playasemiurb.gif" alt="Playa Semi Urbana" title="Playa Semi Urbana"/>
 							 
-			                    <img src="images/estadomar.gif" alt="Estado del Mar" title="Estado del Mar"/>
+			                    <img src="/imgGuia/estadomar.gif" alt="<?php echo Yii::t('guia','imgAltEstadodelmar')?>" title="<?php echo Yii::t('guia','imgAltEstadodelmar')?>"/>
 							 
-			                    <img src="images/pasarelas.gif" alt="Pasarelas" title="Pasarelas"/>
+			                    <img src="/imgGuia/pasarelas.gif" alt="<?php echo Yii::t('guia','imgAltPasarelas')?>" title="<?php echo Yii::t('guia','imgAltPasarelas')?>"/>
 							 
-			                    <img src="images/accminus.gif" alt="Acceso Persona Movilidad Reducida" title="Acceso Persona Movilidad Reducida"/>
+			                    <img src="/imgGuia/accminus.gif" alt="<?php echo Yii::t('guia','imgAltAccesomovreducida')?>" title="<?php echo Yii::t('guia','imgAltAccesomovreducida')?>"/>
 							 
-			                    <img src="images/plataform.gif" alt="Plataforma Flotantes" title="Plataforma Flotantes"/>
+			                    <img src="/imgGuia/plataform.gif" alt="Plataforma Flotantes" title="Plataforma Flotantes"/>
 							 
-			                    <img src="images/restaurante.gif" alt="Restaurante" title="Restaurante"/>
+			                    <img src="/imgGuia/restaurante.gif" alt="<?php echo Yii::t('guia','imgAltRestaurante')?>" title="<?php echo Yii::t('guia','imgAltRestaurante')?>"/>
 							 
-			                    <img src="images/vela.gif" alt="Vela" title="Vela"/>
+			                    <img src="/imgGuia/vela.gif" alt="<?php echo Yii::t('guia','imgAltVela')?>" title="<?php echo Yii::t('guia','imgAltVela')?>"/>
 							 
-			                    <img src="images/lavapie.gif" alt="Lavapies" title="Lavapies"/>
+			                    <img src="/imgGuia/lavapie.gif" alt="<?php echo Yii::t('guia','imgAltLavapies')?>" title="<?php echo Yii::t('guia','imgAltLavapies')?>"/>
 							 
-			                    <img src="images/cruzroja.gif" alt="Cruz Roja" title="Cruz Roja"/>
+			                    <img src="/imgGuia/cruzroja.gif" alt="Cruz Roja" title="Cruz Roja"/>
 							 
-			                    <img src="images/serviwc.gif" alt="Servicios WC" title="Servicios WC"/>
+			                    <img src="/imgGuia/serviwc.gif" alt="Servicios WC" title="Servicios WC"/>
 							 
-			                    <img src="images/paradtaxi.gif" alt="Parada Taxi" title="Parada Taxi"/>
+			                    <img src="/imgGuia/paradtaxi.gif" alt="Parada Taxi" title="Parada Taxi"/>
 							 
-			                    <img src="images/deporti.gif" alt="Juegos Deportivos" title="Juegos Deportivos"/>
+			                    <img src="/imgGuia/deporti.gif" alt="<?php echo Yii::t('guia','imgAltJuegosDeportivos')?>" title="<?php echo Yii::t('guia','imgAltJuegosDeportivos')?>"/>
 							 
-			                    <img src="images/infotur.gif" alt="Tourist Info" title="Tourist Info"/>
+			                    <img src="/imgGuia/infotur.gif" alt="Tourist Info" title="Tourist Info"/>
 							 
-			                    <img src="images/hoteles.gif" alt="Hoteles" title="Hoteles"/>
+			                    <img src="/imgGuia/hoteles.gif" alt="Hoteles" title="Hoteles"/>
 							 
-			                    <img src="images/parking.gif" alt="Parking" title="Parking"/>
+			                    <img src="/imgGuia/parking.gif" alt="Parking" title="Parking"/>
 							 
-			                    <img src="images/windsurf.gif" alt="Windsurf" title="Windsurf"/>
+			                    <img src="/imgGuia/windsurf.gif" alt="Windsurf" title="Windsurf"/>
 							 
-			                    <img src="images/tren.gif" alt="FFCC" title="FFCC"/>
+			                    <img src="/imgGuia/tren.gif" alt="FFCC" title="FFCC"/>
 							 
-			                    <img src="images/accesible.gif" alt="Accesible" title="Accesible"/>
+			                    <img src="/imgGuia/accesible.gif" alt="Accesible" title="Accesible"/>
 							 
-			                    <img src="images/bandera_azul.gif" alt="Bandera Azul" title="Bandera Azul"/></p>
+			                    <img src="/imgGuia/bandera_azul.gif" alt="<?php echo Yii::t('guia','imgAltBanderazul')?>" title="<?php echo Yii::t('guia','imgAltBanderazul')?>"/></p>
 			        </div>
 					</div>
 			        
@@ -70,21 +70,21 @@
  <div class="detalle">
 			            <p class="leyenda">
 						     
-			                   <img src="images/parking.gif" alt="Parking" title="Parking"/>
+			                   <img src="/imgGuia/parking.gif" alt="Parking" title="Parking"/>
 							 
-			                    <img src="images/naturista.gif" alt="Naturista" title="Naturista"/>
+			                    <img src="/imgGuia/naturista.gif" alt="Naturista" title="Naturista"/>
 							 
-			                    <img src="images/cruzroja.gif" alt="Cruz Roja" title="Cruz Roja"/>
+			                    <img src="/imgGuia/cruzroja.gif" alt="Cruz Roja" title="Cruz Roja"/>
 							 
-			                    <img src="images/playavirgen.gif" alt="Playa Virgen" title="Playa Virgen"/>
+			                    <img src="/imgGuia/playavirgen.gif" alt="<?php echo Yii::t('guia','imgAltPlayavirgen')?>" title="<?php echo Yii::t('guia','imgAltPlayavirgen')?>"/>
 							 
-			                    <img src="images/restaurante.gif" alt="Restaurante" title="Restaurante"/>
+			                    <img src="/imgGuia/restaurante.gif" alt="<?php echo Yii::t('guia','imgAltRestaurante')?>" title="<?php echo Yii::t('guia','imgAltRestaurante')?>"/>
 							 
-			                    <img src="images/camping.gif" alt="Camping" title="Camping"/>
+			                    <img src="/imgGuia/camping.gif" alt="Camping" title="Camping"/>
 							 
-			                    <img src="images/pasarelas.gif" alt="Pasarelas" title="Pasarelas"/>
+			                    <img src="/imgGuia/pasarelas.gif" alt="<?php echo Yii::t('guia','imgAltPasarelas')?>" title="<?php echo Yii::t('guia','imgAltPasarelas')?>"/>
 							 
-			                    <img src="images/playabierta.gif" alt="Playa Abierta" title="Playa Abierta"/></p>
+			                    <img src="/imgGuia/playabierta.gif" alt="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>" title="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>"/></p>
 			        </div>
 			        
 </div>			        
@@ -97,13 +97,13 @@
  <div class="detalle">
 			            <p class="leyenda">
 						     
-			                  <img src="images/parking.gif" alt="Parking" title="Parking"/>
+			                  <img src="/imgGuia/parking.gif" alt="Parking" title="Parking"/>
 							 
-			                    <img src="images/lavapie.gif" alt="Lavapies" title="Lavapies"/>
+			                    <img src="/imgGuia/lavapie.gif" alt="<?php echo Yii::t('guia','imgAltLavapies')?>" title="<?php echo Yii::t('guia','imgAltLavapies')?>"/>
 							 
-			                    <img src="images/accminus.gif" alt="Acceso Persona Movilidad Reducida" title="Acceso Persona Movilidad Reducida"/>
+			                    <img src="/imgGuia/accminus.gif" alt="<?php echo Yii::t('guia','imgAltAccesomovreducida')?>" title="<?php echo Yii::t('guia','imgAltAccesomovreducida')?>"/>
 							 
-			                    <img src="images/accesible.gif" alt="Accesible" title="Accesible"/>
+			                    <img src="/imgGuia/accesible.gif" alt="Accesible" title="Accesible"/>
 								
 			           </p>
 			        </div>
@@ -118,33 +118,33 @@
  <div class="detalle">
 			            <p class="leyenda">
 						     
-			                    <img src="images/windsurf.gif" alt="Windsurf" title="Windsurf"/>
+			                    <img src="/imgGuia/windsurf.gif" alt="Windsurf" title="Windsurf"/>
 							 
-			                    <img src="images/parking.gif" alt="Parking" title="Parking"/>
+			                    <img src="/imgGuia/parking.gif" alt="Parking" title="Parking"/>
 							 
-			                    <img src="images/serviwc.gif" alt="Servicios WC" title="Servicios WC"/>
+			                    <img src="/imgGuia/serviwc.gif" alt="Servicios WC" title="Servicios WC"/>
 							 
-			                    <img src="images/cruzroja.gif" alt="Cruz Roja" title="Cruz Roja"/>
+			                    <img src="/imgGuia/cruzroja.gif" alt="Cruz Roja" title="Cruz Roja"/>
 							 
-			                    <img src="images/lavapie.gif" alt="Lavapies" title="Lavapies"/>
+			                    <img src="/imgGuia/lavapie.gif" alt="<?php echo Yii::t('guia','imgAltLavapies')?>" title="<?php echo Yii::t('guia','imgAltLavapies')?>"/>
 							 
-			                    <img src="images/vela.gif" alt="Vela" title="Vela"/>
+			                    <img src="/imgGuia/vela.gif" alt="<?php echo Yii::t('guia','imgAltVela')?>" title="<?php echo Yii::t('guia','imgAltVela')?>"/>
 							 
-			                    <img src="images/restaurante.gif" alt="Restaurante" title="Restaurante"/>
+			                    <img src="/imgGuia/restaurante.gif" alt="<?php echo Yii::t('guia','imgAltRestaurante')?>" title="<?php echo Yii::t('guia','imgAltRestaurante')?>"/>
 							 
-			                    <img src="images/plataform.gif" alt="Plataforma Flotantes" title="Plataforma Flotantes"/>
+			                    <img src="/imgGuia/plataform.gif" alt="Plataforma Flotantes" title="Plataforma Flotantes"/>
 							 
-			                    <img src="images/accminus.gif" alt="Acceso Persona Movilidad Reducida" title="Acceso Persona Movilidad Reducida"/>
+			                    <img src="/imgGuia/accminus.gif" alt="<?php echo Yii::t('guia','imgAltAccesomovreducida')?>" title="<?php echo Yii::t('guia','imgAltAccesomovreducida')?>"/>
 							 
-			                    <img src="images/pasarelas.gif" alt="Pasarelas" title="Pasarelas"/>
+			                    <img src="/imgGuia/pasarelas.gif" alt="<?php echo Yii::t('guia','imgAltPasarelas')?>" title="<?php echo Yii::t('guia','imgAltPasarelas')?>"/>
 							 
-			                    <img src="images/estadomar.gif" alt="Estado del Mar" title="Estado del Mar"/>
+			                    <img src="/imgGuia/estadomar.gif" alt="<?php echo Yii::t('guia','imgAltEstadodelmar')?>" title="<?php echo Yii::t('guia','imgAltEstadodelmar')?>"/>
 							 
-			                    <img src="images/playasemiurb.gif" alt="Playa Semi Urbana" title="Playa Semi Urbana"/>
+			                    <img src="/imgGuia/playasemiurb.gif" alt="Playa Semi Urbana" title="Playa Semi Urbana"/>
 							 
-			                    <img src="images/playabierta.gif" alt="Playa Abierta" title="Playa Abierta"/>
+			                    <img src="/imgGuia/playabierta.gif" alt="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>" title="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>"/>
 							 
-			                    <img src="images/bandera_azul.gif" alt="Bandera Azul" title="Bandera Azul"/>
+			                    <img src="/imgGuia/bandera_azul.gif" alt="<?php echo Yii::t('guia','imgAltBanderazul')?>" title="<?php echo Yii::t('guia','imgAltBanderazul')?>"/>
 								
 			            </p>
 			        </div>
@@ -159,41 +159,41 @@
  <div class="detalle">
 			            <p class="leyenda">
 						     
-			                   <img src="images/playabierta.gif" alt="Playa Abierta" title="Playa Abierta"/>
+			                   <img src="/imgGuia/playabierta.gif" alt="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>" title="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>"/>
 							 
-			                    <img src="images/estadomar.gif" alt="Estado del Mar" title="Estado del Mar"/>
+			                    <img src="/imgGuia/estadomar.gif" alt="<?php echo Yii::t('guia','imgAltEstadodelmar')?>" title="<?php echo Yii::t('guia','imgAltEstadodelmar')?>"/>
 							 
-			                    <img src="images/pasarelas.gif" alt="Pasarelas" title="Pasarelas"/>
+			                    <img src="/imgGuia/pasarelas.gif" alt="<?php echo Yii::t('guia','imgAltPasarelas')?>" title="<?php echo Yii::t('guia','imgAltPasarelas')?>"/>
 							 
-			                    <img src="images/accminus.gif" alt="Acceso Persona Movilidad Reducida" title="Acceso Persona Movilidad Reducida"/>
+			                    <img src="/imgGuia/accminus.gif" alt="<?php echo Yii::t('guia','imgAltAccesomovreducida')?>" title="<?php echo Yii::t('guia','imgAltAccesomovreducida')?>"/>
 							 
-			                    <img src="images/restaurante.gif" alt="Restaurante" title="Restaurante"/>
+			                    <img src="/imgGuia/restaurante.gif" alt="<?php echo Yii::t('guia','imgAltRestaurante')?>" title="<?php echo Yii::t('guia','imgAltRestaurante')?>"/>
 							 
-			                    <img src="images/vela.gif" alt="Vela" title="Vela"/>
+			                    <img src="/imgGuia/vela.gif" alt="<?php echo Yii::t('guia','imgAltVela')?>" title="<?php echo Yii::t('guia','imgAltVela')?>"/>
 							 
-			                    <img src="images/lavapie.gif" alt="Lavapies" title="Lavapies"/>
+			                    <img src="/imgGuia/lavapie.gif" alt="<?php echo Yii::t('guia','imgAltLavapies')?>" title="<?php echo Yii::t('guia','imgAltLavapies')?>"/>
 							 
-			                    <img src="images/cruzroja.gif" alt="Cruz Roja" title="Cruz Roja"/>
+			                    <img src="/imgGuia/cruzroja.gif" alt="Cruz Roja" title="Cruz Roja"/>
 							 
-			                    <img src="images/serviwc.gif" alt="Servicios WC" title="Servicios WC"/>
+			                    <img src="/imgGuia/serviwc.gif" alt="Servicios WC" title="Servicios WC"/>
 							 
-			                    <img src="images/paradtaxi.gif" alt="Parada Taxi" title="Parada Taxi"/>
+			                    <img src="/imgGuia/paradtaxi.gif" alt="Parada Taxi" title="Parada Taxi"/>
 							 
-			                    <img src="images/deporti.gif" alt="Juegos Deportivos" title="Juegos Deportivos"/>
+			                    <img src="/imgGuia/deporti.gif" alt="<?php echo Yii::t('guia','imgAltJuegosDeportivos')?>" title="<?php echo Yii::t('guia','imgAltJuegosDeportivos')?>"/>
 							 
-			                    <img src="images/playaurban.gif" alt="Playa Urbana" title="Playa Urbana"/>
+			                    <img src="/imgGuia/playaurban.gif" alt="Playa Urbana" title="Playa Urbana"/>
 							 
-			                    <img src="images/infotur.gif" alt="Tourist Info" title="Tourist Info"/>
+			                    <img src="/imgGuia/infotur.gif" alt="Tourist Info" title="Tourist Info"/>
 							 
-			                    <img src="images/hoteles.gif" alt="Hoteles" title="Hoteles"/>
+			                    <img src="/imgGuia/hoteles.gif" alt="Hoteles" title="Hoteles"/>
 							 
-			                    <img src="images/parking.gif" alt="Parking" title="Parking"/>
+			                    <img src="/imgGuia/parking.gif" alt="Parking" title="Parking"/>
 							 
-			                    <img src="images/tren.gif" alt="FFCC" title="FFCC"/>
+			                    <img src="/imgGuia/tren.gif" alt="FFCC" title="FFCC"/>
 							 
-			                    <img src="images/accesible.gif" alt="Accesible" title="Accesible"/>
+			                    <img src="/imgGuia/accesible.gif" alt="Accesible" title="Accesible"/>
 							 
-			                    <img src="images/bandera_azul.gif" alt="Bandera Azul" title="Bandera Azul"/>
+			                    <img src="/imgGuia/bandera_azul.gif" alt="<?php echo Yii::t('guia','imgAltBanderazul')?>" title="<?php echo Yii::t('guia','imgAltBanderazul')?>"/>
 			                    </p>
 			        </div>
 </div>			        
@@ -207,26 +207,26 @@
 
 			        <p class="leyenda">
 						     
-			                      <img src="images/playabierta.gif" alt="Playa Abierta" title="Playa Abierta"/>
+			                      <img src="/imgGuia/playabierta.gif" alt="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>" title="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>"/>
 							 
-			                    <img src="images/estadomar.gif" alt="Estado del Mar" title="Estado del Mar"/>
+			                    <img src="/imgGuia/estadomar.gif" alt="<?php echo Yii::t('guia','imgAltEstadodelmar')?>" title="<?php echo Yii::t('guia','imgAltEstadodelmar')?>"/>
 							 
-			                    <img src="images/pasarelas.gif" alt="Pasarelas" title="Pasarelas"/>
+			                    <img src="/imgGuia/pasarelas.gif" alt="<?php echo Yii::t('guia','imgAltPasarelas')?>" title="<?php echo Yii::t('guia','imgAltPasarelas')?>"/>
 							 
-			                    <img src="images/bolos.gif" alt="Bolos" title="Bolos"/>
+			                    <img src="/imgGuia/bolos.gif" alt="Bolos" title="Bolos"/>
 							 
-			                    <img src="images/restaurante.gif" alt="Restaurante" title="Restaurante"/>
+			                    <img src="/imgGuia/restaurante.gif" alt="<?php echo Yii::t('guia','imgAltRestaurante')?>" title="<?php echo Yii::t('guia','imgAltRestaurante')?>"/>
 							 
-			                    <img src="images/lavapie.gif" alt="Lavapies" title="Lavapies"/>
+			                    <img src="/imgGuia/lavapie.gif" alt="<?php echo Yii::t('guia','imgAltLavapies')?>" title="<?php echo Yii::t('guia','imgAltLavapies')?>"/>
 							 
-			                    <img src="images/cruzroja.gif" alt="Cruz Roja" title="Cruz Roja"/>
+			                    <img src="/imgGuia/cruzroja.gif" alt="Cruz Roja" title="Cruz Roja"/>
 							 
-			                    <img src="images/serviwc.gif" alt="Servicios WC" title="Servicios WC"/>
+			                    <img src="/imgGuia/serviwc.gif" alt="Servicios WC" title="Servicios WC"/>
 							 
-			                    <img src="images/playaurban.gif" alt="Playa Urbana" title="Playa Urbana"/>
+			                    <img src="/imgGuia/playaurban.gif" alt="Playa Urbana" title="Playa Urbana"/>
 							 
-			                    <img src="images/arenagruesa.gif" alt="Arena Gruesa" title="Arena Gruesa"/>
+			                    <img src="/imgGuia/arenagruesa.gif" alt="Arena Gruesa" title="Arena Gruesa"/>
 							 
-			                    <img src="images/hoteles.gif" alt="Hoteles" title="Hoteles"/>
+			                    <img src="/imgGuia/hoteles.gif" alt="Hoteles" title="Hoteles"/>
 					    
 			</p>		            			        

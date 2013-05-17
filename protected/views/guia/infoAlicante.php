@@ -32,7 +32,7 @@
 
 
 <div class="sucursal">
-	<img src="images/contacto_aeropuerto.jpg" />
+	<img src="/imgGuia/contacto_aeropuerto.jpg" />
 	<div class="content">
 		<h3>Alicante Airport</h3>
 		<p>

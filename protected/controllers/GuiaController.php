@@ -75,7 +75,7 @@ class GuiaController extends Controller
 	
 	public function actionEscapadasVinalopo()
 	{
-		$this->render('sscapadasVinalopo');
+		$this->render('escapadasVinalopo');
 	}
 	
 	public function actionEscapadasAlicante()
