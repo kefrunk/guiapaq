@@ -2,7 +2,7 @@
 <p><?php echo Yii::t('guia','intro playas Vega Baja')?></p>
 <h2>Guardamar</h2>
 <p><?php echo Yii::t('guia','intro Guardamar')?>
-<br><a href="http://www.comunitatvalenciana.com/contenido/buscador/0?type=playa&amp;zona_turistica=0&amp;municipios=2119&amp;nombre_p=&amp;order=alfabetico&amp;tipo_order=asc&amp;serv_a=0&amp;serv_p=0&amp;serv_e=0" target="_blank">Mas info</a>
+<br><a href="<?php echo Yii::t('guia','link mas info guardamar')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a>
 </p>
 <p><img src="/imgGuia/guardamar1.jpg" width="185px" height="123px">
 <img src="/imgGuia/guardamar2.jpg" width="185px" height="123px">
@@ -142,6 +142,7 @@
 			        
 
 <h2>Torrevieja</h2>		
+<p><?php echo Yii::t('guia','intro torrevieja')?></p>
 <p><img src="/imgGuia/torrevieja1.jpg" width="185px" height="123px">
  <img src="/imgGuia/torrevieja2.jpg" width="185px" height="123px"> 
  <img src="/imgGuia/torrevieja3.jpg" width="185px" height="123px">
@@ -307,6 +308,7 @@
 			       
 	
 <h2>Orihuela Costa</h2>		
+<p><?php echo Yii::t('guia','intro orihuela costa')?></p>
 <p><img src="/imgGuia/orihuelacosta2.jpg" width="185px" height="123px">
 <img src="/imgGuia/orihuelacosta3.jpg" width="185px" height="123px">
 <img src="/imgGuia/orihuelacosta1.jpg" width="185px" height="123px"></p>	        
@@ -496,7 +498,11 @@
 			                    <img src="/imgGuia/chiringuito.gif" alt="Chiringuito" title="Chiringuito"/>
 			                    </p> 
 
-<h2>Pilar de la Horadada</h2>	
+<h2>Pilar de la Horadada</h2>
+<p><?php echo Yii::t('guia','intro playas pilarhoradada' )?></p>
+<p><img src="/imgGuia/pilar_horadada_01.jpg" width="185px" height="123px">
+<img src="/imgGuia/pilar_horadada_02.jpg" width="185px" height="123px">
+</p>	
 <h3><?php echo Yii::t('guia','Caracteristicas')?> playa del Conde</h3>
 <ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>210</li>
 <li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>18</li>

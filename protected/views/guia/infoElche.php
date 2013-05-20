@@ -1,70 +1,51 @@
-<link rel="stylesheet" type="text/css" href="css/style26042013.css" />
+<h1><?php echo Yii::t('guia','Info Interes')?> Elche</h1> 
 
-<div class="sucursal">
-	<iframe width="335" height="260" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps?f=q&amp;source=embed&amp;hl=es&amp;geocode=&amp;q=C%2F.+Espronceda,+88&amp;sll=40.396764,-3.713379&amp;sspn=10.638442,19.753418&amp;ie=UTF8&amp;hq=&amp;hnear=Calle+Espronceda,+88,+03204+Elche,+Alicante,+Comunidad+Valenciana&amp;t=m&amp;ll=38.255773,-0.707417&amp;spn=0.017524,0.028667&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
-	<div class="content">
-		<h3>Elche Central de Reservas</h3>
-
-		<p>
-			C/ Espronceda, 76<br />
-			Elche (Alicante)<br />
-			C.P. 03204<br />
-			Spain		</p>
-
-		<p>
-		T.  00 34 966 634 888<br />
-		F.  00 34 966 640 557<br />
-		M. 00 34 635 584 908<br />
-		<a href="mailto:info@paquitorentacar.com">info@paquitorentacar.com</a>		</p>
-
-		<p>
-		<strong>OPENING HOURS</strong> <br />
-		Monday to Friday<br />
-		Morning: From 08:30 until 13:30 Afternoon: from 16:00 until 20:00<br />
-		Saturdays morning: From 09:30 until 13:00		</p>
-	</div>
-</div>
-
-
-
-<div class="sucursal">
-	<iframe width="335" height="260" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps?f=q&amp;source=embed&amp;hl=es&amp;geocode=&amp;q=torrellano+juan+de+la+cierva,+38&amp;aq=&amp;sll=38.367434,-0.601844&amp;sspn=0.347242,0.727158&amp;ie=UTF8&amp;hq=&amp;hnear=Carrer+Juan+de+la+Cierva,+38,+03203+Elche,+Alicante,+Comunidad+Valenciana&amp;t=m&amp;ll=38.295663,-0.611286&amp;spn=0.017514,0.028667&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
-	<div class="content">
-		<h3>Elche Parque Empresarial</h3>
-
-<p>C/ Juan de la Cierva, 38<br />
-Torrellano (Alicante)<br />
-C.P. 03203<br />
-Spain</p>
-
-<p>T. 00 34 664 451 683<br />
-F.  00 34 965 682 824<br />
-<a href="mailto:torrellano@paquitorentacar.com">torrellano@paquitorentacar.com</a></p>
-
-<p><strong>OPENING HOURS</strong> <br />
-Monday to Friday <br />
-Morning: From 08:30 until 13:30 Afternoon: from 16:00 until 20:00 <br />
-Saturdays Morning: From 09:30 until 13:00</p>
-	</div>
-</div>
-
-<div class="sucursal">
-	<iframe width="335" height="260" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps?f=q&amp;source=embed&amp;hl=es&amp;geocode=&amp;q=sevilla,+30+san+fulgencio&amp;aq=&amp;sll=38.295736,-0.611338&amp;sspn=0.005263,0.011362&amp;ie=UTF8&amp;hq=&amp;hnear=Calle+de+Sevilla,+30,+03177+San+Fulgencio,+Alicante,+Comunidad+Valenciana&amp;t=m&amp;ll=38.13935,-0.672226&amp;spn=0.017552,0.028753&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
-	<div class="content">
-<h3>Urbanización La Marina - Sol</h3>
-<p>C/ Sevilla, 30<br />
-San Fulgencio (Alicante)<br />
-C.P. 03177<br />
-Spain</p>
-
+<h2>Fiestas </h2>
+<h4>Misteri d'Elx</h4>
 <p>
-T.  00 34 966 795 721<br />
-M. 00 34 644 016 061<br />
-<a href="mailto:urb.lamarina@paquitorentacar.com">urb.lamarina@paquitorentacar.com</a></p>
+Teatro medieval: <a href="<?php echo Yii::t('guia','link mas info misteri')?>">Informaci&oacute;n misteri </a>	
+</p>
+<h4>Fiestas de Agosto</h4> 
+<p>
+<a href=" <?php echo Yii::t('guia','link mas info moros y cristianos elche')?>">del 8 al 15 de Agosto</a>, <a href="http://www.comunitatvalenciana.com/ag/elx/elche/nit-de-lalba-en-elche-0">Nit del l''Alba</a>
+</p>
+<h4>Semana Santa</h4> 
+<p>
+<a href="<?php echo Yii::t('guia','link mas info domingo ramos elche')?>">Domingo de Ramos</a><br>
+</p>
 
-<p><strong>OPENING HOURS</strong> <br />
-Monday to Friday <br />
-Morning: 08:30 until 13:30 Afternoon: 16:00 until 20:00<br />
-Saturday morning: 09:30 a 13:00</P>
-	</div>
-</div>
+<h2>Hoteles </h2>
+<p><b>Hotel Huerto del Cura:</b> <br>Carrer de la Porta de la Morera, 14 <br>
+03203 Elche, Alicante<br>966 61 00 1</p>
+<p><b>Hotel Jard&iacute;n del milenio:</b> <br>Prolongaci&oacute;n de los curtidores, S/N<br> 
+03203 Elche, Alicante<br>
+966 61 20 33</p>
+<p><b>Hotel Tryp ciudad de Elche:</b> <br>Avinguda Joan Carles I, 7<br>
+03203 Elche, Alicante<br>
+966 61 00 33</p>
+<p><b>Hotel Ibis:</b> <br>Carrer Barchell, 5<br> 03203 Elche, Alicante<br>
+966 61 54 5</p>
+<p><b>Hotel Holiday Inn:</b> <br>Calle Miguel Servet<br>03203 Elche, Alicante
+<br>966 65 15 51</p>
+<h2><?php echo Yii::t('guia','imgAltRestaurante')?>s </h2>
+<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> El Granaino:</b> <br>Jos&eacute; Maria Buch, 40 <br>
+Elche, Alicante<br>966 664 080</p>
+<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> La Finca:</b> <br>Partida Perleta, Pol&iacute;gono 1, num 7, S/N<br> 
+03295 Elche, Alicante<br>
+965 45 60 07</p>
+<p><b>La Mas&iacute;a de Chencho:</b> <br>Partida de Jubalcoi, polig. 1, num 9<br>
+03295 Elche, Alicante<br>
+965 45 97 47 - 965 42 17 84</p>
+<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> Madeira:</b> <br>Calle de la Porta de la Morera, 5<br> 03203 Elche, Alicante<br>
+965 42 29 67</p>
+<p><b>El Misteri D'Anna:</b> <br>Partida Pe&ntilde;a &Aacute;guilas, 347<br>03296 Elche, Alicante
+<br>966 67 56 44</p>
+<p><b>Mes&oacute;n San Pl&aacute;cido:</b> <br>	Calle Infante Don Juan Manuel, 12<br>03203 Elche, Alicante
+<br>965 45 27 58</p>
+<h3><?php echo Yii::t('guia','Telefonos')?> Eclhe</h3>
+<?php echo Yii::t('guia','Policia')?> :112<br>
+Guardia Civil: 062<br>
+<?php echo Yii::t('guia','Bomberos')?> : 085<br>
+Hospital: 966679000<br>
+<?php echo Yii::t('guia','Mas Info')?> <a href="http://www.elchemotor.es/phones.htm"><?php echo Yii::t('guia','Aqui')?></a> </div></center>
+	  		

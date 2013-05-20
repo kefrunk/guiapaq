@@ -1,16 +1,23 @@
-<h1>Recorrido por la ciudad de Alicante</h1>
+<h1><?php echo Yii::t('guia','Recorrido por la ciudad de Alicante')?></h1>
 <p><?php echo Yii::t('guia','intro visita Alicante')?></p>	
 <h2> <?php echo Yii::t('guia','Cosas que visitar')?> </h2>
 <h4><?php echo Yii::t('guia','Puerto')?></h4>
 <h4>Mercado</h4>
+<p><?php echo Yii::t('guia','texto Mercado Alicante')?>
+<img align="left" height="200" src="imgGuia/mercado.jpg"></p>
 <h4>Explanada</h4> 
+<p><?php echo Yii::t('guia','texto Explanada Alicante')?>
+<img align="left" height="200" src="imgGuia/mercado.jpg"></p>
 <h4>Luceros</h4>
+<p><?php echo Yii::t('guia','texto Luceros Alicante')?>
+<img align="left" height="200" src="imgGuia/mercado.jpg"></p>
 <h4><?php echo Yii::t('guia','Castillo de Santa Barbara')?></h4>
 <h4><?php echo Yii::t('guia','Museos')?></h4>
 <p><?php echo Yii::t('guia','Museos Alicante parrafo 1')?></p>
 <h2><?php echo Yii::t('guia','Fiestas en Alicante')?>:</h2>
 <h4>Hogueras de San Juan:</h4>
-<p><?php echo Yii::t('guia','Hogueras Alicante parrafo 1')?> <br><a href="http://www.comunitatvalenciana.com/fiesta/costa-blanca-alacant/alicante-hogueras-de-san-juan-0"><?php echo Yii::t('guia','Mas Info')?> Hogueras</a> <br></p>
+<p><?php echo Yii::t('guia','Hogueras Alicante parrafo 1')?> 
+<br><a href="http://www.comunitatvalenciana.com/fiesta/costa-blanca-alacant/alicante-hogueras-de-san-juan-0"><?php echo Yii::t('guia','Mas Info')?> Hogueras</a> <br></p>
 <h4>Semana Santa:</h4>
 <p><a href="http://www.comunitatvalenciana.com/fiesta/costa-blanca-alacant/alicante-festividad-de-semana-santa-0"><?php echo Yii::t('guia','Mas Info')?> Semana Santa</a> <br></p>
 <h4>Santa Faz:</h4>

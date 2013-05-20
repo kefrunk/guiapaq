@@ -1,57 +1,51 @@
-<link rel="stylesheet" type="text/css" href="css/style26042013.css" />
+<h1><?php echo Yii::t('guia','Info Interes')?> Elche</h1> 
 
-<div class="sucursal">
-	<iframe width="335" height="260" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=alicante,+Avda.+Mare+Nostrum,+16-18&amp;aq=&amp;sll=40.2085,-3.713&amp;sspn=28.195439,34.936523&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Avinguda+Mare+Nostrum,+16,+03007+Alicante&amp;ll=38.342329,-0.524426&amp;spn=0.017503,0.028667&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
-	<div class="content">
-		<h3>Alicante</h3>
+<h2>Fiestas </h2>
+<h4>Misteri d'Elx</h4>
+<p>
+Teatro medieval: <a href="<?php echo Yii::t('guia','link mas info misteri')?>">Informaci&oacute;n misteri </a>	
+</p>
+<h4>Fiestas de Agosto</h4> 
+<p>
+<a href=" <?php echo Yii::t('guia','link mas info moros y cristianos elche')?>">del 8 al 15 de Agosto</a>, <a href="http://www.comunitatvalenciana.com/ag/elx/elche/nit-de-lalba-en-elche-0">Nit del l''Alba</a>
+</p>
+<h4>Semana Santa</h4> 
+<p>
+<a href="<?php echo Yii::t('guia','link mas info domingo ramos elche')?>">Domingo de Ramos</a><br>
+</p>
 
-		<p>
-			Avda. Mare Nostrum, 16-18 (Frente Makro)<br />
-			Alicante<br />
-			C.P. 03007<br />
-			Spain		</p>
-
-		<p>
-		T.  605 964 299<br />
-		F.  966 105 816<br />
-		<a href="mailto:alicante@paquitorentacar.com">alicante@paquitorentacar.com</a>		</p>
-
-		<p>
-		<strong>HORARIO</strong> <br />
-		Monday to Thrusday <br />
-		Morning: 08:00 a 13:30 Afternoon: 15:30 a 20:00<br />
-		Friday<br />
-		Morning: 08:00 a 13:30 Afternoon: 15:00 a 19:00<br />
-		Saturday<br />
-		Closed		</p>
-	</div>
-</div>
-
-
-
-
-
-<div class="sucursal">
-	<img src="/imgGuia/contacto_aeropuerto.jpg" />
-	<div class="content">
-		<h3>Alicante Airport</h3>
-		<p>
-		Parking de Larga Estancia <br />
-		Meeting point: Arrivals Terminal.<br />
-		El Altet - Elche<br /> (Alicante)<br />
-		C.P. 03195<br />
-		Spain		</p>
-
-		<p>
-		T.  00 34 966 634 888<br />
-		F.  00 34 966 640 557<br />
-		M. 00 34 635 584 908<br />
-		<a href="mailto:info@paquitorentacar.com">info@paquitorentacar.com</a>		</p>
-
-		<p>
-		<strong>OPENING HOURS </strong><br />
-		Everydays<br />
-		From 08:30 until 20:00 horas		</p>
-	</div>
-</div>
-
+<h2>Hoteles </h2>
+<p><b>Hotel Huerto del Cura:</b> <br>Carrer de la Porta de la Morera, 14 <br>
+03203 Elche, Alicante<br>966 61 00 1</p>
+<p><b>Hotel Jard&iacute;n del milenio:</b> <br>Prolongaci&oacute;n de los curtidores, S/N<br> 
+03203 Elche, Alicante<br>
+966 61 20 33</p>
+<p><b>Hotel Tryp ciudad de Elche:</b> <br>Avinguda Joan Carles I, 7<br>
+03203 Elche, Alicante<br>
+966 61 00 33</p>
+<p><b>Hotel Ibis:</b> <br>Carrer Barchell, 5<br> 03203 Elche, Alicante<br>
+966 61 54 5</p>
+<p><b>Hotel Holiday Inn:</b> <br>Calle Miguel Servet<br>03203 Elche, Alicante
+<br>966 65 15 51</p>
+<h2><?php echo Yii::t('guia','imgAltRestaurante')?>s </h2>
+<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> El Granaino:</b> <br>Jos&eacute; Maria Buch, 40 <br>
+Elche, Alicante<br>966 664 080</p>
+<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> La Finca:</b> <br>Partida Perleta, Pol&iacute;gono 1, num 7, S/N<br> 
+03295 Elche, Alicante<br>
+965 45 60 07</p>
+<p><b>La Mas&iacute;a de Chencho:</b> <br>Partida de Jubalcoi, polig. 1, num 9<br>
+03295 Elche, Alicante<br>
+965 45 97 47 - 965 42 17 84</p>
+<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> Madeira:</b> <br>Calle de la Porta de la Morera, 5<br> 03203 Elche, Alicante<br>
+965 42 29 67</p>
+<p><b>El Misteri D'Anna:</b> <br>Partida Pe&ntilde;a &Aacute;guilas, 347<br>03296 Elche, Alicante
+<br>966 67 56 44</p>
+<p><b>Mes&oacute;n San Pl&aacute;cido:</b> <br>	Calle Infante Don Juan Manuel, 12<br>03203 Elche, Alicante
+<br>965 45 27 58</p>
+<h3><?php echo Yii::t('guia','Telefonos')?> Eclhe</h3>
+<?php echo Yii::t('guia','Policia')?> :112<br>
+Guardia Civil: 062<br>
+<?php echo Yii::t('guia','Bomberos')?> : 085<br>
+Hospital: 966679000<br>
+<?php echo Yii::t('guia','Mas Info')?> <a href="http://www.elchemotor.es/phones.htm"><?php echo Yii::t('guia','Aqui')?></a> </div></center>
+	

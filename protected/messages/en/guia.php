@@ -19,7 +19,11 @@ return array(
 		//Vega Baja
 	'intro playas Vega Baja' => 'En dirección sur desde la desembocadura del río Segura en Guardamar hasta la provincia de Murcia, se extienden gran cantidad de playas, algunas de ellas verdaderos paraísos mediterráneos.  Torrevieja destaca con las playas de los locos, el cura, los naúfragos y La mata. Orihuela Costa con La Zenia, playa flamenca y ya l	indando con Murcia y muy cerquita de Cartagena encontramos las hermosas playas de Pilar de la Horadada.',
 	'intro Guardamar' =>'<p>Situada en la costa sur de Alicante, Guardamar del Segura alberga un litoral con unas playas de arena de gran calidad, el exotismo de sus dunas que guardan vestigios de civilizaciones pasadas y una completa gama de servicios turísticos para disfrutar de la estancia. Dunas y pinares conforman un atractivo paisaje que invita al recreo y el esparcimiento.',
-		//Alt imagenes playas
+	'intro torrevieja' =>'Torrevieja es una ciudad costera que posee un extenso litoral de playas. Es un destino ideal para disfrutar del mar, tomar el sol o relajarse en cualquiera de las playas que cuentan con todo tipo de servicios como restaurantes, cafeterías, juegos lúdicos, vigilancia, puestos de información, bandera con el estado de la mar, lavapies y acceso para minusválidos. Además algunas de ellas están ubicadas en el paseo marítimo un lugar ideal para pasear.',
+	'intro orihuela costa' => 'Orihuela Costa cuenta con 16 kilómetros de costa en los que se alternan acantilados de aguas transparentes y playas de fina arena de reconocido prestigio. ',
+	'intro playas pilarhoradada' => 'El litoral de Pilar de la Horadada se extiende a lo largo de más de cuatro kilómetros, en los que encontramos tanto playas extensas de fina arena blanca en intenso contraste con el mar azul como pequeños cantiles rocosos, que se adentran en el mar y esconden calas de arena dorada.', 
+
+	//Alt imagenes playas
 	'imgAltPlayaAbierta' => 'Playa Abierta',
 	'imgAltPlayaSemiurbana' => 'Playa Semi Urbana',
 	'imgAltEstadodelmar'  => 'Estado del mar',
@@ -100,6 +104,9 @@ return array(
 	'Recorrido por la ciudad de Alicante' =>'Recorrido por la ciudad de Alicante',
 	'intro visita Alicante' => 'La ciudad de Alicante es uno de los destinos más visitados en España debido a la gran variedad de alternativas turísticas que ofrece. Aquí se expone información sobre algunos de los encantos de esta ciudad que nadie debe perderse',
 	'Puerto'=>'Puerto de Alicante',
+	'texto Mercado Alicante' => 'texto Mercado Alicante',
+	'texto Explanada Alicante' => 'texto Explanada Alicante',
+	'texto Luceros Alicante' => 'texto Luceros Alicante',
 	'Castillo de Santa Barbara' => 'Castillo de Santa Barbara',
 	'Museos' =>'Museos',
 	'Museos Alicante parrafo 1' => 'Museos Alicante parrafo 1',
@@ -131,11 +138,12 @@ return array(
 	
 	
 	//-------------INFORMACION DE INTERES------------//
-	
-	'subtitulo elche Fiestas' => 'Fiestas',
-	'subtitulo elche Hoteles' => 'Hoteles',
-	'subtitulo elche Restaurantes' => 'Restaurantes',
-	'subtitulo elche Telofonos' => 'Telefonos de Interes',
+	'Info Interes' => 'Informaci&oacute;n de Inter&eacute;s',
+	'Fiestas' => 'Fiestas',
+	'Hoteles' => 'Hoteles',
+	'Restaurantes' => 'Restaurantes',
+	'Telefonos' => 'Telefonos de Interes',
+	'Policia' => 'Policia',
 	
 	//------------------------------------------------//
 	
@@ -147,14 +155,23 @@ return array(
 	'elchetitulo' => 'Elche y Comarca',
 	'vinalopotitulo' => 'Vinalopo Medio y Alto',
 	'y' => 'y',
+	'Aqui' => 'Aqu&iacute;',
 	
 	//-------------------------------//
-	
-	'elchetitulo'     
+	     
 	
 	//---------LINKS EXTERNOS PARA DIFERENTES IDIOMAS--------//
 	
-	
+	'link mas info guardamar' => 'http://www.comunitatvalenciana.com/contenido/buscador/0?type=playa&amp;zona_turistica=0&amp;municipios=2119&amp;nombre_p=&amp;order=alfabetico&amp;tipo_order=asc&amp;serv_a=0&amp;serv_p=0&amp;serv_e=0',
+	'link mas info gran playa' => 'http://www.comunitatvalenciana.com/playa/costa-blanca-santa-pola-gran-playa-0',
+	'link mas info playa levante' => 'http://www.comunitatvalenciana.com/playa/costa-blanca-santa-pola-playa-llevant-0',
+	'link mas info calas santa pola' => 'http://www.comunitatvalenciana.com/playa/costa-blanca-santa-pola-calas-santa-pola-del-este-0',
+	'link mas info playa varadero' => 'http://www.comunitatvalenciana.com/playa/costa-blanca-santa-pola-playa-varadero-0',
+	'link mas info playa tamarit' => 'http://www.comunitatvalenciana.com/playa/costa-blanca-santa-pola-playa-tamarit-0',
+	'link mas info playa la marina' =>'http://www.comunitatvalenciana.com/playa/costa-blanca-elx/elche-playa-la-marina-0',
+	'link mas info misteri' => 'http://www.comunitatvalenciana.com/fiesta/sin-zona-sin-muni-misteri-delx-0',
+	'link mas info domingo ramos elche' => 'http://www.comunitatvalenciana.com/fiesta/sin-zona-sin-muni-procesion-del-domingo-de-ramos-0',
+	'link mas info moros y cristianos elche' => 'http://www.comunitatvalenciana.com/fiesta/costa-blanca-elx/elche-moros-y-cristianos-0',
 	
 	//-------------------------------------------------------//
 );
