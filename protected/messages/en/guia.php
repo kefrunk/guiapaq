@@ -119,10 +119,57 @@ return array(
 	
 	//Elche
 	'Recorrido por la comarca del Baix Vinalopo' =>'Recorrido por la comarca del Baix Vinalopo<br>Elche, Crevillente y Santa Pola',
-	'intro visita Elche' => 'La ciudad de Elche...',
+	'intro visita Elche' => 'La ciudad de Elche cuenta con dos patrimonios de la humanidad, el Misterio de Elche y su extenso palmeral así como la cesión temporal de la Dama de Elche. Los orígenes de Elche se remontan hacia el año 500 a. C., en la era del Neolítico, cuando los primeros hombres poblaron la ladera noreste de lo que hoy se conoce como La Alcudia.
+							 Adéntrense en este oasis mediterr&aacuteneo de palmeras y disfruten de sus patrimonios y su historia',
+	'intro MAHE' => 'El Museo Arqueológico y de Historia de Elche (MAHE) se ha convertido en un referente arqueológico a nivel regional de gran importancia. Está situado en el interior del Palacio de Altamira (Alcázar de la Señoría), en el centro histórico de Elche, muy cercano a la Basílica de Santa María. El MAHE fue inaugurado el día 18 mayo del 2006 con una gran exposición sobre la cultura ibérica entre la que se encontraba la Dama de Elche, una de las piezas más significativas del arte íbero.',
+	'intro historia elche' => 'En el siglo V a. C. se fundó la ciudad ibera de Ilici, momento en el que se esculpe el busto conocido como la Dama de Elche',
+	'intro alcudia' => 'El yacimiento arqueológico de La Alcudia y el Museo Monográfico La Alcudia se encuentran ubicados en el término municipal de Elche, en la carretera CV-855 Elche-Dolores, en el km. 2.
+						En él pueden visitarse monumentos de época ibérica, romana y visigoda. Destacan casas, baños, templos, edificios públicos y una buena parte de su muralla.',
+	'intro palmeral' => 'El Parmeral de Eclhe ha sido proclamadopatrrimonio de la humanidad por la UNESCO, conforma una gran extensión de palmeras datileras dentro del casco urbano de la ciudad. Es el palmeral más grande de Europa y en el mundo sólo le superan algunos palmerales árabes. Según la tradición fueron los fenicios quienes introdujeron la palmera en estas tierras, aunque el trazado del Palmeral se consolidó durante la etapa musulmana.',
+	'intro huerto del cura' =>'El Huerto del Cura es un jardín botánico de unos 13.000 m², densamente poblado de palmeras. Forman parte de la colección botánica plantas de los huertos mediterráneos, como granados, azofaifos, naranjos, higueras y limoneros, a los que se han ido añadiendo con el tiempo plantas de origen subtropical y una colección de cactus. Este Huerto, debe su nombre al capellán José Castaño Sánchez, que fue su propietario hasta el año 1918.',
+	'intro centro de Elche' =>'Recorriendo el centro de la ciudad, el viajero se encontrarácon monuemntos hist&oacute;ricos como el castillo del siglo XII, denominado Palacio de Altamira. Tambi&eacute; se podr&aacute; visitar la bas&iacute;lica de Santa Maria, de origen barroco, donde tiene lugar la representaci&oacute;n del misteri d Elx.<br>De gran valor e interés son también dos edificios de origen musulmán, como la Torre de la Calahorra y los Baños Árabes.',
+	'intro outlets elche' => 'Elche es una ciudad tradicionalmente dedicada a la industria del calzado. Actualmente las grandes empresas del calzado tienen presencia en el Parque empresarial de Elche, situado a 7 Km del centro de la ciudad en direcci&oacute;n al aeropuerto, donde adem&aacute;s se ubican 319 empresas de todos los sectores, capitaneadas por el calzado y el textil. Estas grandes factor&iacute;as ofrecen tambi&eacute;n venta al por menor a precios bastante bajos',
+	'intro Crevillente'=> 'Crevillente es una ciudad perteneciente a la comarca del Baix Vinalopó junto con Elche y Santa Pola. Est&aacute; ciudad situada a pies de una sierra que mantiene la compleja trama urbana característica de sus orígenes islámicos. 
+							Se enorgullece de sus tradiciones, camina hacia la cultura y hace, de su principal actividad, un arte. 
+							Cuenta con dos grandes festividades: la de Moros y Cristianos declarada Fiestas de Interés Turístico Nacional, 
+							junto con la celebración de la Semana Santa.
+							Crevillente también ha destacado por su tradicional industria alfombrera, que le ha conferido el sobrenombre de Ciudad de la Alfombra. ',
+	'intro sierra Crevillente' => 'La ciudad se situa bajo la Sierra llamada de Crevillent, que pertenece a las cordilleras Subbéticas, en la que se encuentran las máximas alturas del término, 
+									separando la Cuenca del Segura y la llanura litoral del Sur de los Hondones y el Valle medio del Vinalopó al Norte.
+									Es un agradable espacio natural concienciadamente conservado donde se puede parar un buen dia de excursion en familia. Las principales rutas y senderos las
+									pueden encontrar aqu&iacute;:',
+	'intro Hondo' => 'Este parque natural consta de dos lagunas y destaca por su avifauna. De las múltiples especies existentes destacan la cerceta pardilla y la malvasía cabeciblanca con dos de las principales poblaciones mundiales. Existe una gran abundancia de garzas en la época de cría destacando entre todas la garza imperial, el martinete y la garcilla cangrejera. También es posible encontrar otras especies como la avoceta, la cigüeñuela, la canastera, la focha cornuda, el pájaro moscón o el carricerín real. Entre las rapaces destacan el águila pescadora, el aguilucho lagunero y el águila moteada.',
+
+	'intro alfombras Crevillente' => 'Las alfombras de Crevillente son de reconocida calidad mundial. Existen varias empresas dedicadas a este sector, destacamos
+						 las m&aacute;s famosas:
+						<p>Alfombras Nelo<br>
+						Gutierre de Cardenas, 9, Crevillente<br>
+						Tel: +34 966 68 13 40<br><br>
+						Alfombras Belka<br>
+						Av de San Vicente Ferrer,20 Crevillent<br>
+						Tel: +34 965 40 36 51
+						</p>',
+						
 	//Vega Baja
 	'Recorrido por la comarca de la Vega baja' =>'Recorrido por la comarca de la Vega Baja',
-	'intro visita Vegabaja' => 'La ciudad de Orihuela...',
+	'intro visita Vegabaja' => 'La Vega Baja del Segura tiene un gran n&uacute;mero de playas de arena y agradables paisajes que garantizan una oferta turística de calidad. 
+								Además de las conocidas ofertas Turísticas de la costa como por ejemplo Torrevieja, esta comarca tambien posee encantos relacionados con
+								su huerta, su sierra, su gente y su particular gastronomía muy ligada a la huerta y al mar. Sin olvidar la rica cultura y patrimonio
+								historico de ciudades como Orihuela.',
+	
+	'intro orihuela 1' => 'Orihuela es un municipio situado en una privilegiada y colorida zona del sureste español. 
+							Capital de la Comarca de la Vega Baja, Orihuela representa la gama de colores propia del mediterráneo español. Es un lugar próspero en agricultura, 
+							en patrimonio artístico monumental, y alberga joyas de la arquitectura histórica mediterránea.',
+	'intro orihuela 2' => 'Ciudad natal de Miguel Hernández, en sus calles se encuentran motivos de la vida y obra de uno de los poetas españoles más internacionales. 
+							Orihuela es uno de los principales destinos turísticos de la Comunidad Valenciana. Una ciudad que alberga multitud de tesoros, 
+							como la obra de Diego Silva Velázquez “La Tentación de Santo Tomás”, y obras únicas del genial escultor Francisco Salzillo. 
+							Parte de esa variedad artística se puede contemplar en la Semana Santa, declarada en 2010 de Interés Turístico Internacional.',
+	'intro casa miguel hernandez' => 'En el museo se conserva junto con mobiliario y ajuar de la época, fotografías de distintos momentos de la vida del poeta.<br><br>
+									Horario: de martes a sábado de 10:00 a 14:00 horas y de 16:00 a 19:00 horas. Domingos y festivos de 10.00 a 14:00 horas.
+									<br>Mas info sobre la casa de Miguel Hern&aacute;ndez Aqu&iacute; <a href="http://culturaorihuela.es/mh/mh/mh.html">www.culturaorihuela.es</a>',
+	'intro sierra orihuela' => 'La sierra de Orihuela forma parte de las estribaciones béticas meridionales. Se trata de una sierra de relieve abrupto formada por materiales calizos que contrasta con la llanura aluvial del río Segura. Destaca la Cruz de la Muela, cuya cima es bastante frecuentada por senderistas',
+	'intro gastronomia orihuela' => 'La cocina de Orihuela se elabora con productos de su fértil huerta, consiguiendo unos deliciosos sabores y unos platos saludables',
+	'intro torrevieja natural' => 'Torrevieja presenta una oferta turistica alternativa a la playa, con el parque natural de las salinas y el museo del mar y la sal.',
 	//Vinalopo medio y alto
 	'Recorrido por las comarcas del Vinalopo' =>'Recorrido por las comarcas del Vinalopo',
 	'intro visita Vinalopo' => 'La ciudad de Elda...',
@@ -172,6 +219,11 @@ return array(
 	'link mas info misteri' => 'http://www.comunitatvalenciana.com/fiesta/sin-zona-sin-muni-misteri-delx-0',
 	'link mas info domingo ramos elche' => 'http://www.comunitatvalenciana.com/fiesta/sin-zona-sin-muni-procesion-del-domingo-de-ramos-0',
 	'link mas info moros y cristianos elche' => 'http://www.comunitatvalenciana.com/fiesta/costa-blanca-elx/elche-moros-y-cristianos-0',
+	'link mas info hondo'  => 'http://parquesnaturales.gva.es/web/indice.aspx?nodo=2984',
+	'link mas info sierra crevillente1' => 'http://www.cma.gva.es/web/indice.aspx?nodo=5277&idioma=C',
+	'link mas info sierra crevillente2' => 'http://www.cma.gva.es/web/indice.aspx?nodo=5279&idioma=C',
+	'link mas info sierra crevillente3' => 'http://www.cma.gva.es/web/indice.aspx?nodo=5278&idioma=C',
+	'link mas info sierra orihuela1' => 'http://www.cma.gva.es/web/indice.aspx?nodo=5312&idioma=C',
 	
 	//-------------------------------------------------------//
 );
