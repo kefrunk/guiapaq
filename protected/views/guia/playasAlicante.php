@@ -27,7 +27,7 @@
 							 
 			                    <img src="/imgGuia/accminus.gif" alt="<?php echo Yii::t('guia','imgAltAccesomovreducida')?>" title="<?php echo Yii::t('guia','imgAltAccesomovreducida')?>"/>
 							 
-			                    <img src="/imgGuia/plataform.gif" alt="Plataforma Flotantes" title="Plataforma Flotantes"/>
+			                    <img src="/imgGuia/plataform.gif" alt="Plataforma <?php echo Yii::t('guia','imgAltPlataformasFlotantes')?>" title="Plataforma <?php echo Yii::t('guia','imgAltPlataformasFlotantes')?>"/>
 							 
 			                    <img src="/imgGuia/restaurante.gif" alt="<?php echo Yii::t('guia','imgAltRestaurante')?>" title="<?php echo Yii::t('guia','imgAltRestaurante')?>"/>
 							 
@@ -132,7 +132,7 @@
 							 
 			                    <img src="/imgGuia/restaurante.gif" alt="<?php echo Yii::t('guia','imgAltRestaurante')?>" title="<?php echo Yii::t('guia','imgAltRestaurante')?>"/>
 							 
-			                    <img src="/imgGuia/plataform.gif" alt="Plataforma Flotantes" title="Plataforma Flotantes"/>
+			                    <img src="/imgGuia/plataform.gif" alt="Plataforma <?php echo Yii::t('guia','imgAltPlataformasFlotantes')?>" title="Plataforma <?php echo Yii::t('guia','imgAltPlataformasFlotantes')?>"/>
 							 
 			                    <img src="/imgGuia/accminus.gif" alt="<?php echo Yii::t('guia','imgAltAccesomovreducida')?>" title="<?php echo Yii::t('guia','imgAltAccesomovreducida')?>"/>
 							 
@@ -225,7 +225,7 @@
 							 
 			                    <img src="/imgGuia/playaurban.gif" alt="Playa Urbana" title="Playa Urbana"/>
 							 
-			                    <img src="/imgGuia/arenagruesa.gif" alt="Arena Gruesa" title="Arena Gruesa"/>
+			                    <img src="/imgGuia/arenagruesa.gif" alt="<?php echo Yii::t('guia','imgAltArenaGruesa')?>" title="<?php echo Yii::t('guia','imgAltArenaGruesa')?>"/>
 							 
 			                    <img src="/imgGuia/hoteles.gif" alt="Hoteles" title="Hoteles"/>
 					    

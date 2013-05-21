@@ -37,6 +37,8 @@ return array(
 	'imgAltBanderazul' =>'Bandera Azul',
 	'imgAltPlayavirgen' =>'Playa Virgen',
 	'imgAltMotoagua' => 'Moto deAgua',
+	'imgAltPlataformasFlotantes' => 'Plataformas Flotantes',
+	'imgAltArenaGruesa' => 'Arena gruesa',
 	
 	'Mas Info' => 'Mas Info',
 	
@@ -102,19 +104,36 @@ return array(
 	
 	//Alicante
 	'Recorrido por la ciudad de Alicante' =>'Recorrido por la ciudad de Alicante',
-	'intro visita Alicante' => 'La ciudad de Alicante es uno de los destinos más visitados en España debido a la gran variedad de alternativas turísticas que ofrece. Aquí se expone información sobre algunos de los encantos de esta ciudad que nadie debe perderse',
-	'Puerto'=>'Puerto de Alicante',
-	'texto Mercado Alicante' => 'texto Mercado Alicante',
-	'texto Explanada Alicante' => 'texto Explanada Alicante',
-	'texto Luceros Alicante' => 'texto Luceros Alicante',
-	'Castillo de Santa Barbara' => 'Castillo de Santa Barbara',
-	'Museos' =>'Museos',
-	'Museos Alicante parrafo 1' => 'Museos Alicante parrafo 1',
+	'intro visita Alicante' => 'La ciudad de Alicante es uno de los destinos más visitados en España debido a la gran variedad de alternativas turísticas que ofrece. Aquí se expone información sobre algunos de los encantos de esta ciudad que nadie debe perderse.',
+	'Puerto'=>' La declaración de la ciudad de Alicante como Puerto Público del Mediterráneo se remonta a 1271, 
+				según el privilegio otorgado por Alfonso X el Sabio.
+				El puerto como obra de ingeniería, un espigón de piedra que se adentra en el mar, no empezará a construirse hasta 1476, 
+				durante el reinado de Juan II.
+				Históricamente, el puerto ha tenido un papel decisivo en el comercio de la ciudad de Alicante.
+				Hoy día es en un gran centro de paseo turístico, lleno de tiendas, restaurantes, cafeterías, Púb. musicales.
+				Es un gran placer pasear con el mar de fondo o hacer excursiones en barco',
+	'texto Mercado Alicante' => 'El Mercado Central de Alicante (España) situado en la Avenida Alfonso X el Sabio, es un edificio de estilo ecléctico con ornamentos modernistas que fue proyectado por el arquitecto Enrique Sánchez Sedeño y construido en 1921 por el arquitecto Juan Vidal Ramos',
+	'texto Explanada Alicante' => 'La Explanada de España, también conocida como Paseo de la Explanada, es un paseo marítimo de la ciudad de Alicante (España). Se extiende paralela al puerto, desde la Puerta del Mar hasta el Parque de Canalejas, y es una de las vías más populares de la ciudad.',
+	'texto Luceros Alicante' => 'This is one of the most emblematic squares in Alicante. Located right in the heart of the city centre, it is here that the famous firecracker displays are held every year as part of Alicante’s main festivals, las Hogueras.	',
+	'Castillo de Santa Barbara 2' => 'En el castillo de Santa Bárbara está situado el MUSA(Museo de la ciudad de Alicante). La visita al Castillo se puede realizar todos los días del año. <a href="http://www.alicante.es/redir.php?apartado=cultura&pagina=museos-santabarbara.html&titulo=Castillo%20de%20Santa%20B%E1rbara%20-%20Patronato%20Municipal%20de%20Cultura%20/%20Ayuntamiento%20de%20Alicante">Aquí </a>puede encontrar los horarios de los ascensores',
+	'Castillo de Santa Barbara 1' => 'El castillo de Santa Bárbara se encuentra ubicado en el centro de la ciudad de Alicante, sobre el monte Benacantil, mole rocosa de 166 m de altitud lindante con el mar, lo que le confería un enorme valor estratégico ya que desde la misma se divisa toda la bahía de Alicante y sus alrededores terrestres.
+									En sus laderas se han encontrado restos arqueológicos de la Edad del Bronce, ibéricos y de la época romana, si bien el origen de la actual fortaleza hay que buscarlo a finales del siglo IX cuando la dominación musulmana.',
+	
+	'intro Museos' =>'La ciudad de Alicante cuenta con algunos museos de importancia',
+	'Museos Alicante MACA' => 'Situado en el casco antiguo de la ciudad. El pilar básico del MACA es la Colección Arte Siglo XX donada por el artista alicantino Eusebio Sempere en 1977. Formada por pinturas, esculturas, técnicas mixtas y litografías de artistas españoles y extranjeros, como Dalí, Picasso, Chillida, Manolo Millares, Pablo Serrano, Joan Miró, Kandinsky, Chagall o Vasarely.',
+	'Museos Alicante MUBAG' => 'Museo principalmente dedicado a la pintura y escultura alicantina, desde el siglo XVI hasta las primeras décadas del siglo XX.',
+	'Museos Alicante MARQ' => 'Presenta piezas arqueológicas de toda la provincia, desde la Edad de Piedra hasta la Edad Moderna, como la dama ibérica de Cabezo Lucero. Destaca por su estética innovadora y la utilización de métodos audiovisuales: no en vano, fue galardonado como "Museo Europeo del Año" en el 2004.',
+	'Museos Alicante otros' => 'Destacan otros museos como el Museo de la Universidad de Alicante, el Museo del Agua-Pozos de Garrigós,Museo de Belenes, o el Museo de las Hogueras',
 	'Fiestas en Alicante' =>'Fiestas en Alicante',
-	'Hogueras Alicante parrafo 1' => 'Del 20 al 24 de Junio',
+	'Hogueras Alicante parrafo 1' => 'Esta fiesta se remonta a los tiempos en que los labradores alicantinos celebraban el día más largo del año para las recolección de las cosechas y la noche más corta para la destrucción de los males
+									Hoy en dia las Hogueras de San Juan son las fiestas oficiales de la ciudad de Alicante y están declaradas de Interés Turístico Internacional.',
+									 
+	'Hogueras Alicante parrafo 2' => 'Del 17 al 20 de junio se plantan las "hogueras" que son monumentos artísticos de madera, cartón, corcho y pintura que contienen una profunda carga satírica. Cuatro días más tarde se queman después de lanzarse una monumental palmera de fuegos artificiales desde el monte Benacantil, donde se encuentra el Castillo de Santa Bárbara, y que es visible prácticamente desde cualquier punto de la ciudad. Cada Hoguera representa a una calle, zona o barrio de la ciudad.',
+	'intro semana santa' => 'La celebración de la semana santa tiene gran importancia en Alicante',
 	'Carnavales' => 'Carnavales',
+	'intro Carnavales' => 'Entre los 10 mejores carnavales en Espa&ntilde;a, abierto a todo el mundo',
 	'Comarca de Alicante' => 'Comarca de Alicante',
-	'santa faz parrafo 1'=>'Segunda semana siguiente a Jueves santo',
+	'santa faz parrafo 1'=>'La multitudinaria romería de la Santa Faz se realiza la segunda semana siguiente a Jueves santo, en un solo día. Muy temprano, se reparten las cañas de romero y, antes de llegar hasta el monasterio, el almuerzo se marca como una parada obligatoria.',
 	'Tranvia Alicante Parrafo 1' =>'Tranvia Alicante Parrafo 1',
 	
 	//Elche
@@ -172,7 +191,16 @@ return array(
 	'intro torrevieja natural' => 'Torrevieja presenta una oferta turistica alternativa a la playa, con el parque natural de las salinas y el museo del mar y la sal.',
 	//Vinalopo medio y alto
 	'Recorrido por las comarcas del Vinalopo' =>'Recorrido por las comarcas del Vinalopo',
-	'intro visita Vinalopo' => 'La ciudad de Elda...',
+	'intro visita Vinalopo' => 'Desde las cumbres de la sierra de Mariola, el río Vinalopó inicia su andadura por las tierras de las comarcas a las que da nombre. El río atraviesa su cuenca compuesta de valles dispuestos entre elevadas sierras. Para conocer estas tierras hace falta recorrer sus caminos, perderse en las callejas medievales de las poblaciones y visitar sus castillos.
+								El paisaje cambia a cada paso. El pino, la coscoja, el espino negro y el tomillo están presentes en los montes donde se refugia el zorro, la liebre, la perdiz o las rapaces. En contraste con ellos, en el llano, los campos de almendros y olivos alternan con extensos viñedos.
+								Además de aconsejar la visita a los castillos y viñedos en la seccion(link viñedos)
+								también invitamos al viajero a no perderse la belleza de las ciudades de esta comarca',
+	'intro novelda' => 'Novelda is a city in the south of the Community of Valencia. It is located in the region called Valle Medio del Vinalopó, on the right-hand bank of the Vinalopó River, at over a height of 241 m above the sea level. It is 17 km away from El Altet international airport and 28 km from Alicante city.',
+	'intro villena' => 'Villena está situada al noroeste de la provincia de Alicante, en la comarca del Alto Vinalopó. Se encuentra en una importante encrucijada de caminos entre las Comunidades valenciana, murciana y castellano-manchega',
+	'intro visita Elda' =>'Elda es la ciudad más importante del valle del Vinalopó, situada a tan solo 40 Km del aeropuerto y cuenta con una gran oferta turística: espacios naturales, fiestas, monumentos, ocio y gastronomía, cualidades que, sin duda, la hacen una ciudad atractiva para visitar.
+							La razón por la que Elda es conocida su industria basada especialmente en el calzado y la marroquinería.
+							Conocidas son también las fiestas de Moros y cristianos, de gran espectacularidad y a destacar la Plaza Castelar, perfecta para pasear y relajarse, el Museo Arqueológico y Etnológico y el Teatro Castelar.',
+	'intro moros y cristianos' => 'La fiesta de Moros y Cristianos de Villena se celebra del 4 al 9 de septiembre en honor a Nuestra Señora de las Virtudes, patrona de la ciudad y está reconocida como Fiesta de Interés Turístico.1 Es una multitudinaria representación de varios millares de personas que se visten de moros, estudiantes, guerreros, labradores, etc. a lo largo de cinco días.La fiesta en sí se celebra del 5 al 9 de septiembre y está estructurada mediante la participación de catorce comparsas, siete de ellas pertenecientes al bando Moro y otras tantas al bando Cristiano, compuestas cada una de ellas por varios cientos de participantes de ambos sexos. Una de las peculiaridades de las fiestas villenenses es que se sigue incluyendo la figura de la Mahoma2 durante la representación de las embajadas.</p>',
 	'Plano ciudad de Elda' => 'Plano ciudad de Elda',
 	'Donde comer en Elda' => 'Donde comer en Elda',
 	'Museo del calzado' =>'Museo del calzado',
@@ -224,6 +252,8 @@ return array(
 	'link mas info sierra crevillente2' => 'http://www.cma.gva.es/web/indice.aspx?nodo=5279&idioma=C',
 	'link mas info sierra crevillente3' => 'http://www.cma.gva.es/web/indice.aspx?nodo=5278&idioma=C',
 	'link mas info sierra orihuela1' => 'http://www.cma.gva.es/web/indice.aspx?nodo=5312&idioma=C',
+	'link mas info novelda' => 'http://www.novelda.es/home.php?idioma=2',
+	'link mas info villena' => 'http://www.turismovillena.com/',
 	
 	//-------------------------------------------------------//
 );
