@@ -4,7 +4,6 @@
 <p><?php echo Yii::t('guia','intro visita Elda')?></p>	
 <p><img width="100%" height="280" src="/imgGuia/elda1.jpg"></p>
 <p><a class="enlacetipo1" href="http://www.elda.es/index.php/en/rutas-outlets-calzado-elda/258/descargar/archivo-adjunto/2621"><?php echo Yii::t('guia','Plano ciudad de Elda')?></a><br>
-<a class="enlacetipo1" href="http://www.elda.es/index.php/en/rutas-outlets-calzado-elda/258/descargar/archivo-adjunto/2626"><?php echo Yii::t('guia','Donde comer en Elda')?></a><br></p>
 <h3><?php echo Yii::t('guia','Museo del calzado')?></h3> <p><a class="enlacetipo1" href="http://www.museocalzado.com/"><?php echo Yii::t('guia','Museo del calzado')?></a></p>
 <h3>Outlets Elda</h3> <p><a class="enlacetipo1" href="http://www.elda.es/index.php/en/rutas-outlets-calzado-elda/258/">Outlets Elda</a>
 <br><a class="enlacetipo1" href="http://www.elda.es/index.php/en/rutas-outlets-calzado-elda/258/descargar/archivo-adjunto/3035">OutletsElda.pdf</a><br></p>

@@ -125,9 +125,9 @@ return array(
 	'Museos Alicante MARQ' => 'Presenta piezas arqueológicas de toda la provincia, desde la Edad de Piedra hasta la Edad Moderna, como la dama ibérica de Cabezo Lucero. Destaca por su estética innovadora y la utilización de métodos audiovisuales: no en vano, fue galardonado como "Museo Europeo del Año" en el 2004.',
 	'Museos Alicante otros' => 'Destacan otros museos como el Museo de la Universidad de Alicante, el Museo del Agua-Pozos de Garrigós,Museo de Belenes, o el Museo de las Hogueras',
 	'Fiestas en Alicante' =>'Fiestas en Alicante',
+	'intro hogueras' => 'La celebración más importante que tiene lugar en la ciudad de Alicante son sin duda las Hogueras de San Juan',
 	'Hogueras Alicante parrafo 1' => 'Esta fiesta se remonta a los tiempos en que los labradores alicantinos celebraban el día más largo del año para las recolección de las cosechas y la noche más corta para la destrucción de los males
-									Hoy en dia las Hogueras de San Juan son las fiestas oficiales de la ciudad de Alicante y están declaradas de Interés Turístico Internacional.',
-									 
+									Hoy en dia las Hogueras de San Juan son las fiestas oficiales de la ciudad de Alicante y están declaradas de Interés Turístico Internacional.',								 
 	'Hogueras Alicante parrafo 2' => 'Del 17 al 20 de junio se plantan las "hogueras" que son monumentos artísticos de madera, cartón, corcho y pintura que contienen una profunda carga satírica. Cuatro días más tarde se queman después de lanzarse una monumental palmera de fuegos artificiales desde el monte Benacantil, donde se encuentra el Castillo de Santa Bárbara, y que es visible prácticamente desde cualquier punto de la ciudad. Cada Hoguera representa a una calle, zona o barrio de la ciudad.',
 	'intro semana santa' => 'La celebración de la semana santa tiene gran importancia en Alicante',
 	'Carnavales' => 'Carnavales',
@@ -159,15 +159,8 @@ return array(
 									pueden encontrar aqu&iacute;:',
 	'intro Hondo' => 'Este parque natural consta de dos lagunas y destaca por su avifauna. De las múltiples especies existentes destacan la cerceta pardilla y la malvasía cabeciblanca con dos de las principales poblaciones mundiales. Existe una gran abundancia de garzas en la época de cría destacando entre todas la garza imperial, el martinete y la garcilla cangrejera. También es posible encontrar otras especies como la avoceta, la cigüeñuela, la canastera, la focha cornuda, el pájaro moscón o el carricerín real. Entre las rapaces destacan el águila pescadora, el aguilucho lagunero y el águila moteada.',
 
-	'intro alfombras Crevillente' => 'Las alfombras de Crevillente son de reconocida calidad mundial. Existen varias empresas dedicadas a este sector, destacamos
-						 las m&aacute;s famosas:
-						<p>Alfombras Nelo<br>
-						Gutierre de Cardenas, 9, Crevillente<br>
-						Tel: +34 966 68 13 40<br><br>
-						Alfombras Belka<br>
-						Av de San Vicente Ferrer,20 Crevillent<br>
-						Tel: +34 965 40 36 51
-						</p>',
+	'intro alfombras Crevillente' => 'Las alfombras de Crevillente son de reconocida calidad mundial. Existen varias empresas dedicadas a este sector.',
+						 
 						
 	//Vega Baja
 	'Recorrido por la comarca de la Vega baja' =>'Recorrido por la comarca de la Vega Baja',

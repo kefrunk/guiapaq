@@ -43,24 +43,38 @@ class GuiaController extends Controller
 		$this->render('playasVegabaja');
 	}
 	
-	public function actionInfoAlicante()
+	public function actionPlayasBenidorm()
 	{
-		$this->render('infoAlicante');
+		$this->render('playasBenidorm');
 	}
 	
-	public function actionInfoElche()
+	public function actionHotelesAlicante()
 	{
-		$this->render('infoElche');
+		$this->render('hotelesAlicante');
 	}
 	
-	public function actioninfoVinalopo()
+	public function actionHotelesElche()
 	{
-		$this->render('infoVinalopo');
+		$this->render('hotelesElche');
 	}
 	
-	public function actionInfoVegabaja()
+	public function actionHotelesVinalopo()
 	{
-		$this->render('infoVegabaja');
+		$this->render('hotelesVinalopo');
+	}
+	
+	public function actionHotelesVegabaja()
+	{
+		$this->render('hotelesVegabaja');
+	}
+	
+	public function actionHotelesBenidorm()
+	{
+		$this->render('hotelesBenidorm');
+	}
+	public function actionHotelesElda()
+	{
+		$this->render('hotelesElda');
 	}
 	
 	public function actionCastillosVinalopo()
@@ -78,6 +92,11 @@ class GuiaController extends Controller
 		$this->render('escapadasVinalopo');
 	}
 	
+	public function actionEscapadasAlcoy()
+	{
+		$this->render('escapadasAlcoy');
+	}
+	
 	public function actionEscapadasAlicante()
 	{
 		$this->render('escapadasAlicante');
@@ -86,6 +105,16 @@ class GuiaController extends Controller
 	public function actionEscapadasElche()
 	{
 		$this->render('escapadasElche');
+	}
+	
+	public function actionEscapadasBenidorm()
+	{
+		$this->render('escapadasBenidorm');
+	}
+	
+	public function actionEscapadasJavea()
+	{
+		$this->render('escapadasJavea');
 	}
 	
 	public function actionGolfAlicante()
@@ -98,10 +127,47 @@ class GuiaController extends Controller
 		$this->render('golfVegabaja');
 	}
 	
+	public function actionfiestasVinalopo()
+	{
+		$this->render('fiestasVinalopo');
+	}
+	
 	public function actionGolfVinalopo()
 	{
 		$this->render('golfVinalopo');
 	}
+	
+	public function actionfiestasElche()
+	{
+		$this->render('fiestasElche');
+	}
+	
+	public function actionfiestasAlicante()
+	{
+		$this->render('fiestasAlicante');
+	}
+	
+	public function actionfiestasVegaBaja()
+	{
+		$this->render('fiestasVegaBaja');
+	}
+		
+	public function actiongastronomiaProvincia()
+	{
+		$this->render('gastronomiaProvincia');
+	}
+	
+	public function actiongastronomiaVegaBaja()
+	{
+		$this->render('gastronomiaVegabaja');
+	}
+	
+	public function actionTurismoRural()
+	{
+		$this->render('turismoRural');
+	}
+	
+	
 	// Uncomment the following methods and override them if needed
 	/*
 	public function filters()

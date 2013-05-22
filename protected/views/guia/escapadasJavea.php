@@ -27,7 +27,7 @@
 <a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info sierra crevillente2')?>" target="_blank">PR-CV 109</a> Ruta Senda Dolça<br>
 <a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info sierra crevillente3')?>" target="_blank">PR-CV 110</a> Ruta Els Anouers<br></p>
 <h3>Parque natural del Hondo:</h3>
-<p><?php echo Yii::t('guia','intro Hondo')?><br>
+<p><?php echo Yii::t('guia','intro Hondo')?><br><br>
 <a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info hondo')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a></p>
 <h3>Alfombras de Crevillente</h3>
 <p><?php echo Yii::t('guia','intro alfombras Crevillente')?></p>

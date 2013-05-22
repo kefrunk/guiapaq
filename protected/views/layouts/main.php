@@ -62,40 +62,54 @@
 
 				<ul id="treemenu2" class="treeview">
 				
-				<li>Hoteles
+				<li>Hoteles y Restaurantes
 					<ul>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/infoAlicante">Hoteles en Alicante</a></li>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/infoelche">Hoteles en Elche</a>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/infovegabaja">Hoteles en Orihuela</a>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/infovinalopo">Hoteles en Elda</a>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesAlicante">Hoteles y Restaurantes en Alicante</a></li>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesBenidorm">Hoteles en Benidorm</a>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hoteleselche">Hoteles y Restaurantes en Elche</a>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesvegabaja">Hoteles y Restaurantes en Orihuela</a>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesElda">Hoteles y Restaurantes en Elda</a>
 					</ul>
 				</li>
-				<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/turismorural">Turismo Rural</a></li>
+				<li>Turismo Rural
+					<ul>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/turismorural">Turismo Rural Alicante</a></li>
+					</ul>
+				</li>
 				<li>Guia Gastronomica
 					<ul>
 						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/gastronomiaVegaBaja">Guía Gastronómica Vega Baja</a></li>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/gastronomiaElche">Guía Gastronómica Elche</a></li>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/gastronomiaAlicante">Guía Gastronómica Alicante</a></li>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/gastronomiaProvincia">Guía Gastronómica Alicante</a></li>
 					</ul>
 				</li>
 				<li>Playas
 					<ul>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasAlicante">Playas en Alicante</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasAlicante">Playas en El Campello</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasBenidorm">Playas en Benidorm</a></li>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasElche">Playas en Elche</a></li>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasElche">Playas en Santa Pola</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasvegabaja">Playas en Guardamar</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasvegabaja">Playas en Torrevieja</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasvegabaja">Playas en Orihuela Costa</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasvegabaja">Playas en Bajo Segura</a></li>
+					</ul>
+				</li>
+				
+				<li>Escapadas
+					<ul>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasAlicante">Escapadas Alicante</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasElche">Escapadas Elche</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasVegabaja">Escapadas Orihuela y Torrevieja</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasBenidorm">Escapadas Benidorm</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasJavea">Javea-Calpe-Denia</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/castillosvinalopo">Castillos del Vinalopó</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasAlcoy">Jijona-Alcoy-Ibi</a></li>
 					</ul>
 				</li>
 				
 				<li>Fiestas
 					<ul>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasalicante">Fiestas en Alicante</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadaselche">Fiestas en Elche</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasvegabaja">Fiestas en Vega Baja</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasvinalopo">Moros y Cristianos</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/fiestasalicante">Fiestas en Alicante</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/fiestaselche">Fiestas en Elche</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/fiestasvegabaja">Fiestas en Vega Baja</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/fiestasvinalopo">Moros y Cristianos</a></li>
 					</ul>
 				</li>
 
