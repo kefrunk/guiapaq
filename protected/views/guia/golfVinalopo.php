@@ -4,7 +4,7 @@
 3670 Monforte del Cid (Alicante)<br>
 Tel.: +34 965620521<br>
 e-mail:cadymaster@alendagolf.com
-<br><a href="http://www.alendagolf.com/">Web Site</a><br></p>
+<br><a class="enlacetipo1" href="http://www.alendagolf.com/">Web Site</a><br></p>
 
 <p><h2>Font del Llop</h2>
 Ctra.Alicante-Aspe (CV.847), km 3.5<br>
@@ -12,4 +12,4 @@ Ctra.Alicante-Aspe (CV.847), km 3.5<br>
 GPS lat, long: 38.343608 N, 0.71085 W<br>
 Tel.:34 96.612.67.67<br>
 e-mail:info@fdlgolf.es<br>
-<a href="http://fdlgolf.es">Web Site</a></p>
+<a class="enlacetipo1" href="http://fdlgolf.es">Web Site</a></p>

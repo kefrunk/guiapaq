@@ -1,65 +1,52 @@
-<link rel="stylesheet" type="text/css" href="css/style26042013.css" />
+<h1><?php echo Yii::t('guia','Info Interes')?> Elche</h1> 
 
-<div class="sucursal">
-	<iframe width="335" height="260" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=d&amp;source=embed&amp;saddr=38.182389,-0.864294&amp;daddr=&amp;geocode=&amp;hl=es&amp;mra=dme&amp;mrsp=0&amp;sz=16&amp;sll=38.18217,-0.864894&amp;sspn=0.007472,0.013754&amp;ie=UTF8&amp;t=m&amp;ll=38.181715,-0.864787&amp;spn=0.004385,0.007167&amp;z=16&amp;output=embed"></iframe>
-	<div class="content">
-<h3>Albatera</h3>
-<p>Carretera Nacional 340, km 700<br />
-Albatera (Alicante)<br />
-C.P. 03340<br />
-España</p>
-
-<p>T.  00 34 965 485 494<br/>
-F.  00 34 965 485 969<br/>
-M. 00 34 651 850 326 - 00 34 615 276 645<br/>
-<a href="mailto:albatera@paquitorentacar.com">albatera@paquitorentacar.com</a></p>
-
-<p><strong>HORARIO</strong> <br/>
-Lunes a Sábados <br />
-De 09:00 a 21:00 h</p>
-	</div>
-</div>
-
-
-
-<div class="sucursal">
-	<iframe width="335" height="260" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps?f=q&amp;source=embed&amp;hl=es&amp;geocode=&amp;q=orihuela+pintor+agrasot&amp;sll=40.396764,-3.713379&amp;sspn=9.483886,23.181152&amp;ie=UTF8&amp;hq=&amp;hnear=Calle+del+Pintor+Agrasot,+03300+Orihuela,+Alicante,+Comunidad+Valenciana&amp;t=m&amp;ll=38.084108,-0.93298&amp;spn=0.017565,0.028667&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
-	<div class="content">
-<h3>Orihuela</h3>
-<p>C/ Pintor Agrasot, 82<br />
-Orihuela (Alicante)<br />
-C.P. 03300<br />
-España</p>
-
+<h2>Fiestas mas importantes en la Vega Baja</h2>
+<h3>Fiestas en Orihuela</h3>
+<h3>Fiestas en el resto de municipios</h3>
 <p>
-T.  00 34 966 744 621<br />
-F. 00 34 966 739 048<br />
-<a href="mailto:orihuela@paquitorentacar.com">orihuela@paquitorentacar.com</a></p>
+Teatro medieval: <a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info misteri')?>">Informaci&oacute;n misteri </a>	
+</p>
+<h3>Fiestas de Agosto</h3> 
+<p>
+<a class="enlacetipo1" href=" <?php echo Yii::t('guia','link mas info moros y cristianos elche')?>">del 8 al 15 de Agosto</a>, <a class="enlacetipo1" href="http://www.comunitatvalenciana.com/ag/elx/elche/nit-de-lalba-en-elche-0">Nit del l''Alba</a>
+</p>
+<h3>Semana Santa</h3> 
+<p>
+<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info domingo ramos elche')?>">Domingo de Ramos</a><br>
+</p>
 
-<p><strong>HORARIO</strong> <br />
-Lunes a Viernes <br />
-Mañana: 08:30 to 14:00 Tardes: 16:00 to 20:00<br />
-Sábados Mañana: 09:30 a 13:00</p>
-	</div>
-</div>
-
-
-<div class="sucursal">
-	<iframe width="335" height="260" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps/ms?ll=38.105242,-0.78321&amp;spn=0.003558,0.005423&amp;t=m&amp;z=18&amp;msa=0&amp;msid=217725632104017612370.0004d7e16ee3450f9f468&amp;output=embed"></iframe>
-	<div class="content">
-		<h3>Almoradí</h3>
-
-<p>Carretera Almoradi-Rojales km 2<br />
-Almoradí (Alicante)<br />
-C.P. 03160<br />
-España</p>
-
-<p>T. 00 34 654 382 363<br />
-<a href="mailto:almoradi@paquitorentacar.com">almoradi@paquitorentacar.com</a></p>
-
-<p><strong>HORARIO</strong> <br />
-		Lunes a Viernes <br />
-		Mañana: 08:30 a 13:30 Tardes: 16:00 a 20:00 Sábados <br />
-		Mañana: 09:30 a 13:00</p>
-	</div>
-</div>
+<h2>Hoteles </h2>
+<p><b>Hotel Huerto del Cura:</b> <br>Carrer de la Porta de la Morera, 14 <br>
+03203 Elche, Alicante<br>966 61 00 1</p>
+<p><b>Hotel Jard&iacute;n del milenio:</b> <br>Prolongaci&oacute;n de los curtidores, S/N<br> 
+03203 Elche, Alicante<br>
+966 61 20 33</p>
+<p><b>Hotel Tryp ciudad de Elche:</b> <br>Avinguda Joan Carles I, 7<br>
+03203 Elche, Alicante<br>
+966 61 00 33</p>
+<p><b>Hotel Ibis:</b> <br>Carrer Barchell, 5<br> 03203 Elche, Alicante<br>
+966 61 54 5</p>
+<p><b>Hotel Holiday Inn:</b> <br>Calle Miguel Servet<br>03203 Elche, Alicante
+<br>966 65 15 51</p>
+<h2><?php echo Yii::t('guia','imgAltRestaurante')?>s </h2>
+<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> El Granaino:</b> <br>Jos&eacute; Maria Buch, 40 <br>
+Elche, Alicante<br>966 664 080</p>
+<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> La Finca:</b> <br>Partida Perleta, Pol&iacute;gono 1, num 7, S/N<br> 
+03295 Elche, Alicante<br>
+965 45 60 07</p>
+<p><b>La Mas&iacute;a de Chencho:</b> <br>Partida de Jubalcoi, polig. 1, num 9<br>
+03295 Elche, Alicante<br>
+965 45 97 47 - 965 42 17 84</p>
+<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> Madeira:</b> <br>Calle de la Porta de la Morera, 5<br> 03203 Elche, Alicante<br>
+965 42 29 67</p>
+<p><b>El Misteri D'Anna:</b> <br>Partida Pe&ntilde;a &Aacute;guilas, 347<br>03296 Elche, Alicante
+<br>966 67 56 44</p>
+<p><b>Mes&oacute;n San Pl&aacute;cido:</b> <br>	Calle Infante Don Juan Manuel, 12<br>03203 Elche, Alicante
+<br>965 45 27 58</p>
+<h3><?php echo Yii::t('guia','Telefonos')?> Eclhe</h3>
+<?php echo Yii::t('guia','Policia')?> :112<br>
+Guardia Civil: 062<br>
+<?php echo Yii::t('guia','Bomberos')?> : 085<br>
+Hospital: 966679000<br>
+<?php echo Yii::t('guia','Mas Info')?> <a class="enlacetipo1" href="http://www.elchemotor.es/phones.htm"><?php echo Yii::t('guia','Aqui')?></a> </div></center>
+	  		

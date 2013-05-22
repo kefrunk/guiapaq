@@ -44,7 +44,7 @@
 </p> 
 <img src="/imgGuia/santapola1.jpg" width="185px" height="123px"> <img src="/imgGuia/santapola2.jpg" width="185px" height="123px"> 
 <p><?php echo Yii::t('guia','intro Gran Playa')?>
-<a href="<?php echo Yii::t('guia','link mas info gran playa')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a> </p>
+<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info gran playa')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a> </p>
 <h3> Playa Levante</h3> 
 <p>
 <img src="/imgGuia/playabierta.gif" alt="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>">
@@ -65,7 +65,7 @@
  <img src="/imgGuia/bandera_azul.gif" alt="<?php echo Yii::t('guia','imgAltBanderazul')?>" title="<?php echo Yii::t('guia','imgAltBanderazul')?>"></p> 
 <img src="/imgGuia/santapola3.jpg" width="185px" height="123px"> <img src="/imgGuia/santapola6.jpg" width="185px" height="123px"> 
 <p><?php echo Yii::t('guia','intro Playa Levante')?>
-<a href="<?php echo Yii::t('guia','link mas info playa levante')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a> </p>
+<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info playa levante')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a> </p>
 <h3> Calas </h3> 
 <p> <img src="/imgGuia/cala.gif" alt="Cala" title="Cala"> 
 <img src="/imgGuia/chiringuito.gif" alt="Chiringuito" title="Chiringuito"> 
@@ -76,7 +76,7 @@
 <img src="/imgGuia/cala1.jpg" width="185px" height="123px">
 <img src="/imgGuia/cala2.jpg" width="185px" height="123px"> 
 <p><?php echo Yii::t('guia','intro Calas Santa Pola')?>
-<a href="<?php echo Yii::t('guia','link mas info calas santa pola')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a></p>
+<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info calas santa pola')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a></p>
 <h3> Playa Varadero </h3> <p> 
 <img src="/imgGuia/playabierta.gif" alt="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>" title="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>"> 
 <img src="/imgGuia/playasemiurb.gif" alt="Playa Semi Urbana" title="Playa Semi Urbana"> 
@@ -92,7 +92,7 @@
 <img src="/imgGuia/parking.gif" alt="Parking" title="Parking"> <img src="/imgGuia/patines.gif" alt="Patines" title="Patines"> <img src="/imgGuia/bandera_azul.gif" alt="<?php echo Yii::t('guia','imgAltBanderazul')?>" title="<?php echo Yii::t('guia','imgAltBanderazul')?>"> </p> 
 <img src="/imgGuia/santapola4.jpg" width="185px" height="123px"> <img src="/imgGuia/santapola5.jpg" width="185px" height="123px"> 
 <p><?php echo Yii::t('guia','intro Varadero')?>
-<a href="<?php echo Yii::t('guia','link mas info playa varadero')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a></p>
+<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info playa varadero')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a></p>
 <h3>Playa Tamarit </h3> 
 <p> <img src="/imgGuia/deporti.gif" alt="<?php echo Yii::t('guia','imgAltJuegosDeportivos')?>" title="<?php echo Yii::t('guia','imgAltJuegosDeportivos')?>"> 
 <img src="/imgGuia/playabierta.gif" alt="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>" title="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>"> 
@@ -108,7 +108,7 @@
  <img src="/imgGuia/bandera_azul.gif" alt="<?php echo Yii::t('guia','imgAltBanderazul')?>" title="<?php echo Yii::t('guia','imgAltBanderazul')?>"> </p> 
 <img src="/imgGuia/santapola7.jpg" width="185px" height="123px"> <img src="/imgGuia/santapola8.jpg" width="185px" height="123px">
 <p><?php echo Yii::t('guia','intro Tamarit')?>
-<a href="<?php echo Yii::t('guia','link mas info playa tamarit')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a></p>
+<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info playa tamarit')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a></p>
 <h2>La Marina</h2> 
 <img src="/imgGuia/lamarina1.jpg" width="185px" height="123px"> <img src="/imgGuia/lamarina2.jpg" width="185px" height="123px">
 <p><?php echo Yii::t('guia','intro La Marina')?>
@@ -128,4 +128,4 @@
  <img src="/imgGuia/estadomar.gif" alt="<?php echo Yii::t('guia','imgAltEstadodelmar')?>" title="<?php echo Yii::t('guia','imgAltEstadodelmar')?>"/> 
  <img src="/imgGuia/playabierta.gif" alt="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>" title="<?php echo Yii::t('guia','imgAltPlayaAbierta')?>"/> 
  <img src="/imgGuia/bandera_azul.gif" alt="<?php echo Yii::t('guia','imgAltBanderazul')?>" title="<?php echo Yii::t('guia','imgAltBanderazul')?>"/> </p>
-<a href="<?php echo Yii::t('guia','link mas info playa la marina')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a> </p>
+<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info playa la marina')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a> </p>

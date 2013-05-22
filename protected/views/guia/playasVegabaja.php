@@ -2,7 +2,7 @@
 <p><?php echo Yii::t('guia','intro playas Vega Baja')?></p>
 <h2>Guardamar</h2>
 <p><?php echo Yii::t('guia','intro Guardamar')?>
-<br><a href="<?php echo Yii::t('guia','link mas info guardamar')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a>
+<br><a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info guardamar')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a>
 </p>
 <p><img src="/imgGuia/guardamar1.jpg" width="185px" height="123px">
 <img src="/imgGuia/guardamar2.jpg" width="185px" height="123px">

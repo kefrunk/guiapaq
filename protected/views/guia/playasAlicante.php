@@ -7,7 +7,7 @@
 <img src="/imgGuia/alicanteplaya4.jpg" width="185px" height="123px">
 <img src="/imgGuia/alicanteplaya5.jpg" width="185px" height="123px"></p>
 
-<div class="columnas1"> <div class="detalle"><h4><?php echo Yii::t('guia','Caracteristicas')?> playa de San Juan:</h4>
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa de San Juan:</h3>
 <ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>2900</li>
 <li><strong><?php echo Yii::t('guia','Anchura Media')?>: </strong>90</li>
 <li><strong><?php echo Yii::t('guia','Ocupacion')?> </strong><?php echo Yii::t('guia','Alta')?></li>
@@ -61,7 +61,7 @@
 			        
 			        
 
-<div class="columnas1"> <div class="detalle"><h4><?php echo Yii::t('guia','Caracteristicas')?> playa els Tossals:</h4>
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa els Tossals:</h3>
 <ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>1.672</li>
 <li><strong><?php echo Yii::t('guia','Anchura Media')?>: </strong>50</li>
 <li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Media')?></li>
@@ -88,7 +88,7 @@
 			        </div>
 			        
 </div>			        
-<div class="columnas1"> <div class="detalle"><h4><?php echo Yii::t('guia','Caracteristicas')?> playa de la Almadrava:</h4>
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa de la Almadrava:</h3>
 <ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>750</li>
 <li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>6</li>
 <li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Media')?></li>
@@ -109,7 +109,7 @@
 			        </div>
 </div>			        
 			        
-<div class="columnas1"> <div class="detalle"><h4><?php echo Yii::t('guia','Caracteristicas')?> playa de La Albufereta	:</h4>
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa de La Albufereta	:</h3>
 <ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>500</li>
 <li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>18</li>
 <li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Media')?></li>
@@ -150,7 +150,7 @@
 			        </div>
 			        
 </div>			        
-<div class="columnas1"> <div class="detalle"><h4><?php echo Yii::t('guia','Caracteristicas')?> playa del Postiguet:</h4>
+<div class="columnas1"> <div class="detalle"><h3><?php echo Yii::t('guia','Caracteristicas')?> playa del Postiguet:</h3>
 <ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>900</li>
 <li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>45</li>
 <li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Alta')?></li>
@@ -199,7 +199,7 @@
 </div>			        
 			        
 
-<h4><?php echo Yii::t('guia','Caracteristicas')?> playa de la isla de Tabarca:</h4>
+<h3><?php echo Yii::t('guia','Caracteristicas')?> playa de la isla de Tabarca:</h3>
 <ul><li><strong><?php echo Yii::t('guia','Longitud')?>: </strong>250</li>
 <li><strong><?php echo Yii::t('guia','Anchura media')?>: </strong>25</li>
 <li><strong><?php echo Yii::t('guia','Ocupacion')?>: </strong><?php echo Yii::t('guia','Alta')?></li>

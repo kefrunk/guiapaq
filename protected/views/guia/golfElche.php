@@ -1,8 +1,8 @@
 <h1><?php echo Yii::t('guia','Info Interes')?> Elche</h1> 
 <h2>Fiestas </h2>
-<h4>Misteri d''Elx</h4>Teatro medieval:  <a href="<?php echo Yii::t('guia','link mas info miisteri')?>">Informaci&oacute;n misteri </a>	
-<h4>Fiestas de Agosto</h4> <a href=" <?php echo Yii::t('guia','link mas info moros y cristianos elche')?>">del 8 al 15 de Agosto</a>, <a href="http://www.comunitatvalenciana.com/ag/elx/elche/nit-de-lalba-en-elche-0">Nit del l''Alba</a>
-<h4>Semana Santa</h4> <a href="<?php echo Yii::t('guia','link mas info domingo ramos elche')?>">Domingo de Ramos</a><br>
+<h3>Misteri d''Elx</h3>Teatro medieval:  <a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info miisteri')?>">Informaci&oacute;n misteri </a>	
+<h3>Fiestas de Agosto</h3> <a class="enlacetipo1" href=" <?php echo Yii::t('guia','link mas info moros y cristianos elche')?>">del 8 al 15 de Agosto</a>, <a class="enlacetipo1" href="http://www.comunitatvalenciana.com/ag/elx/elche/nit-de-lalba-en-elche-0">Nit del l''Alba</a>
+<h3>Semana Santa</h3> <a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info domingo ramos elche')?>">Domingo de Ramos</a><br>
 <h2>Hoteles </h2>
 <p><b>Hotel Huerto del Cura:</b> <br>Carrer de la Porta de la Morera, 14 <br>
 03203 Elche, Alicante<br>966 61 00 1</p>
@@ -36,5 +36,5 @@ Elche, Alicante<br>966 664 080</p>
 Guardia Civil: 062<br>
 <?php echo Yii::t('guia','Bomberos')?> : 085<br>
 Hospital: 966679000<br>
-<?php echo Yii::t('guia','Mas Info')?> <a href="http://www.elchemotor.es/phones.htm"><?php echo Yii::t('guia','Aqui')?></a> </div></center>
+<?php echo Yii::t('guia','Mas Info')?> <a class="enlacetipo1" href="http://www.elchemotor.es/phones.htm"><?php echo Yii::t('guia','Aqui')?></a> </div></center>
 	  		

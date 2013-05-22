@@ -6,7 +6,7 @@
  Alicante
 <br>Tel.:+34 965322011<br>
 e-mail:caddie@golframblas.com<br>
-<br><a href="http://www.grupoquara.com//">Web Site</a></p>  
+<br><a class="enlacetipo1" href="http://www.grupoquara.com//">Web Site</a></p>  
 	  		
 <p><h2>Golf & Country Club La Marquesa</h2>
 Avda. Justo Quesada, s/n  <br>
@@ -14,7 +14,7 @@ Avda. Justo Quesada, s/n  <br>
 Alicante
 <br>Tel.: +34 966714258<br>
 e-mail: info@lamarquesagolf.es
-<br><a href="http://www.lamarquesagolf.es/es//">Web Site</a></p>
+<br><a class="enlacetipo1" href="http://www.lamarquesagolf.es/es//">Web Site</a></p>
 	  		
 <p><h2>Golf La Finca</h2>
 Ctra. Algorfa Los Montesinos Km.3  <br>
@@ -22,4 +22,4 @@ Ctra. Algorfa Los Montesinos Km.3  <br>
 <br> Alicante
 <br>Tel.: +34 966729010<br>
 e-mail: golflafinca@grupoquara.com
-<br><a href="http://www.grupoquara.com//">Web Site</a></p>  
+<br><a class="enlacetipo1" href="http://www.grupoquara.com//">Web Site</a></p>  

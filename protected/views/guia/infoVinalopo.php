@@ -12,7 +12,7 @@ Spain</p>
 <p>T.  00 34 965 378 331<br />
 F.  00 34 965 378 528<br />
 M. 00 34 647 800 333<br />
-<a href="mailto:elda@paquitorentacar.com">elda@paquitorentacar.com</a></p>
+<a class="enlacetipo1" href="mailto:elda@paquitorentacar.com">elda@paquitorentacar.com</a></p>
 
 <p><strong>OPENING HOURS</strong> <br />
 Monday to Friday <br />
@@ -33,7 +33,7 @@ Spain</p>
 <p>
 F.  00 34 965 808 789<br />
 M. 00 34 664 452 119<br />
-<a href="mailto:villena@paquitorentacar.com">villena@paquitorentacar.com</a></p>
+<a class="enlacetipo1" href="mailto:villena@paquitorentacar.com">villena@paquitorentacar.com</a></p>
 
 <p><strong>OPENING HOURS</strong> <br />
 Monday to Friday <br />
@@ -53,7 +53,7 @@ Spain</p>
 <p>T.  00 34 965 602 431<br />
 F.  00 34 965 624 293<br />
 M. 00 34 670 076 299<br />
-<a href="mailto:elenovel@paquitorentacar.com">elenovel@paquitorentacar.com</a></p>
+<a class="enlacetipo1" href="mailto:elenovel@paquitorentacar.com">elenovel@paquitorentacar.com</a></p>
 
 <p><strong>OPENING HOURS</strong> <br />
 Monday to Saturday <br />

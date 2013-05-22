@@ -1,17 +1,17 @@
 <h1><?php echo Yii::t('guia','Info Interes')?> Elche</h1> 
 
 <h2>Fiestas </h2>
-<h4>Misteri d'Elx</h4>
+<h3>Misteri d'Elx</h3>
 <p>
-Teatro medieval: <a href="<?php echo Yii::t('guia','link mas info misteri')?>">Informaci&oacute;n misteri </a>	
+Teatro medieval: <a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info misteri')?>">Informaci&oacute;n misteri </a>	
 </p>
-<h4>Fiestas de Agosto</h4> 
+<h3>Fiestas de Agosto</h3> 
 <p>
-<a href=" <?php echo Yii::t('guia','link mas info moros y cristianos elche')?>">del 8 al 15 de Agosto</a>, <a href="http://www.comunitatvalenciana.com/ag/elx/elche/nit-de-lalba-en-elche-0">Nit del l''Alba</a>
+<a class="enlacetipo1" href=" <?php echo Yii::t('guia','link mas info moros y cristianos elche')?>">del 8 al 15 de Agosto</a>, <a class="enlacetipo1" href="http://www.comunitatvalenciana.com/ag/elx/elche/nit-de-lalba-en-elche-0">Nit del l''Alba</a>
 </p>
-<h4>Semana Santa</h4> 
+<h3>Semana Santa</h3> 
 <p>
-<a href="<?php echo Yii::t('guia','link mas info domingo ramos elche')?>">Domingo de Ramos</a><br>
+<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info domingo ramos elche')?>">Domingo de Ramos</a><br>
 </p>
 
 <h2>Hoteles </h2>
@@ -47,5 +47,5 @@ Elche, Alicante<br>966 664 080</p>
 Guardia Civil: 062<br>
 <?php echo Yii::t('guia','Bomberos')?> : 085<br>
 Hospital: 966679000<br>
-<?php echo Yii::t('guia','Mas Info')?> <a href="http://www.elchemotor.es/phones.htm"><?php echo Yii::t('guia','Aqui')?></a> </div></center>
+<?php echo Yii::t('guia','Mas Info')?> <a class="enlacetipo1" href="http://www.elchemotor.es/phones.htm"><?php echo Yii::t('guia','Aqui')?></a> </div></center>
 	  		
