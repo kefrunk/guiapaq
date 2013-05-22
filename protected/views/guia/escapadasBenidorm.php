@@ -1,33 +1,32 @@
-<h1><?php echo Yii::t('guia','Recorrido por la comarca del Baix Vinalopo')?></h1>
-<p><?php echo Yii::t('guia','intro visita Elche')?></p>	
+<h1><?php echo Yii::t('guia','Recorrido por Benidorm y alrededores')?></h1>
+<p><?php echo Yii::t('guia','intro visita Benidorm')?></p>	
 <h2> Cosas que visitar </h2>
-<p><iframe class="video" width="420" height="315" src="http://www.youtube.com/embed/LRvXN6bbXdw" frameborder="0" allowfullscreen></iframe></p>
-<h3>Historia &Iacute;bera</h3>
-<p><?php echo Yii::t('guia', 'intro historia elche')?></p>
-<h3> Yacimiento Arqueologico La Alcudia,</h3>
-<p><?php echo Yii::t('guia','intro alcudia')?></p>
-<h3>Museo Arqueologico y de Historia de Elche</h3> 
-<p><?php echo Yii::t('guia','intro MAHE')?></p>
-<h3>El Palmeral</h3>
-<p><?php echo Yii::t('guia','intro palmeral')?></p>
-<h3>Huerto del Cura</h3>
-<p><?php echo Yii::t('guia','intro huerto del cura')?></p>
-<h3>Centro de Elche</h3>
-<p><?php echo Yii::t('guia','intro centro de Elche')?></p>
-<h3>Ruta de Outlets Parque Empresarial</h3>
-<p><iframe class="video" width="420" height="315" src="http://www.youtube.com/embed/UE0leEfldt0" frameborder="0" allowfullscreen></iframe>
-<p><?php echo Yii::t('guia','intro outlets elche')?></p>
+<h3>La ciudad de Benidorm</h3>
+<p><?php echo Yii::t('guia', 'intro paseos Benidorm')?></p>
+<h3>Altea</h3>
+<p><?php echo Yii::t('guia', 'intro altea')?></p>
+<h3>Villajoyosa</h3>
+<p><?php echo Yii::t('guia', 'intro villajoyosa')?></p>
+<h3>Guadalest</h3>
+<p><?php echo Yii::t('guia', 'intro guadalest')?></p>
+<h3>Callosa d'En Sarrià, Fuentes rio algar</h3>
+<p><?php echo Yii::t('guia','intro algar')?></p>
+<h3>Puig campana, Escalada, deportes de avenrtura</h3>
+<p><?php echo Yii::t('guia','intro puig campana')?></p>
+<h3>coves del canelobre</h3>
+<p><?php echo Yii::t('guia','intro canelobre')?></p>
+<h3>La noche en Benidorm</h3>
+<p><?php echo Yii::t('guia','intro noche benidorm')?></p>
 
 
-<h2>Crevillente:</h2>
-<p><?php echo Yii::t('guia','intro Crevillente')?></p>
-<h3>Sierra de Crevillente:</h3>
-<p><?php echo Yii::t('guia','intro sierra Crevillente')?><br><br>
-<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info sierra crevillente1')?>" target="_blank">PR-CV 108</a> Serra de Crevillent<br>
-<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info sierra crevillente2')?>" target="_blank">PR-CV 109</a> Ruta Senda Dolça<br>
-<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info sierra crevillente3')?>" target="_blank">PR-CV 110</a> Ruta Els Anouers<br></p>
-<h3>Parque natural del Hondo:</h3>
-<p><?php echo Yii::t('guia','intro Hondo')?><br><br>
-<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info hondo')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?></a></p>
-<h3>Alfombras de Crevillente</h3>
-<p><?php echo Yii::t('guia','intro alfombras Crevillente')?></p>
+<h2>Parques Temáticos</h2>
+<p><?php echo Yii::t('guia','intro parques Benidorm')?></p>
+<h3>Terra Mítica</h3>
+<p><?php echo Yii::t('guia','intro terra mitica')?><br><br>
+<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info sierra crevillente1')?>" target="_blank">Pagina oficial del parque</a> <br>
+<h3>Aqualandia y Mundomar</h3>
+<p><?php echo Yii::t('guia','intro aqualandia')?><br><br>
+<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info hondo')?>" target="_blank"><?php echo Yii::t('guia','Mas Info')?> Aqualandia y Mundomar</a></p>
+<h3>Aqua Natura y Terra Natura</h3>
+<p><?php echo Yii::t('guia','intro terra natura')?><br><br>
+<a class="enlacetipo1" href="<?php echo Yii::t('guia','link mas info sierra crevillente1')?>" target="_blank">Pagina oficial del parque</a> <br></p>
