@@ -4,18 +4,28 @@
 <h3>La ciudad de Benidorm</h3>
 <p><?php echo Yii::t('guia', 'intro paseos Benidorm')?></p>
 <h3>Altea</h3>
+<p><img height="200" src="/imgGuia/Alicante-Promenade.jpg"></p>
 <p><?php echo Yii::t('guia', 'intro altea')?></p>
 <h3>Villajoyosa</h3>
+<p><img height="200" src="/imgGuia/Alicante-Promenade.jpg"></p>
 <p><?php echo Yii::t('guia', 'intro villajoyosa')?></p>
 <h3>Guadalest</h3>
+<p><img height="200" src="/imgGuia/Alicante-Promenade.jpg"></p>
 <p><?php echo Yii::t('guia', 'intro guadalest')?></p>
 <h3>Callosa d'En Sarrià, Fuentes rio algar</h3>
+<p><img height="200" src="/imgGuia/Alicante-Promenade.jpg"></p>
 <p><?php echo Yii::t('guia','intro algar')?></p>
 <h3>Puig campana, Escalada, deportes de avenrtura</h3>
+<p><img height="200" src="/imgGuia/Alicante-Promenade.jpg">
+<img height="200" src="/imgGuia/Alicante-Promenade.jpg"></p>
 <p><?php echo Yii::t('guia','intro puig campana')?></p>
 <h3>coves del canelobre</h3>
+<p><img height="200" src="/imgGuia/Alicante-Promenade.jpg"></p>
 <p><?php echo Yii::t('guia','intro canelobre')?></p>
 <h3>La noche en Benidorm</h3>
+<p><img height="200" src="/imgGuia/Alicante-Promenade.jpg">
+<img height="200" src="/imgGuia/Alicante-Promenade.jpg">
+<img height="200" src="/imgGuia/Alicante-Promenade.jpg"></p>
 <p><?php echo Yii::t('guia','intro noche benidorm')?></p>
 
 

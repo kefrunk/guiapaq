@@ -202,6 +202,13 @@ return array(
 	'Plano ciudad de Elda' => 'Plano ciudad de Elda',
 	'Donde comer en Elda' => 'Donde comer en Elda',
 	'Museo del calzado' =>'Museo del calzado',
+	//Benidorm
+	'intro benidorm' => '',
+	'intro altea' => 'El Pueblo de Altea se encuentra entre Benidorm y Calpe. Al norte, destaca la sierra Bernia, cuyo recortado perfil llega a 1.129 m. en su cumbre más alta. 
+					El río Algar, cruza el término de NO a SO y desemboca cerca del núcleo de la villa. 
+					El Casco Antiguo es ideal para perderse por su calles y disfrutar de sus miradores e impregnarse del ambiente del lugar.',
+	'intro algar' =>'',
+	
 	//Frases comunes escapadas
 	'Cosas que visitar' => 'Cosas que visitar', 
 	//---------------------------------------------//

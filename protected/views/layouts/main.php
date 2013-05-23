@@ -24,15 +24,10 @@
 			<a id="logo" href="/site/index">Paquito Rentacar</a>      
 			<header>
             <nav><ul id="yw0">
-			<li><a href="/site/index">reservas</a></li>
-			<li><a href="/grupo/index">flota</a></li>
-			<li><a href="/vehiculo/index">ocasion</a></li>
-			<li><a href="/oferta/index">oferta</a></li>
-			<li><a href="/site/empresa">empresa</a></li>
-			<li><a href="/recomendaciones/index">recomendaciones</a></li>
-			<li><a href="/noticias/index">noticias</a></li>
-			<li><a href="/site/condiciones">condiciones</a></li>
-			<li><a href="/site/contacto">contacto</a></li>
+			<li><a href="/vehiculo/index">Reservas paso2(fr)</a></li>
+			<li><a href="/oferta/index">Reservas paso2(de)</a></li>
+			<li><a href="/grupo/index">Otras traducciones</a></li>
+			<li><a href="/yii/guiapaq/?r=site/condiciones">Condiciones(de)</a></li>
 			</ul></nav><nav class="mobile-nav"><select name="menu" id="menu">
 			<option value="http://es.paquitorentacar.com/site/index">reservas</option>
 			<option value="http://es.paquitorentacar.com/grupo/index">flota</option>
