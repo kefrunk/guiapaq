@@ -222,6 +222,15 @@ return array(
 							  discotecas, algunos de ellos míticos de la zona mediterránea',
 	'intro parques Benidorm' => '<p>En Benidorm se encuentran los parques temáticos más importantes del levante español</p>',
 		'intro terra mitica' => 'Terra Mítica está basado en las antiguas civilizaciones del Mediterráneo, por lo que se distribuye en cinco zonas temáticas: Egipto, Grecia, Roma, Iberia y Las Islas. Sus principales atracciones son Magnus Colossus, una montaña rusa de madera; Titánide, una montaña rusa invertida con cinco inversiones; El Vuelo del Fénix, una torre de caída libre de 54 m; Synkope, un péndulo gigante; La Furia de Tritón, un "splash" con dos caídas de 10 y 17 metros de altura; e Inferno, una montaña rusa de cuarta generación en la que los carros giran verticalmente a su libre albedrío a lo largo de todo su recorrido.',
+	
+	//Javea, calpe, denia
+	'intro visita Javea' => 'Javeasnolnjsdf...',
+	'intro calpe' => 'Bajo la atenta vigilancia del acantilado más alto del Mediterráneo, el Peñón de Ifach, Calp ha crecido a ambos lados de la Gran Roca, símbolo e imagen de la Costa Blanca. Su condición de destino turístico desde los años 30 es debido, sobre todo, a la calidad de sus playas, de arena fina y la limpieza de sus aguas. El municipio guarda vestigios del pasado en su casco antiguo y curiosidades como las ruinas de los Baños de la Reina, y la de unas antiguas salinas. Su puerto pesquero presenta una imagen muy animada y junto a el se suceden restaurantes en los que degustar pescados y mariscos de la zona.',
+	
+	//Jijona ibi alcoy
+	'intro jijona' => 'jijona museo del turron ibi museo del juguet',
+
+	
 	//Frases comunes escapadas
 	'Cosas que visitar' => 'Cosas que visitar', 
 	//---------------------------------------------//
