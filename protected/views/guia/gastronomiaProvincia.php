@@ -1,7 +1,7 @@
 <h1><?php echo Yii::t('guia','Recorrido por la comarca de la Vega baja')?></h1>
 <p><?php echo Yii::t('guia','intro visita Vegabaja')?></p>	 
 
-
+En cuanto a la gastronomía de la capital de la Marina Baja, los platos más típicos son el arroz con judías al horno, la borreta de melva, la paella vilera, el arroz con espinacas y boquerón, la pebrereta, la sangre con cebolla, el pulpo a la vilera, el arroz con merluza, el caldero, el puchero con tarongetes, el arroz con cebolla y la coca escaldada. El Ayuntamiento de la ciudad, además, ha creado la marca ‘Vila Gastronòmica’, que sirve para promocionar la cocina y los productos alimenticios locales. Su contenido se articula en torno a tres alicientes gastronómicos esenciales: los restaurantes, el chocolate y la pesca. Para cada uno se ha diseñado un evento anual: la Mostra de Cuina Marinera, Xocolatíssima y la Festa del Peix Blau.
 
 <h2>Orihuela</h2>
 <p><?php echo Yii::t('guia','intro orihuela 1')?></p>

@@ -9,6 +9,7 @@
 <p><?php echo Yii::t('guia','intro orihuela 2')?></p>
 
 <h3>Casa Museo Miguel Hernandez</h3>
+<p><img width="32%" height="200" src="/imgGuia/museomiguelhernandez.jpg"></p>
 <p><?php echo Yii::t('guia','intro casa miguel hernandez')?></p><br>
 
 
@@ -19,6 +20,7 @@
 <a class="enlacetipo1" href="http://www.enorihuela.com/senderos.html" target="_blank">enorihuela.com</a> <br>
 </p><br>
 <h3>Gastronom&iacute;a de Orihuela</h3>
+<p><img width="32%" height="200" src="/imgGuia/gastronomiaorihuela1.jpg"></p>
 <p><?php echo Yii::t('guia','intro gastronomia orihuela')?><br>
 <a class="enlacetipo1" href="http://www.orihuelaturistica.es/index.php/gastronomia">Gastronomia de Orihuela</a>
 
@@ -30,9 +32,11 @@
 
 <h2>Torrevieja natural</h2>
 <p><?php echo Yii::t('guia','intro torrevieja natural')?><br>
+<p><img width="80%" height="200" src="/imgGuia/salinastorrevieja.jpg"></p>
 <h3>Parque Natural de las Salinas de La Mata y Torrevieja</h3>
 <p><a class="enlacetipo1" href="http://www.cma.gva.es/cidam/espacios/parques/folletos_electronicos/lamata/cas/index.html">Guia del Parque</a>	
 <br>Mas info del parque <a class="enlacetipo1" href="http://www.cma.gva.es/web/indice.aspx?nodo=2989">Aqui</a></p><br>
 <h3>Museo del mar y la Sal</h3>
+<p><img width="62%" height="200" src="/imgGuia/museomarysal.jpg"></p>
 <p>Horario e informacion <a class="enlacetipo1" href="http://www.comunitatvalenciana.com/museo/sin-zona-sin-muni-museo-del-mar-y-la-sal-0">Aqui</a></p>
 	  		

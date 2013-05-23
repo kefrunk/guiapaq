@@ -1,6 +1,6 @@
   <h1><?php echo Yii::t('guia','Playas')?></h1> 
 <p><?php echo Yii::t('guia','intro playas Elche')?></p>
-<p><iframe class="video" src="http://www.youtube.com/embed/g4PBYTdtfLs" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe class="video" width="70%" height="260px" src="http://www.youtube.com/embed/g4PBYTdtfLs" frameborder="0" allowfullscreen></iframe></p>
 <p><?php echo Yii::t('guia','intro playas Elche 2')?></p>
 <h2>Arenales del Sol</h2> 
 <p> 	

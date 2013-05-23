@@ -1,5 +1,5 @@
-<h1><?php echo Yii::t('guia','Recorrido por la comarca del Baix Vinalopo')?></h1>
-<p><?php echo Yii::t('guia','intro visita Elche')?></p>	
+<h1><?php echo Yii::t('guia','Recorriendo de Calpe hasta Denia')?></h1>
+<p><?php echo Yii::t('guia','intro visita Javea')?></p>	
 <h2> Cosas que visitar </h2>
 <p><iframe class="video" width="420" height="315" src="http://www.youtube.com/embed/LRvXN6bbXdw" frameborder="0" allowfullscreen></iframe></p>
 <h3>Historia &Iacute;bera</h3>

@@ -81,8 +81,7 @@
 					<ul>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasAlicante">Playas en Alicante</a></li>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasBenidorm">Playas en Benidorm</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasElche">Playas en Elche</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasElche">Playas en Santa Pola</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasElche">Playas en Elche/Santa Pola</a></li>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasvegabaja">Playas en Bajo Segura</a></li>
 					</ul>
 				</li>
@@ -93,7 +92,7 @@
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasElche">Escapadas Elche</a></li>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasVegabaja">Escapadas Orihuela y Torrevieja</a></li>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasBenidorm">Escapadas Benidorm</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasJavea">Javea-Calpe-Denia</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasJavea">Calpe-Javea-Denia</a></li>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/castillosvinalopo">Castillos del Vinalopó</a></li>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasAlcoy">Jijona-Alcoy-Ibi</a></li>
 					</ul>

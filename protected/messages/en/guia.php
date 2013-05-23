@@ -204,18 +204,39 @@ return array(
 	'Museo del calzado' =>'Museo del calzado',
 	//Benidorm
 	'intro benidorm' => '',
+	'intro paseos Benidorm' => 'Benidorm es una ciudad diseñada para pasar unas vacaciones inolvidables. 
+								<p>Además de las innumerables actividades que se pueden realizar alrededor de esta ciudad, a sólo escasos metros de las playas podemos disfrutar
+								de sus museos o monumentos como La iglesia de San Jaime y Santa Ana que se sitúa en la parte superior del pueblo antiguo, en lo alto del cerro Canfali</p><p>Benidorm dispone de uno de los puertos deportivos más amplios y modernos del litoral mediterráneo.</p>
+								<p>El Museo de cera esta situado en la Avenida Mediterráneo, cuenta con mas de 130 figuras de cera dispuestas en escenas. Se trata de una serie de personajes de todas las épocas hechos en cera y expuestos en sus ambientes típicos. José Ballester, colaborador de los principales museos de cera del mundo, realizo estas figuras. En su interior se encuentra el Museo de Arte Erótico.</p>',
 	'intro altea' => 'El Pueblo de Altea se encuentra entre Benidorm y Calpe. Al norte, destaca la sierra Bernia, cuyo recortado perfil llega a 1.129 m. en su cumbre más alta. 
 					El río Algar, cruza el término de NO a SO y desemboca cerca del núcleo de la villa. 
 					El Casco Antiguo es ideal para perderse por su calles y disfrutar de sus miradores e impregnarse del ambiente del lugar.',
-	'intro algar' =>'',
 	
+	'intro villajoyosa' => 'Viyajoyosa es una bella ciudad donde se pueden observar sus carácteristicas casas de colores, o el
+							museo del chocolate, ya que la industria del chocolate es de gran tradición en Villajoyosa',
+	'intro guadalest' => 'Todo viajero que pase por la Costa Blanca tiene una cita obligatoria con Guadalest.',
+	'intro algar' =>'Las fuentes del río Algar constituyen un paraje natural con un elevado grado de conservación de la riqueza ecológica y dotado, a la vez, de servicios turísticos y de educación medioambiental. Este espacio fue declarado Zona Húmeda protegida por Acuerdo del Gobierno Valenciano de 10 de septiembre de 2002.',
+	'intro escalada benidorm' =>'Muy cerca de Benidorm se pueden encontrar sitios ideales para escalada además de pozas y otras maravillas de la naturaleza',
+	'intro canelobre' => 'Las cuevas del canelobre se encuentran en el municipio de Busot a sólo 16km de Alicante y a 35 kilomtros del Aeropuierto de Alicante',
+	'intro noche benidorm' =>'Sin duda uno de losprincipales atractivos de Benidorm es su ocio nocturno por la calidad de locales, pubs y
+							  discotecas, algunos de ellos míticos de la zona mediterránea',
+	'intro parques Benidorm' => '<p>En Benidorm se encuentran los parques temáticos más importantes del levante español</p>',
+		'intro terra mitica' => 'Terra Mítica está basado en las antiguas civilizaciones del Mediterráneo, por lo que se distribuye en cinco zonas temáticas: Egipto, Grecia, Roma, Iberia y Las Islas. Sus principales atracciones son Magnus Colossus, una montaña rusa de madera; Titánide, una montaña rusa invertida con cinco inversiones; El Vuelo del Fénix, una torre de caída libre de 54 m; Synkope, un péndulo gigante; La Furia de Tritón, un "splash" con dos caídas de 10 y 17 metros de altura; e Inferno, una montaña rusa de cuarta generación en la que los carros giran verticalmente a su libre albedrío a lo largo de todo su recorrido.',
 	//Frases comunes escapadas
 	'Cosas que visitar' => 'Cosas que visitar', 
 	//---------------------------------------------//
 	
 	
-	
-	
+	//------------------FIESTAS-----------------------//
+	//Elche
+	'intro fiestas elche1'=>'Del 8 al 15 de Agosto la ciudad de Elche se viste de fiesta celebrándose eventos de todo tipo: Moros y cristianos, Charangas, conciertos gratuitos, desfiles, espectáculos pirotécnicos...',
+	'intro fiestas elche2'=>'Destacable es la noche del día 13 conocida como nit de l´Albà. A las 23:15 de esta noche, los ilicitanos disparan continuamente fuegos artificiales desde las terrazas de los edificios, creando un espectáculo pirotécnico sin igual (son lanzados unos 17.000kg netos de polvora). Esta tradición, que se remonta a la Edad Media, era en su origen un modo que tenían las familias de agradecer a la Virgen los hijos que habían tenido (lanzando un cohete por cada hijo).',
+	'intro semana santa elche' => 'La semana santa en Elche es una celebración de gran importancia, teniendo su mayor atractivo en el domingo de ramos',
+	'intro misteri elche' =>'El Misterio de Elche, es un tesoro cultural del pueblo de Elche y una de las joyas más preciadas del patrimonio valenciano, como prueban su declaración como Monumento Nacional el año 1931, y su inclusión, en el año 2001, en la primera Proclamación de las Obras Maestras del Patrimonio Oral e Inmaterial de la Humanidad por la UNESCO.',
+	//Vega baja
+	'intro semana santa orihuela' => 'La Semana Santa de Orihuela, es una de las expresiones religioso-culturales más destacas de España, declarada de interés turístico internacional,1 2 representa otro atractivo cultural de la ciudad junto a su casco histórico declarado Conjunto Histórico-artístico y Monumental desde 1969. Hay procesiones el Viernes de Pasión o de Dolores y todos los días de la Semana Santa desde Domingo de Ramos hasta Domingo de Resurrección, siendo la Procesión General del Viernes santo una de las más grandes de España al recoger diez cofradías y más de 8000 nazarenos, 1200 músicos, dos centurias romanas, y una centuria de Guardia Pretoriana. De especial singularidad es la procesión del Silencio, que se celebra en Jueves Santo desde la Real y Majestuosa Iglesia de Santiago de Orihuela donde es posible escuchar el sobrecogedor Canto de la Pasión.',
+	'intro feria mayo torrevieja'=>'Lo que en origen fue una fiesta de sevillanas entre amigos, el tiempo la ha configurado como una de las celebraciones más importantes de la localidad, una fiesta surgida en el año 1987 al calor de un por aquel entonces pueblo de Torrevieja. Tanto es así que ha sido Declarada Fiesta de Interés Turístico de la Comunitat Valenciana. El evento, que se extiende de miércoles a domingo, comienza con la inauguración y el encendido de la feria. A este acto se unen bailes, paseos de caballos, espectáculos ecuestres y actuaciones diarias que hacen la convierten en una experiencia inolvidable.',
+	//------------------------------------------------//
 	
 	//-------------INFORMACION DE INTERES------------//
 	'Info Interes' => 'Informaci&oacute;n de Inter&eacute;s',

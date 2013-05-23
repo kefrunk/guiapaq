@@ -18,6 +18,8 @@
 <p><iframe class="video" width="420" height="315" src="http://www.youtube.com/embed/UE0leEfldt0" frameborder="0" allowfullscreen></iframe>
 <p><?php echo Yii::t('guia','intro outlets elche')?></p>
 
+jijona museo del turron
+ibi museo del juguete
 
 <h2>Crevillente:</h2>
 <p><?php echo Yii::t('guia','intro Crevillente')?></p>
