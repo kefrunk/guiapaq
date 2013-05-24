@@ -51,42 +51,40 @@
 		<div id="wrapper">
 			<div id="contentWrapper">
 				<aside id="sidebar">
-				 <p>GUIA TURISTICA</p>
-
-				
-
+				<div id="nav_guia">		
+				<p> &nbsp;</p>
 				<ul id="treemenu2" class="treeview">
 				
-				<li>Hoteles y Restaurantes
+				<li>+ Hoteles y Restaurantes
 					<ul>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesAlicante">Hoteles y Restaurantes en Alicante</a></li>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesBenidorm">Hoteles en Benidorm</a>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hoteleselche">Hoteles y Restaurantes en Elche</a>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesvegabaja">Hoteles y Restaurantes en Orihuela</a>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesElda">Hoteles y Restaurantes en Elda</a>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesAlicante">-Hoteles y Restaurantes en Alicante</a></li>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesBenidorm">-Hoteles en Benidorm</a>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hoteleselche">-Hoteles y Restaurantes en Elche</a>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesvegabaja">-Hoteles y Restaurantes en Orihuela</a>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesElda">-Hoteles y Restaurantes en Elda</a>
 					</ul>
 				</li>
-				<li>Turismo Rural
+				<li>+ Turismo Rural
 					<ul>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/turismorural">Turismo Rural Alicante</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/turismorural">-Turismo Rural Alicante</a></li>
 					</ul>
 				</li>
-				<li>Guia Gastronomica
+				<li>+ Guia Gastronomica
 					<ul>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/gastronomiaVegaBaja">Guía Gastronómica Vega Baja</a></li>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/gastronomiaProvincia">Guía Gastronómica Alicante</a></li>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/gastronomiaVegaBaja">-Guía Gastronómica Vega Baja</a></li>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/gastronomiaProvincia">-Guía Gastronómica Alicante</a></li>
 					</ul>
 				</li>
-				<li>Playas
+				<li>+ Playas
 					<ul>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasAlicante">Playas en Alicante</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasBenidorm">Playas en Benidorm</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasElche">Playas en Elche/Santa Pola</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasvegabaja">Playas en Bajo Segura</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasAlicante">-Playas en Alicante</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasBenidorm">-Playas en Benidorm</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasElche">-Playas en Elche/Santa Pola</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/playasvegabaja">-Playas en Bajo Segura</a></li>
 					</ul>
 				</li>
 				
-				<li>Escapadas
+				<li>+ Escapadas
 					<ul>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasAlicante">Escapadas Alicante</a></li>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasElche">Escapadas Elche</a></li>
@@ -98,7 +96,7 @@
 					</ul>
 				</li>
 				
-				<li>Fiestas
+				<li>+ Fiestas
 					<ul>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/fiestasalicante">Fiestas en Alicante</a></li>
 					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/fiestaselche">Fiestas en Elche</a></li>
@@ -111,8 +109,9 @@
 
 				<script type="text/javascript">
 				ddtreemenu.createTree("treemenu2", false)
-				ddtreemenu.flatten('treemenu2', 'expand')
 				</script>
+				<p>&nbsp;&nbsp;</p>
+				</div>
 				</aside>
 				
 				
