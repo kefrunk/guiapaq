@@ -13,4 +13,7 @@
 <h2> Denia</h2>
 <p><?php echo Yii::t('guia','intro denia')?></p>
 <img width="100%" height="300" src="/imgGuia/denia_ibiza.jpg"><br></p>
+
 <p><?php echo Yii::t('guia','intro fiestas denia')?></p>
+<p><img width="42%" height="200" src="/imgGuia/fiestasdenia.jpg">
+<img width="46%" height="200" src="/imgGuia/fiestasdenia2.jpg"></p>

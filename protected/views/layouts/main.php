@@ -24,9 +24,8 @@
 			<a id="logo" href="/site/index">Paquito Rentacar</a>      
 			<header>
             <nav><ul id="yw0">
-			<li><a href="/vehiculo/index">Reservas paso2(fr)</a></li>
-			<li><a href="/oferta/index">Reservas paso2(de)</a></li>
-			<li><a href="/grupo/index">Otras traducciones</a></li>
+			<li><a href="/yii/guiapaq/?r=site/traducciones_fr">Otras traducciones(fr)</a></li>
+			<li><a href="/yii/guiapaq/?r=site/traducciones_de">Otras traducciones(de)</a></li>
 			<li><a href="/yii/guiapaq/?r=site/condiciones">Condiciones(de)</a></li>
 			</ul></nav><nav class="mobile-nav"><select name="menu" id="menu">
 			<option value="http://es.paquitorentacar.com/site/index">reservas</option>
@@ -61,12 +60,18 @@
 						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesBenidorm">-Hoteles en Benidorm</a>
 						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hoteleselche">-Hoteles y Restaurantes en Elche</a>
 						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesvegabaja">-Hoteles y Restaurantes en Orihuela</a>
-						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesElda">-Hoteles y Restaurantes en Elda</a>
+						<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/hotelesElda">-Hoteles y Restaurantes zona Elda</a>
 					</ul>
 				</li>
 				<li>+ Turismo Rural
 					<ul>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/turismorural">-Turismo Rural Alicante</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/turismorural">-Turismo Rural Provincia</a></li>
+					</ul>
+				</li>
+				<li>+ Conexion AVE
+					<ul>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/conexionAve">-LAV Madrid-Levante<br>Villena<br>Elda<br>Alicante<br>Elche<br>
+		</a></li>
 					</ul>
 				</li>
 				<li>+ Guia Gastronomica
@@ -86,29 +91,29 @@
 				
 				<li>+ Escapadas
 					<ul>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasAlicante">Escapadas Alicante</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasElche">Escapadas Elche</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasVegabaja">Escapadas Orihuela y Torrevieja</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasBenidorm">Escapadas Benidorm</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasJavea">Calpe-Javea-Denia</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/castillosvinalopo">Castillos del Vinalopó</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasAlcoy">Jijona-Alcoy-Ibi</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasAlicante">-Escapadas Alicante</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasElche">-Escapadas Elche</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasVegabaja">-Escapadas Orihuela y Torrevieja</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasBenidorm">-Escapadas Benidorm</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasJavea">-Calpe-Javea-Denia</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/castillosvinalopo">-Castillos del Vinalopó</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/escapadasAlcoy">-Jijona-Alcoy-Ibi</a></li>
 					</ul>
 				</li>
 				
 				<li>+ Fiestas
 					<ul>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/fiestasalicante">Fiestas en Alicante</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/fiestaselche">Fiestas en Elche</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/fiestasvegabaja">Fiestas en Vega Baja</a></li>
-					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/fiestasvinalopo">Moros y Cristianos</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/fiestasalicante">-Fiestas en Alicante</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/fiestaselche">-Fiestas en Elche</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/fiestasvegabaja">-Fiestas en Vega Baja</a></li>
+					<li><a class="enlacetipo1" href="/yii/guiapaq/?r=guia/morosyCristianos">-Moros y Cristianos</a></li>
 					</ul>
 				</li>
 
 				</ul>
 
 				<script type="text/javascript">
-				ddtreemenu.createTree("treemenu2", false)
+				ddtreemenu.createTree("treemenu2", true)
 				</script>
 				<p>&nbsp;&nbsp;</p>
 				</div>

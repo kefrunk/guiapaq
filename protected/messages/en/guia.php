@@ -224,11 +224,32 @@ return array(
 		'intro terra mitica' => 'Terra Mítica está basado en las antiguas civilizaciones del Mediterráneo, por lo que se distribuye en cinco zonas temáticas: Egipto, Grecia, Roma, Iberia y Las Islas. Sus principales atracciones son Magnus Colossus, una montaña rusa de madera; Titánide, una montaña rusa invertida con cinco inversiones; El Vuelo del Fénix, una torre de caída libre de 54 m; Synkope, un péndulo gigante; La Furia de Tritón, un "splash" con dos caídas de 10 y 17 metros de altura; e Inferno, una montaña rusa de cuarta generación en la que los carros giran verticalmente a su libre albedrío a lo largo de todo su recorrido.',
 	
 	//Javea, calpe, denia
-	'intro visita Javea' => 'Javeasnolnjsdf...',
+	'intro visita Javea' => 'A tan solo unos 75 km del Aeropuerto de Alicante se encuentra Calpe, una bella ciudad costera donde
+							se puede contemplar el majestuoso peñón de Ifach, y puede ser el punto de partida para
+						llegar hasta Denia pasando por paraísos como Moraira, los cabos de La Nao y San Antonio y Javea	',
+	'intro javea' => 'Dejando atrás Moraira llegamos hasta Jáve. Enmarcada por los cabos de San Antonio y de La Nao, está pequeña población se extiende al norte de la Costa Blanca, en el noroeste de la provincia de Alicante, bañada por el Mediterráneo y resguardada de los vientos fríos por la barrera montañosa del Montgó',
 	'intro calpe' => 'Bajo la atenta vigilancia del acantilado más alto del Mediterráneo, el Peñón de Ifach, Calp ha crecido a ambos lados de la Gran Roca, símbolo e imagen de la Costa Blanca. Su condición de destino turístico desde los años 30 es debido, sobre todo, a la calidad de sus playas, de arena fina y la limpieza de sus aguas. El municipio guarda vestigios del pasado en su casco antiguo y curiosidades como las ruinas de los Baños de la Reina, y la de unas antiguas salinas. Su puerto pesquero presenta una imagen muy animada y junto a el se suceden restaurantes en los que degustar pescados y mariscos de la zona.',
-	
+	'intro denia' => 'Denia data su origen en el siglo I a.C., cuando las tropas de Sertorio establecieron en Dianium una base naval durante el Alto Imperio, ubicándose la polis frente al antiguo puerto, al norte de la actual ubicación.  Su esplendor durante este periodo le hizo pasar de ciudad estipendiaria a municipio.',
+	'intro fiestas denia' => ' Las fiestas patronales de Denia tienen reconocido aprecio por vecinos y viajeros. Se realizan en Julio
+								en honor a la Santísima Sangre. Entre el extenso programa de fiestas, destacan:conciertos, desfiles
+								y el evento que identifica la fiestas patronales: “bous a la mar” (toros al mar).  
+								Declarada Fiesta de Interés Turístico Nacional, consiste en la suelta de la manada de astados a lo
+								largo de la C/Campos hasta la plaza improvisada en el puerto en la zona del Raset, y en el que los 
+								valientes intentan tirar al astado al agua situándose en el borde del dique y esperando a que el 
+								animal embista, o bien tratando que el astado les siga y caiga el mar.  Desde el agua, una 
+								embarcación sin motor, sujeta y traslada al animal sin ningún tipo de maltrato hasta una rampa 
+								para su vuelta al ruedo. ',
+
 	//Jijona ibi alcoy
-	'intro jijona' => 'jijona museo del turron ibi museo del juguet',
+	'Interior de Alicante, Aproximandonos a Alcoy' => 'Interior de Alicante, Aproximándonos a Alcoy',
+	'intro visita interior' => 'Si nuestro punto de llegada es el Aeropuerto de Alicante, sin duda podremos disfrutar en pocos minutos de 
+								las magnificas playas y encantos de la costa. No obstante, es muy recomendable disponer de algunos días extras para
+								recorrer el interior de la provincia de Alicante y no perderse la esencia de estas tierras.',
+	'intro jijona' => 'Xixona, ciudad o pueblo de montaña 30 minutos del Aeropuerto de Alicante con buenas comunicaciones. Ideal para visitar tanto en invierno como en verano gracias a su microclima. El casco antiguo esta muy bien conservado y separado de la zona moderna e industrial. Se puede pasear por sus calles, subir al castillo, desde allí hay una vistas espectaculares de la costa y montaña "Puerto de la Carrasqueta". Hay hornos tradicionales y en especial Forn "El Raval dela de la Peñita" el mas antiguo de la Comunidad Valenciana (...no tengo palabras), sus heladerías artesanas son de las mejores de España, es costumbre por los xixonenses, desayunar horchata con café (un lujo). Se pueden visitar las fabricas de Turrón artesanas, venden todo el año a precios moderados. La hostelería es buena y la comida variada tanto de cuchara como de tapas, con productos de la tierra, buen servicio y mejor precio que en la costa. Tiene naturaleza, fuentes naturales, cortados, barrancos, bosques y sendas para contemplarlos y pasear. Feria del Turrón a primeros de Diciembre y Moros y Cristianos a finales de Agosto. Los Xixonenses son amables, dispuestos y ancestralmente luchadores. ¡Anímate y visitalo!',
+	'intro ibi' => 'Conocida como la “Villa del Juguete” o “Cuna del Helado”, por su tradición artesanal, Ibi es una de esas poblaciones del interior cuyo atractivo reside en descubrirlas. Su historia escrita en cada rincón y sus increíbles citas fiesteras en cada estación del año hacen de su gente un pueblo rico en tradición y cultura.',
+	'intro alcoy' => 'Alcoy es una ciudad que marca un contraste inesperado  con el resto de la provincia de Alicante. A unos 54 km. de Alicante y a 105 km. de Valencia se encuentra esta localidad, las aguas de la cual movieron las ruedas hidráulicas que decidieron la vocación laboriosa e industrial de sus habitantes, a golpe de esfuerzo, imaginación y audacia para desarrollar el sector textil, papelero y metalúrgico.
+					 Rodeada de montañas, presenta la singular combinación de tener uno de los bosques mediterráneos más genuinos y encontrar en el mismo término municipal los vestigios de lo que fue el cambio social que trajo la Revolución Industrial a España.
+					 Pasear por sus calles  revela claramente el esfuerzo de su gente para prosperar en un medio de gran belleza natural, pero de extraordinaria complejidad orográfica para la evolución urbana.',
 
 	
 	//Frases comunes escapadas
@@ -246,6 +267,27 @@ return array(
 	'intro semana santa orihuela' => 'La Semana Santa de Orihuela, es una de las expresiones religioso-culturales más destacas de España, declarada de interés turístico internacional,1 2 representa otro atractivo cultural de la ciudad junto a su casco histórico declarado Conjunto Histórico-artístico y Monumental desde 1969. Hay procesiones el Viernes de Pasión o de Dolores y todos los días de la Semana Santa desde Domingo de Ramos hasta Domingo de Resurrección, siendo la Procesión General del Viernes santo una de las más grandes de España al recoger diez cofradías y más de 8000 nazarenos, 1200 músicos, dos centurias romanas, y una centuria de Guardia Pretoriana. De especial singularidad es la procesión del Silencio, que se celebra en Jueves Santo desde la Real y Majestuosa Iglesia de Santiago de Orihuela donde es posible escuchar el sobrecogedor Canto de la Pasión.',
 	'intro feria mayo torrevieja'=>'Lo que en origen fue una fiesta de sevillanas entre amigos, el tiempo la ha configurado como una de las celebraciones más importantes de la localidad, una fiesta surgida en el año 1987 al calor de un por aquel entonces pueblo de Torrevieja. Tanto es así que ha sido Declarada Fiesta de Interés Turístico de la Comunitat Valenciana. El evento, que se extiende de miércoles a domingo, comienza con la inauguración y el encendido de la feria. A este acto se unen bailes, paseos de caballos, espectáculos ecuestres y actuaciones diarias que hacen la convierten en una experiencia inolvidable.',
 	//------------------------------------------------//
+	
+	
+	
+	
+	//------------AVE----------//
+	
+	'intro conexion ave'=> 'El 23 de junio es la fecha elegida por Renfe Operadora para prestar el servicio comercial a Alicante. Si nada cambia, está previsto que unos días antes (21 ó 22) se inaugure la línea con la presencia de las principales autoridades españolas.  Desde esta inauguración hasta el 23 de junio, Renfe desplazará los primeros trenes de alta velocidad a la nueva terminal de la estación alicantina. Previsiblemente material S-112 sin descartar la combinación con la serie S-103 (Siemens Velaro) procedentes de varias lineas de alta velocidad actuales (Málaga, Valencia y Barcelona). El detalle del material rodante está discutiéndose estas semanas en las oficinas de Renfe y el Ministerio de Fomento. Exclusiva de avealicante.es.',
+	'intro estaciones ave paquito'=>'Paquito Rent a Car ofrece servicio de recogida y entrega de vehículos en las estaciones de AVE de la provincia de Alicante', 
+	
+	//-------------------------//
+	
+	
+	
+	
+	//-------------------GASTRONOMIA-------------------//
+	
+	'intro gastronomia provincia' => 'La gastronomía de la provincia de Alicante es el conjunto de platos y costumbres culinarias que se encuentran en la provincia de Alicante (España).3 La provincia tiene dos zonas gastronómicas diferenciadas: la costa y el interior. En la costa son más típicos los platos con pescados y productos del mar, mientras que en la montaña y en el interior se dan platos más propios de esas zonas, con más influencia de carnes y productos del campo. Siendo Alicante un cruce de caminos, se comparten influencias de la cocina valenciana, de la murciana e incluso algunas de la manchega. En general puede decirse que abundan los arroces, con una amplia gama de paellas, y una gran variedad de productos del mar, guisos, y productos de la huerta. En Alicante abundan además los productos de panadería y repostería.',
+			
+	//-------------------------------------------------//
+	
+	
 	
 	//-------------INFORMACION DE INTERES------------//
 	'Info Interes' => 'Informaci&oacute;n de Inter&eacute;s',

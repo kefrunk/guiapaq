@@ -34,9 +34,19 @@ class SiteController extends Controller
 	
 	public function actionCondiciones()
 	{
-		// renders the view file 'protected/views/site/index.php'
-		// using the default layout 'protected/views/layouts/main.php'
 		$this->render('condiciones');
+	}
+	
+	public function actionTraducciones_fr()
+	{
+	
+		$this->render('traducciones_fr');
+	}
+	
+	public function actionTraducciones_de()
+	{
+		
+		$this->render('traducciones_de');
 	}
 
 	/**

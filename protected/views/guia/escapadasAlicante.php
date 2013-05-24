@@ -19,13 +19,13 @@
 <p><?php echo Yii::t('guia','Castillo de Santa Barbara 2')?></p>
 <h3>Museos</h3>
 <p><?php echo Yii::t('guia','intro Museos')?></p>
-<h6>Museo de Arte Contemporáneo de Alicante (MACA)</h6>
+<h6><u>Museo de Arte Contemporáneo de Alicante (MACA)</u></h6>
 <p><?php echo Yii::t('guia','Museos Alicante MACA')?></p>
-<h6>Museo de Bellas Artes Gravina (MUBAG)</h6>
+<h6><u>Museo de Bellas Artes Gravina (MUBAG)</u></h6>
 <p><?php echo Yii::t('guia','Museos Alicante MUBAG')?></p>
-<h6>Museo Arqueológico Provincial (MARQ)</h6>
+<h6><u>Museo Arqueológico Provincial (MARQ)</u></h6>
 <p><?php echo Yii::t('guia','Museos Alicante MARQ')?></p>
-<h6>Otros museos de la ciudad</h6>
+<h6><u>Otros museos de la ciudad</u></h6>
 <p><?php echo Yii::t('guia','Museos Alicante otros')?></p>
 
 

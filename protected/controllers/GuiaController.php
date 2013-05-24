@@ -5,6 +5,7 @@ class GuiaController extends Controller
 	public function actionAlicante()
 	{
 		$this->render('alicante');
+		
 	}
 
 	public function actionElche()
@@ -36,6 +37,7 @@ class GuiaController extends Controller
 	public function actionPlayasAlicante()
 	{
 		$this->render('playasAlicante');
+		
 	}
 	
 	public function actionPlayasVegabaja()
@@ -117,6 +119,11 @@ class GuiaController extends Controller
 		$this->render('escapadasJavea');
 	}
 	
+	public function actionConexionAve()
+	{
+		$this->render('conexionAve');
+	}
+	
 	public function actionGolfAlicante()
 	{
 		$this->render('golfAlicante');
@@ -127,10 +134,6 @@ class GuiaController extends Controller
 		$this->render('golfVegabaja');
 	}
 	
-	public function actionfiestasVinalopo()
-	{
-		$this->render('fiestasVinalopo');
-	}
 	
 	public function actionGolfVinalopo()
 	{
@@ -165,6 +168,11 @@ class GuiaController extends Controller
 	public function actionTurismoRural()
 	{
 		$this->render('turismoRural');
+	}
+	
+	public function actionMorosyCristianos()
+	{
+		$this->render('morosyCristianos');
 	}
 	
 	
