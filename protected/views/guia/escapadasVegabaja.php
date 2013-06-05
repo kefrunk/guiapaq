@@ -35,7 +35,7 @@
 <p><img width="80%" height="200" src="/imgGuia/salinastorrevieja.jpg"></p>
 <h3>Parque Natural de las Salinas de La Mata y Torrevieja</h3>
 <p><a class="enlacetipo1" href="http://www.cma.gva.es/cidam/espacios/parques/folletos_electronicos/lamata/cas/index.html">Guia del Parque</a>	
-<br>Mas info del parque <a class="enlacetipo1" href="http://www.cma.gva.es/web/indice.aspx?nodo=2989">Aqui</a></p><br>
+<br><?php echo Yii::t('guia','Mas Info')?> del parque <a class="enlacetipo1" href="http://www.cma.gva.es/web/indice.aspx?nodo=2989"><?php echo Yii::t('guia','Aqui')?></a></p><br>
 <h3>Museo del mar y la Sal</h3>
 <p><img width="62%" height="200" src="/imgGuia/museomarysal.jpg"></p>
 <p>Horario e informacion <a class="enlacetipo1" href="http://www.comunitatvalenciana.com/museo/sin-zona-sin-muni-museo-del-mar-y-la-sal-0">Aqui</a></p>

@@ -1,6 +1,6 @@
 <h1><?php echo Yii::t('guia','Recorrido por la comarca del Baix Vinalopo')?></h1>
 <p><?php echo Yii::t('guia','intro visita Elche')?></p>	
-<h2> Cosas que visitar </h2>
+<h2> <?php echo Yii::t('guia','Cosas que visitar')?> </h2>
 <p><iframe class="video" width="420" height="315" src="http://www.youtube.com/embed/LRvXN6bbXdw" frameborder="0" allowfullscreen></iframe></p>
 <h3>Historia &Iacute;bera</h3>
 <p><?php echo Yii::t('guia', 'intro historia elche')?></p>
@@ -27,7 +27,7 @@
 <h3>Ruta de Outlets Parque Empresarial</h3>
 <p><iframe class="video" width="420" height="315" src="http://www.youtube.com/embed/UE0leEfldt0" frameborder="0" allowfullscreen></iframe>
 <p><?php echo Yii::t('guia','intro outlets elche')?></p>
-
+<a class="enlacetipo1" href="www.elcheparqueempresarial.es">Mas Info Parque empresarial</a></p>
 
 <h2>Crevillente:</h2>
 <p><?php echo Yii::t('guia','intro Crevillente')?></p>

@@ -1,7 +1,7 @@
 <h1><?php echo Yii::t('guia','Recorrido por Benidorm y alrededores')?></h1>
 <p><?php echo Yii::t('guia','intro visita Benidorm')?></p>	
-<h2> Cosas que visitar </h2>
-<h3>La ciudad de Benidorm</h3>
+<h2> <?php echo Yii::t('guia','Cosas que visitar')?> </h2>
+<h3>Benidorm</h3>
 <p><img width="100%" height="308" src="/imgGuia/benidorm1.jpg"></p>
 <p><?php echo Yii::t('guia', 'intro paseos Benidorm')?></p>
 <h3>Altea</h3>
@@ -30,7 +30,7 @@
 <h3>Escalada y deportes de aventura</h3>
 <p><img height="200" width="300px" src="/imgGuia/benidormescalada.jpg"></p>
 <p><?php echo Yii::t('guia','intro escalada benidorm')?><br>
-<a class="enlacetipo1" href="http://www.cembenidorm.com/" target="_blank"><?php echo Yii::t('guia','Mas Info')?> salir en Benidorm</a></p>
+<a class="enlacetipo1" href="http://www.cembenidorm.com/" target="_blank"><?php echo Yii::t('guia','Mas Info')?> escalada en Benidorm</a></p>
 <h3>Coves del canelobre</h3>
 <p><img height="200" src="/imgGuia/canelobre.jpg"></p>
 <p><?php echo Yii::t('guia','intro canelobre')?></p>

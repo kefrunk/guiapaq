@@ -22,7 +22,12 @@ return array(
 	'intro torrevieja' =>'Torrevieja es una ciudad costera que posee un extenso litoral de playas. Es un destino ideal para disfrutar del mar, tomar el sol o relajarse en cualquiera de las playas que cuentan con todo tipo de servicios como restaurantes, cafeterías, juegos lúdicos, vigilancia, puestos de información, bandera con el estado de la mar, lavapies y acceso para minusválidos. Además algunas de ellas están ubicadas en el paseo marítimo un lugar ideal para pasear.',
 	'intro orihuela costa' => 'Orihuela Costa cuenta con 16 kilómetros de costa en los que se alternan acantilados de aguas transparentes y playas de fina arena de reconocido prestigio. ',
 	'intro playas pilarhoradada' => 'El litoral de Pilar de la Horadada se extiende a lo largo de más de cuatro kilómetros, en los que encontramos tanto playas extensas de fina arena blanca en intenso contraste con el mar azul como pequeños cantiles rocosos, que se adentran en el mar y esconden calas de arena dorada.', 
-
+		//Benidorm
+	'intro playa levante benidorm' => 'Entre Punta Pinet y Punta Canfali se forma una amplia bahía de más de dos kilómetros con una playa urbana que sin duda es una de las más animadas y concurridas de la costa mediterránea. Gracias a su orientación, es posible tomar el sol en ella hasta última hora de la tarde en verano y hasta su puesta en invierno. Es de arena fina y dorada, aguas transparentes y está adornada con palmeras que le dan un aspecto muy atractivo. Está delimitada por un cuidado paseo marítimo en el que se suceden restaurantes, cafeterías y pubs. Es una playa adaptada para personas con movilidad reducida.',
+	'intro playas Benidorm'=>'Las playas de Benidorm son uno de los grandes atractivos del mediterráneo	',
+	'intro playa poniente benidorm' => 'Desde el puerto hasta la punta conocida como Cabezo del Tossal se ubica esta playa de más de tres kilómetros de longitud, de transparentes aguas y fina arena dorada en la que una sucesión de palmeras le dan, si cabe, un mayor atractivo. Tanto la playa como el paseo marítimo que la delimita muestran una imagen animada a cualquier hora del día. Es una playa adaptada con todos los servicios necesarios para personas con movilidad reducida.',
+	'intro cala mal pas benidorm' => 'Entre la Punta Canfali y el puerto se encuentra esta pequeña cala de arena fina y dorada que presenta un ambiente más tranquilo y que separa las concurridas playas de Levante y Poniente. Frente a la playa se encuentra l´Illa de Benidorm que cobija una plataforma sumergida conocida como La Llosa, una importante Reserva Marina con excelentes fondos que son todo un regalo para los amantes del submarinismo.',
+	
 	//Alt imagenes playas
 	'imgAltPlayaAbierta' => 'Playa Abierta',
 	'imgAltPlayaSemiurbana' => 'Playa Semi Urbana',
@@ -37,6 +42,8 @@ return array(
 	'imgAltBanderazul' =>'Bandera Azul',
 	'imgAltPlayavirgen' =>'Playa Virgen',
 	'imgAltMotoagua' => 'Moto deAgua',
+	'imgAltPlataformasFlotantes' => 'Plataformas Flotantes',
+	'imgAltArenaGruesa' => 'Arena gruesa',
 	
 	'Mas Info' => 'Mas Info',
 	
@@ -102,19 +109,36 @@ return array(
 	
 	//Alicante
 	'Recorrido por la ciudad de Alicante' =>'Recorrido por la ciudad de Alicante',
-	'intro visita Alicante' => 'La ciudad de Alicante es uno de los destinos más visitados en España debido a la gran variedad de alternativas turísticas que ofrece. Aquí se expone información sobre algunos de los encantos de esta ciudad que nadie debe perderse',
-	'Puerto'=>'Puerto de Alicante',
-	'texto Mercado Alicante' => 'texto Mercado Alicante',
-	'texto Explanada Alicante' => 'texto Explanada Alicante',
-	'texto Luceros Alicante' => 'texto Luceros Alicante',
-	'Castillo de Santa Barbara' => 'Castillo de Santa Barbara',
-	'Museos' =>'Museos',
-	'Museos Alicante parrafo 1' => 'Museos Alicante parrafo 1',
+	'intro visita Alicante' => 'La ciudad de Alicante es uno de los destinos más visitados en España debido a la gran variedad de alternativas turísticas que ofrece. Aquí se expone información sobre algunos de los encantos de esta ciudad que nadie debe perderse.',
+	'Puerto'=>' La declaración de la ciudad de Alicante como Puerto Público del Mediterráneo se remonta a 1271, 
+				según el privilegio otorgado por Alfonso X el Sabio.
+				El puerto como obra de ingeniería, un espigón de piedra que se adentra en el mar, no empezará a construirse hasta 1476, 
+				durante el reinado de Juan II.
+				Históricamente, el puerto ha tenido un papel decisivo en el comercio de la ciudad de Alicante.
+				Hoy día es en un gran centro de paseo turístico, lleno de tiendas, restaurantes, cafeterías, Púb. musicales.
+				Es un gran placer pasear con el mar de fondo o hacer excursiones en barco',
+	'texto Mercado Alicante' => 'El Mercado Central de Alicante situado en la Avenida Alfonso X el Sabio, es un edificio de estilo ecléctico con ornamentos modernistas que fue proyectado por el arquitecto Enrique Sánchez Sedeño y construido en 1921 por el arquitecto Juan Vidal Ramos',
+	'texto Explanada Alicante' => 'La Explanada de España, también conocida como Paseo de la Explanada, es un paseo marítimo de la ciudad de Alicante (España). Se extiende paralela al puerto, desde la Puerta del Mar hasta el Parque de Canalejas, y es una de las vías más populares de la ciudad.',
+	'texto Luceros Alicante' => 'This is one of the most emblematic squares in Alicante. Located right in the heart of the city centre, it is here that the famous firecracker displays are held every year as part of Alicante’s main festivals, las Hogueras.	',
+	'Castillo de Santa Barbara 2' => 'En el castillo de Santa Bárbara está situado el MUSA(Museo de la ciudad de Alicante). La visita al Castillo se puede realizar todos los días del año. <a href="http://www.alicante.es/redir.php?apartado=cultura&pagina=museos-santabarbara.html&titulo=Castillo%20de%20Santa%20B%E1rbara%20-%20Patronato%20Municipal%20de%20Cultura%20/%20Ayuntamiento%20de%20Alicante">Aquí </a>puede encontrar los horarios de los ascensores',
+	'Castillo de Santa Barbara 1' => 'El castillo de Santa Bárbara se encuentra ubicado en el centro de la ciudad de Alicante, sobre el monte Benacantil, mole rocosa de 166 m de altitud lindante con el mar, lo que le confería un enorme valor estratégico ya que desde la misma se divisa toda la bahía de Alicante y sus alrededores terrestres.
+									En sus laderas se han encontrado restos arqueológicos de la Edad del Bronce, ibéricos y de la época romana, si bien el origen de la actual fortaleza hay que buscarlo a finales del siglo IX cuando la dominación musulmana.',
+	
+	'intro Museos' =>'La ciudad de Alicante cuenta con algunos museos de importancia',
+	'Museos Alicante MACA' => 'Situado en el casco antiguo de la ciudad. El pilar básico del MACA es la Colección Arte Siglo XX donada por el artista alicantino Eusebio Sempere en 1977. Formada por pinturas, esculturas, técnicas mixtas y litografías de artistas españoles y extranjeros, como Dalí, Picasso, Chillida, Manolo Millares, Pablo Serrano, Joan Miró, Kandinsky, Chagall o Vasarely.',
+	'Museos Alicante MUBAG' => 'Museo principalmente dedicado a la pintura y escultura alicantina, desde el siglo XVI hasta las primeras décadas del siglo XX.',
+	'Museos Alicante MARQ' => 'Presenta piezas arqueológicas de toda la provincia, desde la Edad de Piedra hasta la Edad Moderna, como la dama ibérica de Cabezo Lucero. Destaca por su estética innovadora y la utilización de métodos audiovisuales: no en vano, fue galardonado como "Museo Europeo del Año" en el 2004.',
+	'Museos Alicante otros' => 'Destacan otros museos como el Museo de la Universidad de Alicante, el Museo del Agua-Pozos de Garrigós,Museo de Belenes, o el Museo de las Hogueras',
 	'Fiestas en Alicante' =>'Fiestas en Alicante',
-	'Hogueras Alicante parrafo 1' => 'Del 20 al 24 de Junio',
+	'intro hogueras' => 'La celebración más importante que tiene lugar en la ciudad de Alicante son sin duda las Hogueras de San Juan',
+	'Hogueras Alicante parrafo 1' => 'Esta fiesta se remonta a los tiempos en que los labradores alicantinos celebraban el día más largo del año para las recolección de las cosechas y la noche más corta para la destrucción de los males
+									Hoy en dia las Hogueras de San Juan son las fiestas oficiales de la ciudad de Alicante y están declaradas de Interés Turístico Internacional.',								 
+	'Hogueras Alicante parrafo 2' => 'Del 17 al 20 de junio se plantan las "hogueras" que son monumentos artísticos de madera, cartón, corcho y pintura que contienen una profunda carga satírica. Cuatro días más tarde se queman después de lanzarse una monumental palmera de fuegos artificiales desde el monte Benacantil, donde se encuentra el Castillo de Santa Bárbara, y que es visible prácticamente desde cualquier punto de la ciudad. Cada Hoguera representa a una calle, zona o barrio de la ciudad.',
+	'intro semana santa' => 'La celebración de la semana santa tiene gran importancia en Alicante',
 	'Carnavales' => 'Carnavales',
+	'intro Carnavales' => 'Entre los 10 mejores carnavales en Espa&ntilde;a, abierto a todo el mundo',
 	'Comarca de Alicante' => 'Comarca de Alicante',
-	'santa faz parrafo 1'=>'Segunda semana siguiente a Jueves santo',
+	'santa faz parrafo 1'=>'La multitudinaria romería de la Santa Faz se realiza la segunda semana siguiente a Jueves santo, en un solo día. Muy temprano, se reparten las cañas de romero y, antes de llegar hasta el monasterio, el almuerzo se marca como una parada obligatoria.',
 	'Tranvia Alicante Parrafo 1' =>'Tranvia Alicante Parrafo 1',
 	
 	//Elche
@@ -125,7 +149,7 @@ return array(
 	'intro historia elche' => 'En el siglo V a. C. se fundó la ciudad ibera de Ilici, momento en el que se esculpe el busto conocido como la Dama de Elche',
 	'intro alcudia' => 'El yacimiento arqueológico de La Alcudia y el Museo Monográfico La Alcudia se encuentran ubicados en el término municipal de Elche, en la carretera CV-855 Elche-Dolores, en el km. 2.
 						En él pueden visitarse monumentos de época ibérica, romana y visigoda. Destacan casas, baños, templos, edificios públicos y una buena parte de su muralla.',
-	'intro palmeral' => 'El Parmeral de Eclhe ha sido proclamadopatrrimonio de la humanidad por la UNESCO, conforma una gran extensión de palmeras datileras dentro del casco urbano de la ciudad. Es el palmeral más grande de Europa y en el mundo sólo le superan algunos palmerales árabes. Según la tradición fueron los fenicios quienes introdujeron la palmera en estas tierras, aunque el trazado del Palmeral se consolidó durante la etapa musulmana.',
+	'intro palmeral' => 'El Parmeral de Elche, que ha sido proclamado patrrimonio de la humanidad por la UNESCO, conforma una gran extensión de palmeras datileras dentro del casco urbano de la ciudad. Es el palmeral más grande de Europa y en el mundo sólo le superan algunos palmerales árabes. Según la tradición fueron los fenicios quienes introdujeron la palmera en estas tierras, aunque el trazado del Palmeral se consolidó durante la etapa musulmana.',
 	'intro huerto del cura' =>'El Huerto del Cura es un jardín botánico de unos 13.000 m², densamente poblado de palmeras. Forman parte de la colección botánica plantas de los huertos mediterráneos, como granados, azofaifos, naranjos, higueras y limoneros, a los que se han ido añadiendo con el tiempo plantas de origen subtropical y una colección de cactus. Este Huerto, debe su nombre al capellán José Castaño Sánchez, que fue su propietario hasta el año 1918.',
 	'intro centro de Elche' =>'Recorriendo el centro de la ciudad, el viajero se encontrarácon monuemntos hist&oacute;ricos como el castillo del siglo XII, denominado Palacio de Altamira. Tambi&eacute; se podr&aacute; visitar la bas&iacute;lica de Santa Maria, de origen barroco, donde tiene lugar la representaci&oacute;n del misteri d Elx.<br>De gran valor e interés son también dos edificios de origen musulmán, como la Torre de la Calahorra y los Baños Árabes.',
 	'intro outlets elche' => 'Elche es una ciudad tradicionalmente dedicada a la industria del calzado. Actualmente las grandes empresas del calzado tienen presencia en el Parque empresarial de Elche, situado a 7 Km del centro de la ciudad en direcci&oacute;n al aeropuerto, donde adem&aacute;s se ubican 319 empresas de todos los sectores, capitaneadas por el calzado y el textil. Estas grandes factor&iacute;as ofrecen tambi&eacute;n venta al por menor a precios bastante bajos',
@@ -140,15 +164,8 @@ return array(
 									pueden encontrar aqu&iacute;:',
 	'intro Hondo' => 'Este parque natural consta de dos lagunas y destaca por su avifauna. De las múltiples especies existentes destacan la cerceta pardilla y la malvasía cabeciblanca con dos de las principales poblaciones mundiales. Existe una gran abundancia de garzas en la época de cría destacando entre todas la garza imperial, el martinete y la garcilla cangrejera. También es posible encontrar otras especies como la avoceta, la cigüeñuela, la canastera, la focha cornuda, el pájaro moscón o el carricerín real. Entre las rapaces destacan el águila pescadora, el aguilucho lagunero y el águila moteada.',
 
-	'intro alfombras Crevillente' => 'Las alfombras de Crevillente son de reconocida calidad mundial. Existen varias empresas dedicadas a este sector, destacamos
-						 las m&aacute;s famosas:
-						<p>Alfombras Nelo<br>
-						Gutierre de Cardenas, 9, Crevillente<br>
-						Tel: +34 966 68 13 40<br><br>
-						Alfombras Belka<br>
-						Av de San Vicente Ferrer,20 Crevillent<br>
-						Tel: +34 965 40 36 51
-						</p>',
+	'intro alfombras Crevillente' => 'Las alfombras de Crevillente son de reconocida calidad mundial. Existen varias empresas dedicadas a este sector.',
+						 
 						
 	//Vega Baja
 	'Recorrido por la comarca de la Vega baja' =>'Recorrido por la comarca de la Vega Baja',
@@ -172,15 +189,109 @@ return array(
 	'intro torrevieja natural' => 'Torrevieja presenta una oferta turistica alternativa a la playa, con el parque natural de las salinas y el museo del mar y la sal.',
 	//Vinalopo medio y alto
 	'Recorrido por las comarcas del Vinalopo' =>'Recorrido por las comarcas del Vinalopo',
-	'intro visita Vinalopo' => 'La ciudad de Elda...',
+	'intro visita Vinalopo' => 'Desde las cumbres de la sierra de Mariola, el río Vinalopó inicia su andadura por las tierras de las comarcas a las que da nombre. El río atraviesa su cuenca compuesta de valles dispuestos entre elevadas sierras. Para conocer estas tierras hace falta recorrer sus caminos, perderse en las callejas medievales de las poblaciones y visitar sus castillos.
+								El paisaje cambia a cada paso. El pino, la coscoja, el espino negro y el tomillo están presentes en los montes donde se refugia el zorro, la liebre, la perdiz o las rapaces. En contraste con ellos, en el llano, los campos de almendros y olivos alternan con extensos viñedos.
+								Además de aconsejar la visita a los castillos y viñedos en la seccion(link viñedos)
+								también invitamos al viajero a no perderse la belleza de las ciudades de esta comarca',
+	'intro novelda' => 'Novelda is a city in the south of the Community of Valencia. It is located in the region called Valle Medio del Vinalopó, on the right-hand bank of the Vinalopó River, at over a height of 241 m above the sea level. It is 17 km away from El Altet international airport and 28 km from Alicante city.',
+	'intro villena' => 'Villena está situada al noroeste de la provincia de Alicante, en la comarca del Alto Vinalopó. Se encuentra en una importante encrucijada de caminos entre las Comunidades valenciana, murciana y castellano-manchega',
+	'intro visita Elda' =>'Elda es la ciudad más importante del valle del Vinalopó, situada a tan solo 40 Km del aeropuerto y cuenta con una gran oferta turística: espacios naturales, fiestas, monumentos, ocio y gastronomía, cualidades que, sin duda, la hacen una ciudad atractiva para visitar.
+							La razón por la que Elda es conocida su industria basada especialmente en el calzado y la marroquinería.
+							Conocidas son también las fiestas de Moros y cristianos, de gran espectacularidad y a destacar la Plaza Castelar, perfecta para pasear y relajarse, el Museo Arqueológico y Etnológico y el Teatro Castelar.',
+	'intro moros y cristianos' => 'La fiesta de Moros y Cristianos de Villena se celebra del 4 al 9 de septiembre en honor a Nuestra Señora de las Virtudes, patrona de la ciudad y está reconocida como Fiesta de Interés Turístico.1 Es una multitudinaria representación de varios millares de personas que se visten de moros, estudiantes, guerreros, labradores, etc. a lo largo de cinco días.La fiesta en sí se celebra del 5 al 9 de septiembre y está estructurada mediante la participación de catorce comparsas, siete de ellas pertenecientes al bando Moro y otras tantas al bando Cristiano, compuestas cada una de ellas por varios cientos de participantes de ambos sexos. Una de las peculiaridades de las fiestas villenenses es que se sigue incluyendo la figura de la Mahoma2 durante la representación de las embajadas.</p>',
 	'Plano ciudad de Elda' => 'Plano ciudad de Elda',
 	'Donde comer en Elda' => 'Donde comer en Elda',
 	'Museo del calzado' =>'Museo del calzado',
+	//Benidorm
+	'intro visita Benidorm' => 'Benidorm es una ciudad diseñada para pasar unas vacaciones inolvidables.',
+	'intro paseos Benidorm' => 'Además de las innumerables actividades que se pueden realizar alrededor de esta ciudad, a sólo escasos metros de las playas podemos disfrutar
+								de sus museos o monumentos como La iglesia de San Jaime y Santa Ana que se sitúa en la parte superior del pueblo antiguo, en lo alto del cerro Canfali</p><p>Benidorm dispone de uno de los puertos deportivos más amplios y modernos del litoral mediterráneo.</p>
+								<p>El Museo de cera esta situado en la Avenida Mediterráneo, cuenta con mas de 130 figuras de cera dispuestas en escenas. Se trata de una serie de personajes de todas las épocas hechos en cera y expuestos en sus ambientes típicos. José Ballester, colaborador de los principales museos de cera del mundo, realizo estas figuras. En su interior se encuentra el Museo de Arte Erótico.</p>',
+	'intro altea' => 'El Pueblo de Altea se encuentra entre Benidorm y Calpe. Al norte, destaca la sierra Bernia, cuyo recortado perfil llega a 1.129 m. en su cumbre más alta. 
+					El río Algar, cruza el término de NO a SO y desemboca cerca del núcleo de la villa. 
+					El Casco Antiguo es ideal para perderse por su calles y disfrutar de sus miradores e impregnarse del ambiente del lugar.',
+	
+	'intro villajoyosa' => 'Viyajoyosa es una bella ciudad donde se pueden observar sus carácteristicas casas de colores, o el
+							museo del chocolate, ya que la industria del chocolate es de gran tradición en Villajoyosa',
+	'intro guadalest' => 'Todo viajero que pase por la Costa Blanca tiene una cita obligatoria con Guadalest.',
+	'intro algar' =>'Las fuentes del río Algar constituyen un paraje natural con un elevado grado de conservación de la riqueza ecológica y dotado, a la vez, de servicios turísticos y de educación medioambiental. Este espacio fue declarado Zona Húmeda protegida por Acuerdo del Gobierno Valenciano de 10 de septiembre de 2002.',
+	'intro escalada benidorm' =>'Muy cerca de Benidorm se pueden encontrar sitios ideales para escalada además de pozas y otras maravillas de la naturaleza',
+	'intro canelobre' => 'Las cuevas del canelobre se encuentran en el municipio de Busot a sólo 16km de Alicante y a 35 kilomtros del Aeropuierto de Alicante',
+	'intro noche benidorm' =>'Sin duda uno de losprincipales atractivos de Benidorm es su ocio nocturno por la calidad de locales, pubs y
+							  discotecas, algunos de ellos míticos de la zona mediterránea',
+	'intro parques Benidorm' => '<p>En Benidorm se encuentran los parques temáticos más importantes del levante español</p>',
+		'intro terra mitica' => 'Terra Mítica está basado en las antiguas civilizaciones del Mediterráneo, por lo que se distribuye en cinco zonas temáticas: Egipto, Grecia, Roma, Iberia y Las Islas. Sus principales atracciones son Magnus Colossus, una montaña rusa de madera; Titánide, una montaña rusa invertida con cinco inversiones; El Vuelo del Fénix, una torre de caída libre de 54 m; Synkope, un péndulo gigante; La Furia de Tritón, un "splash" con dos caídas de 10 y 17 metros de altura; e Inferno, una montaña rusa de cuarta generación en la que los carros giran verticalmente a su libre albedrío a lo largo de todo su recorrido.',
+	
+	//Javea, calpe, denia
+	'intro visita Javea' => 'A tan solo unos 75 km del Aeropuerto de Alicante se encuentra Calpe, una bella ciudad costera donde
+							se puede contemplar el majestuoso peñón de Ifach, y puede ser el punto de partida para
+						llegar hasta Denia pasando por paraísos como Moraira, los cabos de La Nao y San Antonio y Javea	',
+	'intro javea' => 'Dejando atrás Moraira llegamos hasta Jáve. Enmarcada por los cabos de San Antonio y de La Nao, está pequeña población se extiende al norte de la Costa Blanca, en el noroeste de la provincia de Alicante, bañada por el Mediterráneo y resguardada de los vientos fríos por la barrera montañosa del Montgó',
+	'intro calpe' => 'Bajo la atenta vigilancia del acantilado más alto del Mediterráneo, el Peñón de Ifach, Calp ha crecido a ambos lados de la Gran Roca, símbolo e imagen de la Costa Blanca. Su condición de destino turístico desde los años 30 es debido, sobre todo, a la calidad de sus playas, de arena fina y la limpieza de sus aguas. El municipio guarda vestigios del pasado en su casco antiguo y curiosidades como las ruinas de los Baños de la Reina, y la de unas antiguas salinas. Su puerto pesquero presenta una imagen muy animada y junto a el se suceden restaurantes en los que degustar pescados y mariscos de la zona.',
+	'intro denia' => 'Denia data su origen en el siglo I a.C., cuando las tropas de Sertorio establecieron en Dianium una base naval durante el Alto Imperio, ubicándose la polis frente al antiguo puerto, al norte de la actual ubicación.  Su esplendor durante este periodo le hizo pasar de ciudad estipendiaria a municipio.',
+	'intro fiestas denia' => ' Las fiestas patronales de Denia tienen reconocido aprecio por vecinos y viajeros. Se realizan en Julio
+								en honor a la Santísima Sangre. Entre el extenso programa de fiestas, destacan:conciertos, desfiles
+								y el evento que identifica la fiestas patronales: “bous a la mar” (toros al mar).  
+								Declarada Fiesta de Interés Turístico Nacional, consiste en la suelta de la manada de astados a lo
+								largo de la C/Campos hasta la plaza improvisada en el puerto en la zona del Raset, y en el que los 
+								valientes intentan tirar al astado al agua situándose en el borde del dique y esperando a que el 
+								animal embista, o bien tratando que el astado les siga y caiga el mar.  Desde el agua, una 
+								embarcación sin motor, sujeta y traslada al animal sin ningún tipo de maltrato hasta una rampa 
+								para su vuelta al ruedo. ',
+
+	//Jijona ibi alcoy
+	'Interior de Alicante, Aproximandonos a Alcoy' => 'Interior de Alicante, Aproximándonos a Alcoy',
+	'intro visita interior' => 'Si nuestro punto de llegada es el Aeropuerto de Alicante, sin duda podremos disfrutar en pocos minutos de 
+								las magnificas playas y encantos de la costa. No obstante, es muy recomendable disponer de algunos días extras para
+								recorrer el interior de la provincia de Alicante y no perderse la esencia de estas tierras.',
+	'intro jijona' => 'Xixona, ciudad o pueblo de montaña 30 minutos del Aeropuerto de Alicante con buenas comunicaciones. Ideal para visitar tanto en invierno como en verano gracias a su microclima. El casco antiguo esta muy bien conservado y separado de la zona moderna e industrial. Se puede pasear por sus calles, subir al castillo, desde allí hay una vistas espectaculares de la costa y montaña "Puerto de la Carrasqueta". Hay hornos tradicionales y en especial Forn "El Raval dela de la Peñita" el mas antiguo de la Comunidad Valenciana (...no tengo palabras), sus heladerías artesanas son de las mejores de España, es costumbre por los xixonenses, desayunar horchata con café (un lujo). Se pueden visitar las fabricas de Turrón artesanas, venden todo el año a precios moderados. La hostelería es buena y la comida variada tanto de cuchara como de tapas, con productos de la tierra, buen servicio y mejor precio que en la costa. Tiene naturaleza, fuentes naturales, cortados, barrancos, bosques y sendas para contemplarlos y pasear. Feria del Turrón a primeros de Diciembre y Moros y Cristianos a finales de Agosto. Los Xixonenses son amables, dispuestos y ancestralmente luchadores. ¡Anímate y visitalo!',
+	'intro ibi' => 'Conocida como la “Villa del Juguete” o “Cuna del Helado”, por su tradición artesanal, Ibi es una de esas poblaciones del interior cuyo atractivo reside en descubrirlas. Su historia escrita en cada rincón y sus increíbles citas fiesteras en cada estación del año hacen de su gente un pueblo rico en tradición y cultura.',
+	'intro alcoy' => 'Alcoy es una ciudad que marca un contraste inesperado  con el resto de la provincia de Alicante. A unos 54 km. de Alicante y a 105 km. de Valencia se encuentra esta localidad, las aguas de la cual movieron las ruedas hidráulicas que decidieron la vocación laboriosa e industrial de sus habitantes, a golpe de esfuerzo, imaginación y audacia para desarrollar el sector textil, papelero y metalúrgico.
+					 Rodeada de montañas, presenta la singular combinación de tener uno de los bosques mediterráneos más genuinos y encontrar en el mismo término municipal los vestigios de lo que fue el cambio social que trajo la Revolución Industrial a España.
+					 Pasear por sus calles  revela claramente el esfuerzo de su gente para prosperar en un medio de gran belleza natural, pero de extraordinaria complejidad orográfica para la evolución urbana.',
+
+	
 	//Frases comunes escapadas
 	'Cosas que visitar' => 'Cosas que visitar', 
 	//---------------------------------------------//
 	
 	
+	//------------------FIESTAS-----------------------//
+	//Elche
+	'intro fiestas elche1'=>'Del 8 al 15 de Agosto la ciudad de Elche se viste de fiesta celebrándose eventos de todo tipo: Moros y cristianos, Charangas, conciertos gratuitos, desfiles, espectáculos pirotécnicos...',
+	'intro fiestas elche2'=>'Destacable es la noche del día 13 conocida como nit de l´Albà. A las 23:15 de esta noche, los ilicitanos disparan continuamente fuegos artificiales desde las terrazas de los edificios, creando un espectáculo pirotécnico sin igual (son lanzados unos 17.000kg netos de polvora). Esta tradición, que se remonta a la Edad Media, era en su origen un modo que tenían las familias de agradecer a la Virgen los hijos que habían tenido (lanzando un cohete por cada hijo).',
+	'intro semana santa elche' => 'La semana santa en Elche es una celebración de gran importancia, teniendo su mayor atractivo en el domingo de ramos',
+	'intro misteri elche' =>'El Misterio de Elche, es un tesoro cultural del pueblo de Elche y una de las joyas más preciadas del patrimonio valenciano, como prueban su declaración como Monumento Nacional el año 1931, y su inclusión, en el año 2001, en la primera Proclamación de las Obras Maestras del Patrimonio Oral e Inmaterial de la Humanidad por la UNESCO.',
+	//Vega baja
+	'intro semana santa orihuela' => 'La Semana Santa de Orihuela, es una de las expresiones religioso-culturales más destacas de España, declarada de interés turístico internacional,1 2 representa otro atractivo cultural de la ciudad junto a su casco histórico declarado Conjunto Histórico-artístico y Monumental desde 1969. Hay procesiones el Viernes de Pasión o de Dolores y todos los días de la Semana Santa desde Domingo de Ramos hasta Domingo de Resurrección, siendo la Procesión General del Viernes santo una de las más grandes de España al recoger diez cofradías y más de 8000 nazarenos, 1200 músicos, dos centurias romanas, y una centuria de Guardia Pretoriana. De especial singularidad es la procesión del Silencio, que se celebra en Jueves Santo desde la Real y Majestuosa Iglesia de Santiago de Orihuela donde es posible escuchar el sobrecogedor Canto de la Pasión.',
+	'intro feria mayo torrevieja'=>'Lo que en origen fue una fiesta de sevillanas entre amigos, el tiempo la ha configurado como una de las celebraciones más importantes de la localidad, una fiesta surgida en el año 1987 al calor de un por aquel entonces pueblo de Torrevieja. Tanto es así que ha sido Declarada Fiesta de Interés Turístico de la Comunitat Valenciana. El evento, que se extiende de miércoles a domingo, comienza con la inauguración y el encendido de la feria. A este acto se unen bailes, paseos de caballos, espectáculos ecuestres y actuaciones diarias que hacen la convierten en una experiencia inolvidable.',
+	//------------------------------------------------//
+	
+	
+	
+	
+	//------------AVE----------//
+	
+	'intro conexion ave'=> 'El 23 de junio es la fecha elegida por Renfe Operadora para prestar el servicio comercial a Alicante. Si nada cambia, está previsto que unos días antes (21 ó 22) se inaugure la línea con la presencia de las principales autoridades españolas.  Desde esta inauguración hasta el 23 de junio, Renfe desplazará los primeros trenes de alta velocidad a la nueva terminal de la estación alicantina. Previsiblemente material S-112 sin descartar la combinación con la serie S-103 (Siemens Velaro) procedentes de varias lineas de alta velocidad actuales (Málaga, Valencia y Barcelona). El detalle del material rodante está discutiéndose estas semanas en las oficinas de Renfe y el Ministerio de Fomento. Exclusiva de ',
+	'intro estaciones ave paquito'=>'Paquito Rent a Car ofrece servicio de recogida y entrega de vehículos en las estaciones de AVE de la provincia de Alicante', 
+	
+	//-------------------------//
+	
+	
+	//------------RURAL Y CAMPINGS----------//
+	
+	'intro turismo rural'=> 'La oferta de turismo rural en la provincia de Alicante es muy variada, destacamos una interesante asociación cercana a nuestra entidad. Se trata de la Asociacion para el desarrollo rural del campo de Elche',
+	'intro casa catral'=>' En Catral se encuentra una acogedora y hospitalaria Casa Rural ideal para relejarse y disfrutar en familia de la naturaleza y de la huerta',
+	'intro campings'=>'Marjal Costa Blanca Eco Camping Resort pertenece al municipio de Crevillente.Marjal Costa Blanca es uno de los Campings Resorts más modernos de Europa. Con unas instalaciones de gran calidad, un clima privilegiado y un equipo humano a su entera disposición hará que sus vacaciones sean inolvidables. Idóneo para disfrutarlo en cualquier época del año.',
+	//-------------------------//
+	
+	
+	
+	//-------------------GASTRONOMIA-------------------//
+	
+	'intro gastronomia provincia' => 'La gastronomía de la provincia de Alicante tiene dos zonas gastronómicas diferenciadas: la costa y el interior. En la costa son más típicos los platos con pescados y productos del mar, mientras que en la montaña y en el interior se dan platos más propios de esas zonas, con más influencia de carnes y productos del campo. Siendo Alicante un cruce de caminos, se comparten influencias de la cocina valenciana, de la murciana e incluso algunas de la manchega. En general puede decirse que abundan los arroces, con una amplia gama de paellas, y una gran variedad de productos del mar, guisos, y productos de la huerta. En Alicante abundan además los productos de panadería y repostería.',
+			
+	//-------------------------------------------------//
 	
 	
 	
@@ -224,6 +335,8 @@ return array(
 	'link mas info sierra crevillente2' => 'http://www.cma.gva.es/web/indice.aspx?nodo=5279&idioma=C',
 	'link mas info sierra crevillente3' => 'http://www.cma.gva.es/web/indice.aspx?nodo=5278&idioma=C',
 	'link mas info sierra orihuela1' => 'http://www.cma.gva.es/web/indice.aspx?nodo=5312&idioma=C',
+	'link mas info novelda' => 'http://www.novelda.es/home.php?idioma=2',
+	'link mas info villena' => 'http://www.turismovillena.com/',
 	
 	//-------------------------------------------------------//
 );

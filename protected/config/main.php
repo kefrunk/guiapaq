@@ -6,7 +6,8 @@
 // This is the main Web application configuration. Any writable
 // CWebApplication properties can be configured here.
 return array(
-	'language' => 'en',
+	'sourceLanguage'=>'en',
+	'language'=>'es',
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
 	'name'=>'My Web Application',
 
@@ -47,17 +48,24 @@ return array(
       'enableJavaScript' => true,
 
    ),
+    'request'=>array(
+        'enableCookieValidation'=>true,
+        'enableCsrfValidation'=>true,
+    ),
 		// uncomment the following to enable URLs in path-format
-		/*
+		
 		'urlManager'=>array(
 			'urlFormat'=>'path',
+			'showScriptName'=>false,
 			'rules'=>array(
-				'<controller:\w+>/<id:\d+>'=>'<controller>/view',
-				'<controller:\w+>/<action:\w+>/<id:\d+>'=>'<controller>/<action>',
-				'<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
+            '<language:(de|es|fr|en)>/' => 'site/index',
+            '<language:(de|es|fr|en)>/<action:(contact|login|logout)>/*' => 'site/<action>',
+            '<language:(de|es|fr|en)>/<controller:\w+>/<id:\d+>'=>'<controller>/view',
+            '<language:(de|es|fr|en)>/<controller:\w+>/<action:\w+>/<id:\d+>'=>'<controller>/<action>',
+            '<language:(de|es|fr|en)>/<controller:\w+>/<action:\w+>/*'=>'<controller>/<action>',
 			),
 		),
-		*/
+		
 		'db'=>array(
 			'connectionString' => 'sqlite:'.dirname(__FILE__).'/../data/testdrive.db',
 		),
@@ -97,6 +105,7 @@ return array(
 	'params'=>array(
 		// this is used in contact page
 		'adminEmail'=>'webmaster@example.com',
+		'languages'=>array('es'=>'Español', 'en'=>'English', 'de'=>'Deutsch', 'fr'=>'Français'),
 	),
 	'import'=>array(
         'application.models.*',
