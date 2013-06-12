@@ -134,6 +134,11 @@ class GuiaController extends Controller
 	{
 		$this->render('fiestasVegaBaja');
 	}
+	
+	public function actionfiestasVinalopo()
+	{
+		$this->render('fiestasVinalopo');
+	}
 		
 	public function actiongastronomiaProvincia()
 	{

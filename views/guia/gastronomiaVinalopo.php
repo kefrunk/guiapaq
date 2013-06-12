@@ -13,7 +13,6 @@
 	 <p><img src="/imgGuia/arrozcostra.jpg"></p>
 	 <p><?php echo Yii::t('guia','preparacion')?></p>
 	 <p><?php echo Yii::t('guia','arroz con costra elaboracion')?></p>
-<p><?php echo Yii::t('guia','otros platos elche')?></p>
 <p><a class="enlacetipo1" href="http://www.visitelche.com/gastronomia/"><?php echo Yii::t('guia', 'Mas Info');?> Gastronomia de Elche</a></p>
 <p><a class="enlacetipo1" href="http://www.visitelche.com/escapadas/compras-gatronomicas/"><?php echo Yii::t('guia', 'Mas Info');?> Compras Gastronómicas Elche</a></p>
 

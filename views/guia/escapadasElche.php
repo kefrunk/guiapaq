@@ -8,7 +8,7 @@
 <h3> Yacimiento Arqueologico La Alcudia,</h3>
 <p><?php echo Yii::t('guia','intro alcudia')?></p>
 <h3>Museo Arqueologico y de Historia de Elche</h3> 
-<p><img width="60%" height="208" src="/imgGuia/mahe.jpg"></p>
+<p><img width="60%" height="288" src="/imgGuia/mahe.jpg"></p>
 <p><?php echo Yii::t('guia','intro MAHE')?></p>
 <h3>El Palmeral</h3>
 <p><?php echo Yii::t('guia','intro palmeral')?></p>
@@ -24,10 +24,24 @@
 <p><?php echo Yii::t('guia','intro centro de Elche')?></p>
 <p><img width="42%" height="208" src="/imgGuia/elchecentro2.jpg">
 <img width="42%" height="208" src="/imgGuia/centroelche1.jpg"></p>
+
 <h3>Ruta de Outlets Parque Empresarial</h3>
 <p><iframe class="video" width="420" height="315" src="http://www.youtube.com/embed/UE0leEfldt0" frameborder="0" allowfullscreen></iframe>
 <p><?php echo Yii::t('guia','intro outlets elche')?></p>
 <a class="enlacetipo1" href="www.elcheparqueempresarial.es">Mas Info Parque empresarial</a></p>
+
+
+<h3>Rio Safari Elche</h3>
+<p><?php echo Yii::t('guia','intro rio safari')?></p>
+<p><img width="42%" height="208" src="/imgGuia/riosafari1.jpg">
+<img width="42%" height="208" src="/imgGuia/riosafari2.jpg"></p>
+<p><a class="enlacetipo1" href="http://www.riosafari.com">Mas Info Rio Safari</a></p>
+
+<h3>Pola Park Santa Pola</h3>
+<p><?php echo Yii::t('guia','intro pola park')?><br>
+<img width="52%" height="208" src="/imgGuia/polapark.jpg"></p>
+<p><a class="enlacetipo1" href="http://www.polapark.com">Mas Info Pola Park</a></p>
+
 
 <h2>Crevillente:</h2>
 <p><?php echo Yii::t('guia','intro Crevillente')?></p>

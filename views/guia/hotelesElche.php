@@ -2,24 +2,70 @@
 <p><b>Hotel Huerto del Cura:</b> <br>Carrer de la Porta de la Morera, 14 <br>
 03203 Elche, Alicante<br>966 61 00 1<br>
 <a class="enlacetipo1" href="http://www.huertodelcura.com/en">Web Site</a></p></p>
-<p><b>Hotel Jard&iacute;n del milenio:</b> <br>Prolongaci&oacute;n de los curtidores, S/N<br> 
+<p><b>Hotel Jard&iacute;n del Milenio:</b> <br>Prolongaci&oacute;n de los curtidores, S/N<br> 
 03203 Elche, Alicante<br>
 966 61 20 33<br>
 <a class="enlacetipo1" href="http://www.hotelspaportamaris.com/">Web Site</a></p>
-<p><b>Hotel Tryp ciudad de Elche:</b> <br>Avinguda Joan Carles I, 7<br>
+<p><b>Hotel Tryp Ciudad de Elche:</b> <br>Avinguda Joan Carles I, 7<br>
 03203 Elche, Alicante<br>
 966 61 00 33<br>
 <a class="enlacetipo1" href="http://www.tryphotels.com/es/hotel-tryp-ciudad-de-elche-espana.html">Web Site</a></p>
 <p><b>Hotel Ibis:</b> <br>Carrer Barchell, 5<br> 03203 Elche, Alicante<br>
 966 61 54 5<br>
 <a class="enlacetipo1" href="www.ibis.com/Elche">Web Site</a></p>
-<p><b>Hotel Holiday Inn:</b> <br>Calle Miguel Servet<br>03203 Elche, Alicante
+<p><b>Hotel Holiday Inn:</b> <br>Calle Miguel Servet (Elche Parque Empresarial)<br>03203 Elche, Alicante
 <br>966 65 15 51<br>
 <a class="enlacetipo1" href="www.holidayinn.com/Elche">Web Site</a></p>
+
+
+
+<p><b>Hotel Areca:</b> <br>C/ Limón, 2 (Elche Parque Empresarial)<br>03320 Torrellano, Alicante
+<br>96 568 54 77<br>
+<a class="enlacetipo1" href="http://www.hotelareca.es/">Web Site</a></p>
+
+
+<p><b>Hotel H2 Elche:</b> <br>Calle Almansa, 62<br>03206 Elche, Alicante
+<br>966 66 20 65<br>
+<a class="enlacetipo1" href="http://www.hoteles2.com/h2-elche.html">Web Site</a></p>
+
+<p><b>Hotel Campanille:</b> <br>Calle Petrer, S/N<br>03206 Elche, Alicante
+<br>965 43 57 60<br>
+<a class="enlacetipo1" href="http://www.campanile-elche.es/en/index.aspx">Web Site</a></p>
+
+
 <h1><?php echo Yii::t('guia','imgAltRestaurante')?>s </h1>
+
+<p><b>Restaurante Sansanos:</b> <br>Carrer de Fra Jaume Torres, 7<br>
+03204 Elche, Alicante<br>
+966 63 26 74<br></p>
+
+<p><b>Tapería Sánchez Roldán</b> <br>Vicente Blasco Ibáñez, 27<br>
+Elche, Alicante<br>
+96 543 35 95<br>
+<a class="enlacetipo1" href="http://www.sanchezroldan.es/Sanchez_Roldan/home.html">Web Site</a></p>
+
+<p><b>Restaurante La Taula</b> <br>Carrer de curtidores s/n<br>
+03203 Elche, Alicante<br>
+966 612 033<br>
+<a class="enlacetipo1" href="http://www.hotelmilenio.com/restaurante-la-taula/">Web Site</a></p>
+
+<p><b>Restaurante Els Capellans</b><br>Carrer de la Porta de la Morera, 14 <br>
+03203 Elche, Alicante<br>966 61 00 1<br>
+<a class="enlacetipo1" href="http://www.hotelhuertodelcura.com/restaurante-els-capellans/">Web Site</a></p>
+
+<p><b>Restaurante Dátil de Oro</b><br>Parque Municipal. Paseo de la estación s/n <br>
+03202 Elche, Alicante<br>96 545 34 15<br>
+<a class="enlacetipo1" href="http://www.datildeoro.com/">Web Site</a></p>
+
+
 <p><b><?php echo Yii::t('guia','imgAltRestaurante')?> El Granaino:</b> <br>Jos&eacute; Maria Buch, 40 <br>
 Elche, Alicante<br>966 664 080<br>
 <a class="enlacetipo1" href="http://www.mesongranaino.com">Web Site</a></p>
+
+<p><b><?php echo Yii::t('guia','imgAltRestaurante')?>Carabí:</b> <br>	Carrer del Llimó, 2  <br>
+03320 Torrellano, Alicante<br>965 68 55 51<br>
+<a class="enlacetipo1" href="http://www.restaurantecarabi.com/">Web Site</a></p>
+
 <p><b><?php echo Yii::t('guia','imgAltRestaurante')?> La Finca:</b> <br>Partida Perleta, Pol&iacute;gono 1, num 7, S/N<br> 
 03295 Elche, Alicante<br>
 965 45 60 07<br>

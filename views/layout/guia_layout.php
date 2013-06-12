@@ -17,7 +17,6 @@
 		
 	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
 	<script type="text/javascript" src="/js/simpletreemenu.js"></script>
-	<link rel="stylesheet" type="text/css" href="/css/simpletree.css" />
 	<link rel="stylesheet" type="text/css" href="/css/paquito/jui.custom.css" />
 </head>
 
@@ -117,7 +116,7 @@
 					<li><?php echo CHtml::link('-Fiestas en Alicante', array('index.php/guia/fiestasalicante'), array('class' => 'enlacetipo1'));?></li>
 					<li><?php echo CHtml::link('-Fiestas en Elche', array('index.php/guia/fiestaselche'), array('class' => 'enlacetipo1'));?></li>
 					<li><?php echo CHtml::link('-Fiestas en Vega Baja', array('index.php/guia/fiestasvegabaja'), array('class' => 'enlacetipo1'));?></li>
-					
+					<li><?php echo CHtml::link('-Fiestas en Elda y Petrer', array('index.php/guia/fiestasVinalopo'), array('class' => 'enlacetipo1'));?></li>
 					</ul>
 				</li>
 				

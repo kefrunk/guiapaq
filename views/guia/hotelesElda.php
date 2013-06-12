@@ -13,6 +13,19 @@ T. 965 81 20 21<br>
 T. 965 55 29 45.<br>
 <a class="enlacetipo1" href="www.hoteldeljuguete.com">Web Site</a></p>
 
+
+<p><b>LA ROMANA HOTEL SPA</b> <br>CV-840  Road next to the Cooperative<br>
+03669 La Romana,  (Alicante) <br>
+T. 966 192 600<br>
+<a class="enlacetipo1" href="http://www.laromanahotel.es/">Web Site</a></p>
+
+
+<p><b>HOTEL FUENTE EL CURA</b> <br>Calle Buena Vista, 5  <br>
+Sax, Alicante<br>
+T. 966 969 013<br>
+<a class="enlacetipo1" href="http://www.fuenteelcura.com/">Web Site</a></p>
+
+
 <p><b>HOTEL XORRET DEL CATÍ</b> <br>Partida del Cati, S/N. <br>
 03420 Castalla, Alicante<br>
 T.965 56 04 00<br>
