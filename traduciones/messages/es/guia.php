@@ -46,6 +46,9 @@ return array(
 	'imgAltArenaGruesa' => 'Arena gruesa',
 	
 	'Mas Info' => 'Mas Info',
+	'Anchura Media'=>'Anchura Media',
+	'Longitud Media'=>'Longitud Media',
+	'Ocupacion'=>'Ocupación',
 	
 	//--------------------------//
 	
@@ -123,22 +126,12 @@ return array(
 	'Castillo de Santa Barbara 2' => 'En el castillo de Santa Bárbara está situado el MUSA(Museo de la ciudad de Alicante). La visita al Castillo se puede realizar todos los días del año. <a href="http://www.alicante.es/redir.php?apartado=cultura&pagina=museos-santabarbara.html&titulo=Castillo%20de%20Santa%20B%E1rbara%20-%20Patronato%20Municipal%20de%20Cultura%20/%20Ayuntamiento%20de%20Alicante">Aquí </a>puede encontrar los horarios de los ascensores',
 	'Castillo de Santa Barbara 1' => 'El castillo de Santa Bárbara se encuentra ubicado en el centro de la ciudad de Alicante, sobre el monte Benacantil, mole rocosa de 166 m de altitud lindante con el mar, lo que le confería un enorme valor estratégico ya que desde la misma se divisa toda la bahía de Alicante y sus alrededores terrestres.
 									En sus laderas se han encontrado restos arqueológicos de la Edad del Bronce, ibéricos y de la época romana, si bien el origen de la actual fortaleza hay que buscarlo a finales del siglo IX cuando la dominación musulmana.',
-	
 	'intro Museos' =>'La ciudad de Alicante cuenta con algunos museos de importancia',
 	'Museos Alicante MACA' => 'Situado en el casco antiguo de la ciudad. El pilar básico del MACA es la Colección Arte Siglo XX donada por el artista alicantino Eusebio Sempere en 1977. Formada por pinturas, esculturas, técnicas mixtas y litografías de artistas españoles y extranjeros, como Dalí, Picasso, Chillida, Manolo Millares, Pablo Serrano, Joan Miró, Kandinsky, Chagall o Vasarely.',
 	'Museos Alicante MUBAG' => 'Museo principalmente dedicado a la pintura y escultura alicantina, desde el siglo XVI hasta las primeras décadas del siglo XX.',
 	'Museos Alicante MARQ' => 'Presenta piezas arqueológicas de toda la provincia, desde la Edad de Piedra hasta la Edad Moderna, como la dama ibérica de Cabezo Lucero. Destaca por su estética innovadora y la utilización de métodos audiovisuales: no en vano, fue galardonado como "Museo Europeo del Año" en el 2004.',
 	'Museos Alicante otros' => 'Destacan otros museos como el Museo de la Universidad de Alicante, el Museo del Agua-Pozos de Garrigós,Museo de Belenes, o el Museo de las Hogueras',
-	'Fiestas en Alicante' =>'Fiestas en Alicante',
-	'intro hogueras' => 'La celebración más importante que tiene lugar en la ciudad de Alicante son sin duda las Hogueras de San Juan',
-	'Hogueras Alicante parrafo 1' => 'Esta fiesta se remonta a los tiempos en que los labradores alicantinos celebraban el día más largo del año para las recolección de las cosechas y la noche más corta para la destrucción de los males
-									Hoy en dia las Hogueras de San Juan son las fiestas oficiales de la ciudad de Alicante y están declaradas de Interés Turístico Internacional.',								 
-	'Hogueras Alicante parrafo 2' => 'Del 17 al 20 de junio se plantan las "hogueras" que son monumentos artísticos de madera, cartón, corcho y pintura que contienen una profunda carga satírica. Cuatro días más tarde se queman después de lanzarse una monumental palmera de fuegos artificiales desde el monte Benacantil, donde se encuentra el Castillo de Santa Bárbara, y que es visible prácticamente desde cualquier punto de la ciudad. Cada Hoguera representa a una calle, zona o barrio de la ciudad.',
-	'intro semana santa' => 'La celebración de la semana santa tiene gran importancia en Alicante',
-	'Carnavales' => 'Carnavales',
-	'intro Carnavales' => 'Entre los 10 mejores carnavales en Espa&ntilde;a, abierto a todo el mundo',
-	'Comarca de Alicante' => 'Comarca de Alicante',
-	'santa faz parrafo 1'=>'La multitudinaria romería de la Santa Faz se realiza la segunda semana siguiente a Jueves santo, en un solo día. Muy temprano, se reparten las cañas de romero y, antes de llegar hasta el monasterio, el almuerzo se marca como una parada obligatoria.',
+		'Comarca de Alicante' => 'Comarca de Alicante',
 	'Tranvia Alicante Parrafo 1' =>'Tranvia Alicante Parrafo 1',
 	
 	//Elche
@@ -152,7 +145,9 @@ return array(
 	'intro palmeral' => 'El Parmeral de Elche, que ha sido proclamado patrrimonio de la humanidad por la UNESCO, conforma una gran extensión de palmeras datileras dentro del casco urbano de la ciudad. Es el palmeral más grande de Europa y en el mundo sólo le superan algunos palmerales árabes. Según la tradición fueron los fenicios quienes introdujeron la palmera en estas tierras, aunque el trazado del Palmeral se consolidó durante la etapa musulmana.',
 	'intro huerto del cura' =>'El Huerto del Cura es un jardín botánico de unos 13.000 m², densamente poblado de palmeras. Forman parte de la colección botánica plantas de los huertos mediterráneos, como granados, azofaifos, naranjos, higueras y limoneros, a los que se han ido añadiendo con el tiempo plantas de origen subtropical y una colección de cactus. Este Huerto, debe su nombre al capellán José Castaño Sánchez, que fue su propietario hasta el año 1918.',
 	'intro centro de Elche' =>'Recorriendo el centro de la ciudad, el viajero se encontrarácon monuemntos hist&oacute;ricos como el castillo del siglo XII, denominado Palacio de Altamira. Tambi&eacute; se podr&aacute; visitar la bas&iacute;lica de Santa Maria, de origen barroco, donde tiene lugar la representaci&oacute;n del misteri d Elx.<br>De gran valor e interés son también dos edificios de origen musulmán, como la Torre de la Calahorra y los Baños Árabes.',
-	'intro outlets elche' => 'Elche es una ciudad tradicionalmente dedicada a la industria del calzado. Actualmente las grandes empresas del calzado tienen presencia en el Parque empresarial de Elche, situado a 7 Km del centro de la ciudad en direcci&oacute;n al aeropuerto, donde adem&aacute;s se ubican 319 empresas de todos los sectores, capitaneadas por el calzado y el textil. Estas grandes factor&iacute;as ofrecen tambi&eacute;n venta al por menor a precios bastante bajos',
+	'intro outlets elche' => 'Elche es una ciudad tradicionalmente dedicada a la industria del calzado. Actualmente las grandes empresas del calzado tienen presencia en el Parque empresarial de Elche, situado a 7 Km del centro de la ciudad en direcci&oacute;n al aeropuerto, donde adem&aacute;s se ubican 319 empresas de todos los sectores, capitaneadas por el calzado y el textil. Estas grandes factor&iacute;as ofrecen tambi&eacute;n venta al por menor a precios bastante bajos. Recuerede que Paquito Rent A Car tiene una oficina situada dentro del Parque Empresarial, en la calle Juan de la Cierva',
+	'intro rio safari' => 'Entre casi cuatro millares de palmeras, Río Safari Elche acoge a multitud de especies animales procedentes de todo el mundo: desde tortugas de Florida y camaleones, hasta ualabíes, pasando por cebras, cocodrilos, avestruces, leones, loros, un elefante asiático o linces europeos, entre muchas otras.',
+	'intro pola park' =>'Pola Park es un bonito parque de atracciones situado en Santa Pola ideal para el disfrute tanto de los más pequeños como los mayores',
 	'intro Crevillente'=> 'Crevillente es una ciudad perteneciente a la comarca del Baix Vinalopó junto con Elche y Santa Pola. Est&aacute; ciudad situada a pies de una sierra que mantiene la compleja trama urbana característica de sus orígenes islámicos. 
 							Se enorgullece de sus tradiciones, camina hacia la cultura y hace, de su principal actividad, un arte. 
 							Cuenta con dos grandes festividades: la de Moros y Cristianos declarada Fiestas de Interés Turístico Nacional, 
@@ -257,6 +252,16 @@ return array(
 	
 	
 	//------------------FIESTAS-----------------------//
+	//Alicante
+	'Fiestas en Alicante' =>'Fiestas en Alicante',
+	'intro hogueras' => 'La celebración más importante que tiene lugar en la ciudad de Alicante son sin duda las Hogueras de San Juan',
+	'Hogueras Alicante parrafo 1' => 'Esta fiesta se remonta a los tiempos en que los labradores alicantinos celebraban el día más largo del año para las recolección de las cosechas y la noche más corta para la destrucción de los males
+									Hoy en dia las Hogueras de San Juan son las fiestas oficiales de la ciudad de Alicante y están declaradas de Interés Turístico Internacional.',								 
+	'Hogueras Alicante parrafo 2' => 'Del 17 al 20 de junio se plantan las "hogueras" que son monumentos artísticos de madera, cartón, corcho y pintura que contienen una profunda carga satírica. Cuatro días más tarde se queman después de lanzarse una monumental palmera de fuegos artificiales desde el monte Benacantil, donde se encuentra el Castillo de Santa Bárbara, y que es visible prácticamente desde cualquier punto de la ciudad. Cada Hoguera representa a una calle, zona o barrio de la ciudad.',
+	'intro semana santa' => 'La celebración de la semana santa tiene gran importancia en Alicante',
+	'Carnavales' => 'Carnavales',
+	'intro Carnavales' => 'Entre los 10 mejores carnavales en Espa&ntilde;a, abierto a todo el mundo',
+	'santa faz parrafo 1'=>'La multitudinaria romería de la Santa Faz se realiza la segunda semana siguiente a Jueves santo, en un solo día. Muy temprano, se reparten las cañas de romero y, antes de llegar hasta el monasterio, el almuerzo se marca como una parada obligatoria.',
 	//Elche
 	'intro fiestas elche1'=>'Del 8 al 15 de Agosto la ciudad de Elche se viste de fiesta celebrándose eventos de todo tipo: Moros y cristianos, Charangas, conciertos gratuitos, desfiles, espectáculos pirotécnicos...',
 	'intro fiestas elche2'=>'Destacable es la noche del día 13 conocida como nit de l´Albà. A las 23:15 de esta noche, los ilicitanos disparan continuamente fuegos artificiales desde las terrazas de los edificios, creando un espectáculo pirotécnico sin igual (son lanzados unos 17.000kg netos de polvora). Esta tradición, que se remonta a la Edad Media, era en su origen un modo que tenían las familias de agradecer a la Virgen los hijos que habían tenido (lanzando un cohete por cada hijo).',
@@ -265,6 +270,13 @@ return array(
 	//Vega baja
 	'intro semana santa orihuela' => 'La Semana Santa de Orihuela, es una de las expresiones religioso-culturales más destacas de España, declarada de interés turístico internacional,1 2 representa otro atractivo cultural de la ciudad junto a su casco histórico declarado Conjunto Histórico-artístico y Monumental desde 1969. Hay procesiones el Viernes de Pasión o de Dolores y todos los días de la Semana Santa desde Domingo de Ramos hasta Domingo de Resurrección, siendo la Procesión General del Viernes santo una de las más grandes de España al recoger diez cofradías y más de 8000 nazarenos, 1200 músicos, dos centurias romanas, y una centuria de Guardia Pretoriana. De especial singularidad es la procesión del Silencio, que se celebra en Jueves Santo desde la Real y Majestuosa Iglesia de Santiago de Orihuela donde es posible escuchar el sobrecogedor Canto de la Pasión.',
 	'intro feria mayo torrevieja'=>'Lo que en origen fue una fiesta de sevillanas entre amigos, el tiempo la ha configurado como una de las celebraciones más importantes de la localidad, una fiesta surgida en el año 1987 al calor de un por aquel entonces pueblo de Torrevieja. Tanto es así que ha sido Declarada Fiesta de Interés Turístico de la Comunitat Valenciana. El evento, que se extiende de miércoles a domingo, comienza con la inauguración y el encendido de la feria. A este acto se unen bailes, paseos de caballos, espectáculos ecuestres y actuaciones diarias que hacen la convierten en una experiencia inolvidable.',
+	//Elda-Petrel
+	'Fiestas en Elda y Petrer' => 'Fiestas en Elda y Petrer',
+	'intro fallas elda' => 'Las Fallas de Elda se celebran anualmente la segunda semana de septiembre y duran de miércoles a domingo. Consisten en la planta y posterior quema de monumentos artísticos de madera y cartón. Los monumentos suelen constar de una alta estructura central de madera, y están enfocados sobre un lema. Están llenos de ninots, pequeños muñecos de cartón y poliuretano, que hacen referencia a lugares, actos y personajes de actualidad, a los cuales les acompañan carteles con una crítica satírica en tono de humor y protesta. Como herencia de antiguas tradiciones arraigadas en la ciudad, se tiene noticia documentada de que, en el año 1929, además de hogueras en la noche de San Juan, se plantaban fallas en Elda por iniciativa vecinal, especialmente en el Barrio Nuevo y de La Prosperidad. Estas fallas sin estructura organizada seguirían de forma más o menos visible hasta el año 1936, cuando la Guerra Civil y su posguerra abrieron un paréntesis lógico, que se cerraba en el año 1949, con los vecinos de la calle Trinquete (por entonces oficialmente del General Saliquet), que retoman la costumbre de forma regular, hasta que a instancias de los colaboradores del semanario local Valle de Elda se forma una gestora en 1958, encargada de crear la Junta Central de Fallas de San Pedro, organismo rector de la fiesta y de las comisiones falleras de la ciudad. Después vendrían la creación del cargo de Reinas de las Fallas, la Revista Oficial y tantas otras iniciativas que fueron conformando el particular y genuino carácter que tienen las fallas eldenses.',
+	'intro moros petrel' => 'Los Moros y Cristianos de Petrel en honor a San Bonifacio Mártir tienen lugar del jueves al lunes del fin de semana más cercano al 14 de mayo, festividad del patrón de la población. Estas fiestas están catalogadas como de Interés Turístico Nacional desde el año 1966.
+De cinco días de duración, son unas de las Fiestas de Moros y Cristianos más antiguas de la provincia, teniéndose datos de éstas ya en el siglo XVII, concretamente de 1614 y unas normas ya marcadas y establecidas desde el 12 de mayo de 1822, como así se recoge en un bando municipal.',
+	
+	
 	//------------------------------------------------//
 	
 	
@@ -283,6 +295,8 @@ return array(
 	'intro turismo rural'=> 'La oferta de turismo rural en la provincia de Alicante es muy variada, destacamos una interesante asociación cercana a nuestra entidad. Se trata de la Asociacion para el desarrollo rural del campo de Elche',
 	'intro casa catral'=>' En Catral se encuentra una acogedora y hospitalaria Casa Rural ideal para relejarse y disfrutar en familia de la naturaleza y de la huerta',
 	'intro campings'=>'Marjal Costa Blanca Eco Camping Resort pertenece al municipio de Crevillente.Marjal Costa Blanca es uno de los Campings Resorts más modernos de Europa. Con unas instalaciones de gran calidad, un clima privilegiado y un equipo humano a su entera disposición hará que sus vacaciones sean inolvidables. Idóneo para disfrutarlo en cualquier época del año.',
+	'intro casa pinoso'=>'Situada entre viñedos, cerezos y olivares, la casa rural Casa 10-11 Guest House Hotel ofrece un lugar para disfrutar, despejarse, relajarse o practicar actividades alternativas',
+	'intro casa petrer'=>'En petrer podemos encontrar dos casas rurales lugar idóneas para disfrutar de un marco natural, etnológico y cultural incomparable.',
 	//-------------------------//
 	
 	
@@ -336,8 +350,8 @@ return array(
 	'gazpacho villena ingredientes'=>'Medio conejo. Medio pollo. 2 docenas de caracoles. Una cebolla. dos tomates maduros. Aceite de oliva. 250 grs. de setas. 2 tortas de gazpacho de 500 grs. Pebrella.',
 	'gazpacho villena elaboracion'=>'Se sofríe el pollo, conejo, cebolla y tomate rallado poniendo a cocer. Añadir las setas, pebrella, caracoles previamente engañados dejando que continúe la cocción. Se parte la torta de gazpachos en trozos muy pequeños y agrega a la cocedura, dejando parte de ella entera que nos servirá de lecho en el plato donde se sirvan. Nota: no necesitan mucho tiempo de cocción y es costumbre acompañarlos con un poco de all i oli.',
 	'intro gastronomia elche' => 'El principal plato en Elche es el Arroz con costra, que se elabora en un perol de barro y cuyos ingredientes son el arroz, el conejo o/y pollo, embutidos varios, aceite, sal, azafrán, huevo, tomate y garbanzos. Otros platos típicos de la gastronomía ilicitana son el Arroz con Conejo y Caracoles y el tradicional Puchero con Pelotas, así como el Mújol del Hondo con alioli. Como aperitivo cabe resaltar las delicias de Elche, que son unos entrantes formados por un dátil relleno con una almendra, envuelto a su vez por bacon frito, unificando las texturas y sabores. Además, también se encuentra el plato llamado Pipes i carases, compuesto principalmente de bacalao seco, ñoras y aceite. Como postres destacan los dátiles, las granadas, los higos y como dulces la Tortada de Elche o pan de higo, y las fogasetas que se elaboran en Pascua. En cuanto a dulces, destacar la tarta de Elche, que se trata de un bizcocho hecho a base de harina de almendra, almibarado para evitarle la sequedad, y con merengue por encima.',
-	'ingredientes' => ' Ingrédients',
-	'preparacion' =>'Préparation',
+	'ingredientes' => ' Ingredientes',
+	'preparacion' =>'Preparación',
 	'otros platos elche' =>'Además existen otros platos típicos de Elche como los elaborados con dátil: Delicias de Elche o Pastel de Dátil. Otros dulces como las almojábenas o la coca salada también tienen gran tadición como en otros pueblos de la zona',
 	'otros platos Vinalopo' =>'Otros platos típicos de la zona son las toñas, borreta de Sax o el Triguico de Villena',
 	
