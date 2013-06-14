@@ -12,10 +12,10 @@
 <a class="enlacetipo1" href="http://www.tryphotels.com/es/hotel-tryp-ciudad-de-elche-espana.html">Web Site</a></p>
 <p><b>Hotel Ibis:</b> <br>Carrer Barchell, 5<br> 03203 Elche, Alicante<br>
 966 61 54 5<br>
-<a class="enlacetipo1" href="www.ibis.com/Elche">Web Site</a></p>
+<a class="enlacetipo1" href="http://www.ibis.com/Elche">Web Site</a></p>
 <p><b>Hotel Holiday Inn:</b> <br>Calle Miguel Servet (Elche Parque Empresarial)<br>03203 Elche, Alicante
 <br>966 65 15 51<br>
-<a class="enlacetipo1" href="www.holidayinn.com/Elche">Web Site</a></p>
+<a class="enlacetipo1" href="http://www.holidayinn.com/Elche">Web Site</a></p>
 
 
 
@@ -31,6 +31,11 @@
 <p><b>Hotel Campanille:</b> <br>Calle Petrer, S/N<br>03206 Elche, Alicante
 <br>965 43 57 60<br>
 <a class="enlacetipo1" href="http://www.campanile-elche.es/en/index.aspx">Web Site</a></p>
+
+<p><b>Hostal Madruga:</b> <br>Plaza Jardín de Aspe,5 <br>03205 Elche, Alicante
+<br>966 67 47 94<br>
+<a class="enlacetipo1" href="http://www.hostalmadruga.es/">Web Site</a></p>
+
 
 
 <h1><?php echo Yii::t('guia','imgAltRestaurante')?>s </h1>
@@ -70,6 +75,22 @@ Elche, Alicante<br>966 664 080<br>
 03295 Elche, Alicante<br>
 965 45 60 07<br>
 <a class="enlacetipo1" href="http://lafinca.es">Web Site</a></p>
+
+<p><b>Bar de Tapas Salvador</b> <br>C/ Poeta Miguel Hernandez, 69 bajo.<br> 
+03204 Elche, Alicante<br>
+965 45 60 07<br></p>
+
+<p><u><b>Asociación de Restaurantes del Camp d'Elx (ARCE)</b></u><br><br> 
+Restaurante CACHITO, Carretera de Elche A Casas del León,  966 63 35 75, <a class="enlacetipo1" href="http://www.restaurantecachito.com/">Web Site</a><br>
+Restaurante MATOLA, Avda. de Algoda, 37,  966 64 01 90, <a class="enlacetipo1" href="http://www.restaurantematola.com">Web Site</a><br>
+Restaurante LOS ALMENDROS, Carretera Elche-Alicante, Torrellano  96 568 01 78, <a class="enlacetipo1" href="http://www.rtelosalmendros.com/">Web Site</a><br> 
+Restaurante CASA MOLINA, Ptda Valverde Alto, 165 03139 Valverde  966 63 84 64, <a class="enlacetipo1" href="http://www.restaurantecasamolina.com/">Web Site</a><br> 
+Restaurante NUGOLAT, Partida Daimes Pol 1 Nº 156, , 03294 Elche,  965 45 51 754, <a class="enlacetipo1" href="http://restaurantenugolat.com">Web Site</a><br> 
+Restaurante ESTANQUET, Partida Derramador 236. Elche, 03293 Elche,  96 542 15 03, <a class="enlacetipo1" href="http://www.estanquet.es">Web Site</a><br> 
+Restaurante CARLOS, Ctra de la Marina, km 1 03294 Elche, 965 42 71 84<a class="enlacetipo1" href="http://www.restaurantecarlos.com/">Web Site</a><br> 
+Restaurante MARTINO, Pda. Derramador, 267, 03293 Elche, 965 45 17 40<a class="enlacetipo1" href="http://www.salonesmartino.es/">Web Site</a><br> 
+</p>
+
 <p><b>La Mas&iacute;a de Chencho:</b> <br>Partida de Jubalcoi, polig. 1, num 9<br>
 03295 Elche, Alicante<br>
 965 45 97 47 - 965 42 17 84<br>

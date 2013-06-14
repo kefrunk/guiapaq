@@ -4,28 +4,28 @@ return array(
 	//--------------PLAYAS-------//
 	'Playas' => 'Plages',
 		//Alicante
-	'intro playas Alicante' => 'La ville d&#39;Alicante est baignée par les eaux de la Méditerranée et des plages magnifiques se trouvent sur sa côte. Des plages emblématiques tels que la plage de San Juan ou Postiguet, en passant par la Almadrava, L&#39;Albufereta, Muchavista, Urbanova. Sans oublier la magnifique île de Tabarca qui peut être accessible par bateau du port de la ville',
+	'intro playas Alicante' => 'La ville d&#39;Alicante est baignée par les eaux de la Méditerranée et des plages magnifiques se trouvent sur sa côte. Des plages emblématiques tels que la plage de San Juan ou Postiguet, en traversant la Almadrava, L&#39;Albufereta, Muchavista, Urbanova. Sans oublier la magnifique île de Tabarca qui peut être accédé par bateau du port de la ville',
 		//Elche y Santa Pola
-	'intro arenales' => 'Il possède une plage de sable doré dans une région d&#39;une grande beauté, qui présente également un système de dunes unique',
-	'intro arenales 2' => 'Sa surface est de 2800 mètres par 40 mètres de large. Le taux d&#39;occupation moyen est élevé. Plage urbaine protégée. L&#39;état habituel de la mer est vagues modérée. Plage avec accès handicapés, parking, toilettes, douches, téléphone, parasol, chaises longues et parasols de location, sports nautiques.',
-	'intro Gran Playa' => 'Compris une zone windsurf et aussi pour rollerskate, un chiringuito, des restaurants et une rampe d&#39;accès aux bateaux. Son sable fin et le longueur possiilitent très grande variété d&#39;activités, des jeux, des sports, des loisirs et des sports nautiques. Cette plage est équipée d&#39;un accès pour les personnes à mobilité réduite.',
+	'intro arenales' => 'Arenales possède une plage de sable doré dans une région d&#39;une grande beauté, qui présente également un système de dunes unique',
+	'intro arenales 2' => 'Sa surface est de 2800 mètres par 40 mètres de longueur. La taux d&#39;occupation moyen est élevé. Plage urbaine protégée. L&#39;état habituel de la mer est vagues modérées. Plage avec accès pour handicapés, parking, toilettes, douches, téléphone, parasol, chaises longues et parasols de location, ideal pour sports nautiques.',
+	'intro Gran Playa' => 'Compris une zone windsurf et aussi une voie pour rollerskate, un chiringuito, des restaurants et une rampe d&#39;accès aux bateaux. Son sable fin et le longueur possiilitent très grande variété d&#39;activités, des jeux, des sports, des loisirs et des sports nautiques. Cette plage est équipée d&#39;un accès pour les personnes à mobilité réduite.',
 	'intro Playa Levante' => '<p>Situé dans le quartier le plus central de la ville et avec un grande éventail de services et d&#39;infrastructures, a aussi une grande quantité de terrains de jeux et de sports pour faire le séjour aussi agréable que possible. Cette plage est équipée d&#39;un accès pour les personnes handicapés. A reçu le drapeau bleu 2013',
 	'intro Varadero' => 'Il possède toutes les commodités des plages urbaines. A reçu, comme toutes les dernières années, le drappeau Bleu en 2013.',
 	'intro Calas Santa Pola' =>'Il s&#39;agit de criques melangés avec zones de sable et des zones rocheuses avec des eaux très propres d&#39;un bleu profond. Certains d&#39;entre eux ont été déclarées d&#39;intérêt  touristique national',
 	'intro Tamarit' => 'Il possède toutes les commodités des plages urbaines. A reçu, comme toutes les dernières années, le drappeau Bleu en 2013.',
-	'intro La Marina' => '<p>Il s&#39;agit d&#39;une plage de sable doré, ouvert et vierge qui et offre unes eaux bleues et propres. Son environnement est marqué par une bande de dunes qui donnent une image très naturelle.',
+	'intro La Marina' => '<p>Il s&#39;agit d&#39;une plage de sable doré, ouverte et vierge qui offre des eaux bleues et propres. Son environnement est marqué par une bande de dunes qui donnent une image très naturelle.',
 	'intro playas Elche' => 'Entre Arenales del Sol et La Marina vous pouvez trouver quelques-unes des plus belles et spacieuses plages dans la province d&#39;Alicante.',
-	'intro playas Elche 2' => 'On citera à titre d&#39;exemple certains plage comme Carabassí, où on peut voir au fond la ville d&#39;Alicante parce-qu&#39;elle est situé au milieu de la baie, ou celles de Santa Pola, avec ses installations touristiques le plus completes. Les criques qui rappellent celles de Tabarca qui est à seulement 25 minutes du port de Santa Pola. Au sud se trouve La Marina, caractérisée par des dunes et le Pinet qui a une forêt de pins où vous pouvez profiter d&#39;une plage avec du caractère 100%  naturel.',
+	'intro playas Elche 2' => 'On citera à titre d&#39;exemple certains plages comme Carabassí, où on peut voir au fond la ville d&#39;Alicante parce-qu&#39;elle est situé au milieu de la baie, ou celles de Santa Pola, avec ses installations touristiques le plus completes. Avec ses criques qui rappellent celles de Tabarca qui est à seulement 25 minutes du port de Santa Pola. Au sud se trouve La Marina, caractérisée par des dunes et le Pinet qui a une forêt de pins où vous pouvez profiter d&#39;une plage avec du caractère 100%  naturel.',
 		//Vega Baja
 	'intro playas Vega Baja' => 'Vers le sud de l&#39;embouchure de la rivière Segura à Guardamar jusqu&#39;à la province de Murcie,  on peut trouver grand nombre de plages, quelques d&#39;entre elles des vrais paradises méditerranées. Torrevieja est la principal ville côtière avec les plages Los Locos, El náufrago, El Cura et La Mata. Orihuela Costa a La Zenia, Playa Flamenca et déjà très proche de Murcia et Cartagena on trouve les belles plages de Pilar de la Horadada.',
-	'intro Guardamar' =>'<p>Placé sur la côte sud d&#39;Alicante, Guardamar del Segura, a un littoral de nombreuses plages de sable de haute qualité, ses dunes exotiques qui portent des traces de civilisations passées et une gamme complète de services touristiques pour profiter de son séjour. Dunes et pins conforment un beau paysage qui invite à rester.',
-	'intro torrevieja' =>'Torrevieja est une ville côtière qui possède un long littoral de plages. C&#39;est une destination idéale pour profiter de la mer, prendre le soleil ou vous détendre dans n&#39;importe pas quel de ses plages avec toutes les commodités telles que restaurants, cafés, jeux sportives,  surveillance, des stands d&#39;information, des drappeaux avec l&#39;état de la mer et accès pour handicapés. En plus, sont situés a coté de la prommenade un lier idéale pour marcher à pied.',
+	'intro Guardamar' =>'<p>Placé sur la côte sud d&#39;Alicante, Guardamar del Segura, a un littoral de nombreuses plages de sable d&#39;haute qualité, et des dunes exotiques qui portent des traces de civilisations passées et une gamme complète de services touristiques pour profiter de son séjour. Dunes et pins conforment un beau paysage qui invite à rester.',
+	'intro torrevieja' =>'Torrevieja est une ville côtière qui possède un long littoral de plages. C&#39;est une destination idéale pour profiter de la mer, prendre le soleil ou vous détendre dans n&#39;importe pas quelle plage avec toutes les commodités telles que restaurants, cafés, jeux sportives,  surveillance, des stands d&#39;information, des drappeaux avec l&#39;état de la mer et accès pour handicapés. En plus, sont situés a coté de la prommenade un lier idéale pour marcher à pied.',
 	'intro orihuela costa' => 'Orihuela Costa dispose de 16 kilométres de côte où les falaises alternent avec des eaux claires et ses plages de sable fin de prestige reconnu.',
 	'intro playas pilarhoradada' => 'La côte de Pilar de la Horadada s&#39;étend sur plus de quatre kilomètres, où nous trouvons deux longues plages de sable fin et blanc en contraste frappant avec la mer bleue et les petites falaises rocheuses, qui donnent comme resultat un sable doré.',
 		//Benidorm
-	'intro playa levante benidorm' => 'Entre Punta Pinet y Punta Canfali se forma una amplia bahía de más de dos kilómetros con una playa urbana que sin duda es una de las más animadas y concurridas de la costa mediterránea. Gracias a su orientación, es posible tomar el sol en ella hasta última hora de la tarde en verano y hasta su puesta en invierno. Es de arena fina y dorada, aguas transparentes y está adornada con palmeras que le dan un aspecto muy atractivo. Está delimitada por un cuidado paseo marítimo en el que se suceden restaurantes, cafeterías y pubs. Es una playa adaptada para personas con movilidad reducida.',
+	'intro playa levante benidorm' => 'Entre Punta Pinet et Punta Canfali on trouve une large baie de plus de deux kilometres avec une plage urbaine qui est vraiment l&#39;un des plus animés et les plus fréquentés de la côte méditerranéenne. Grace a sa orientation, vous pourrez prendre le soleil en elle jusqu&#39;à la fin de l&#39;après-midi en été et jusqu&#39;au coucher du soleil en hiver. A un sable fin et doré, eaux claires et est decoré avex palmiers qui donnent un look très attrayant. Elle est délimitée par une promenade oú il y a des restaurants, cafés et pubs. Cette plage est adapté aux personnes à mobilité réduite.',
 	'intro playas Benidorm'=>'Les plages de Benidorm sont l&#39;une des grandes attractions de la côte Méditerranée',
-	'intro playa poniente benidorm' => 'Du port à la pointe de Cabezo Tossal se trouve cette plage de plus de troiskilometres de longeur, eaux propres et sable fin et doré où une succession de palmiers donnent, si quoi que ce soit, plus attrayant. La plage et la promenade qui définit une exposition d&#39;image en mouvement à n&#39;importe quel moment de la journée. Cette plage est équipée de tous les services nécessaires pour les personnes handicapées',
+	'intro playa poniente benidorm' => 'Du port à la pointe de Cabezo Tossal se trouve cette plage de plus de trois kilometres de longeur, eaux propres et sable fin et doré où une succession de palmiers donnent une image, si quoi que ce soit, plus attrayant. La plage et la promenade qui définit une exposition d&#39;image en mouvement à n&#39;importe quel moment de la journée. Cette plage est équipée de tous les services nécessaires pour les personnes handicapées',
 	'intro cala mal pas benidorm' => 'Entre Punta Canfali et le port est cette petite crique de sable doré qui a une atmosphère plus calme et sépare des plages bondées de Levante et Poniente. en face on peut apprécier l&#39;îlle de Benidorm, une réserve marine importante avec d&#39;excellents fonds qui sont un cadeau pour les plongeurs',
 	
 	//Alt imagenes playas
@@ -46,10 +46,13 @@ return array(
 	'imgAltArenaGruesa' => 'Sable Brut',
 	
 	'Mas Info' => 'Plus Info',
-	
+	'Anchura Media'=>'Largeur moyen',
+	'Longitud Media'=>'Longueur Moyen',
+	'Ocupacion'=>'Ocupation',
 	//--------------------------//
 	
 	
+	//555555555555555555555555555555555555555555555555//
 	
 	//---------CASTILLOS DEL VINALOPO-------//
 	
@@ -263,6 +266,8 @@ Se promener dans ses rues révèle clairement l&#39;effort de son peuple à pros
 	'intro turismo rural'=> 'L&#39;offrre de turisme rural dans la région d&#39;Alicante es très variée, on suggére une intéresante association proche à notre entité. Il s&#39;agit de l&#39;Association pour le dévelopement rural de la campagne d&#39;Elx',
 	'intro casa catral'=>' À Catral se trouve une confortable et accueillante maison idéal pour profiter en famille de la nature',
 	'intro campings'=>'Marjal Costa Blanca Eco Camping Resort est dans la commune de Crevillente. C&#39;est l&#39;un des Campings Resorts le plus moderne de l&#39;Europe. Avec des installations de grande qualité, un climat privilegiado et un équipe humain a votre disposition pour fair de vos vacanaces un séjour mémorable. Idéal pour n&#39;importe quelle saison de l&#39;année.',
+	'intro casa pinoso'=>'Situada entre viñedos, cerezos y olivares, la casa rural Casa 10-11 Guest House Hotel ofrece un lugar para disfrutar, despejarse, relajarse o practicar actividades alternativas',
+	'intro casa petrer'=>'En petrer podemos encontrar dos casas rurales lugar idóneas para disfrutar de un marco natural, etnológico y cultural incomparable.',
 	//-------------------------//
 	
 	
@@ -270,7 +275,7 @@ Se promener dans ses rues révèle clairement l&#39;effort de son peuple à pros
 	
 	//------------AVE----------//
 	
-	'intro conexion ave'=> 'Le 23 Juin est la date choisi par Renfe pour fournir un service commercial jusqu&#39;à Alicante. Si rien ne change, il est prévu que quelques jours plus tôt (21 ou 22) ils ouvriront la ligne avec la présence des grandes autorités espagnoles. De cette ouverture jusqu&#39;au 23 Juin, Renfe déplacera les premiers trains à grande vitesse à la nouvelle terminal d&#39;Alicante. Le détail du matériel roulant est discutée cette semaine dans les bureaux de Renfe et au ministère du Développement. Plus info ',
+	'intro conexion ave'=> 'Le 23 Juin est la date choisi par Renfe pour fournir un service commercial jusqu&#39;à Alicante. Si rien ne change, il est prévu que quelques jours plus tôt (18 ou 20) ils ouvriront la ligne avec la présence des grandes autorités espagnoles. De cette ouverture jusqu&#39;au 23 Juin, Renfe déplacera les premiers trains à grande vitesse à la nouvelle terminal d&#39;Alicante. Le détail du matériel roulant est discutée cette semaine dans les bureaux de Renfe et au ministère du Développement. Plus info ',
 	'intro estaciones ave paquito'=>'Paquito Rent a Car a service de retrait et retour de véhicules aux nouvelles stations de grande vitesse de la région de Alicante', 
 	
 	//-------------------------//
@@ -279,6 +284,7 @@ Se promener dans ses rues révèle clairement l&#39;effort de son peuple à pros
 	//---------GOLF--------//
 	'Campos de Golf en' => 'Practiquer le Golf à',
 	//---------------------//
+	
 	
 	//-------------------GASTRONOMIA-------------------//
 	
@@ -299,33 +305,33 @@ le riz le plus typique de Crevillente est l&#39;arròs amb pota i mondongo(riz a
 				<li>safran, sel, huile</li>
 				</ul>',
 	'arroz y mondongo elaboracion'=>'La nuit d&#39;avant, nous avons mis le pois en eau. On nettoye la jambe et le mondongo et on met tout à bouillir avec les haricots pendant une heure dans le pot . Une fois bouilli,on  désosse et coup  les tripes dans petites morceaux. On place le jus de cuisson et le réserve...',
-	'arroz con costra ingredientes'=>'400Grs. de arroz redondo, 150Grs. de pechuga de pollo,100Grs. de magra de cerdo,100Grs. de salchichas blancas, 50Grs. de salchicha roja(si puede ser de hinojo), 50Grs.de butifarron, 100Grs. de blanco(embutido tipico de Levante), 100 Grs. de garbanzos cocidos, 10 huevos frescos,1/2 vaso de aceite de oliva, 1 tomate grande rayado, 1 y1/2L. agua o caldo de pollo azafran y sal.',
-	'arroz con costra elaboracion'=>'Se sofrie toda la carne junto con las salchichas, reservando el resto de embutido. Cuando este doradita se añade el tomate y el azafran o colorante.Una vez este rehogado todo se añade el agua y se deja cocer durante 30 minutos. Debera quedar aproximadamente la mitad de agua, se añade el arroz y el resto de embutido, se deja cocer 5 minutos y se prueba de sal ya que no se pone hasta haber añadido el embutido. Se deja cocer durante unos 13 minutos a fuego medio y mientras se baten los huevos y se pone a calentar el horno de forma que caliente por todos lados y a la vez gratine.<br>Pasado este tiempo se aparta el arroz, se cubre con el huevo batido y se mete al horno otros 6/7 minutos para que cuaje y forme una costra dorada apetitosa',
-	'intro caldero'=> 'El Caldero es el principal plato de Santa Pola, siendo también típico en Tabarca y Alicante. Es un plato completo ya que tiene su pescado, que es el primer plato y su arroz abanda de segundo. Este plato va siempre acompañado de su allioli.',
+	'arroz con costra ingredientes'=>'400Grs. de riz, 150Grs. de poitrine de poulet,100Grs. de pork maigré,100Grs. de sausices blanches, 50Grs. de sausices rouges(de fenouil si possible), 50Grs.de butifarron, 100Grs. de blanc(saucisse typique de Levante), 100 Grs. de pois chiches cuits, 10 oeufs fraiches,1/2 verre d&#39;huile d&#39;olive, 1 tomate grande râpé, 1 y1/2L. d&#39;eau ou bouillon de poulet, safran et sel.',
+	'arroz con costra elaboracion'=>'On fris toute la viande avec les saucisses, on laisse réservé le butifarron el le blanco. Quand est dorée on ajoute le tomate et le safran ou colorante. Une fois est sec on ajoute l&#39;eau et on la laisse cuire pendant 30 minuts. Dois rester la moitié d&#39;eau, on ajoute le riz et le butifarron et blanco, on laisse cuire pendant 5 minutes et on essai la sel parce qu&#39;on ne peut pas ajouter avant que le butifarron. Laisse cuire 13 minutes a à petit feu et pendant qu&#39;on fouette les oeufs wçet on mis à chauffer le four.<br>Passé ce temps on sépare le riz, on couvre avec les oeufs battus et on met au four 6/7 minutes plus jusqu&#39;on a une croûte',
+	'intro caldero'=> 'Le Caldero es le principal plat de Santa Pola, aussi tipique à Tabarca et Alicante. Il est un plat très complet parce que a du poisson, comme premier plat, et du riz abanda comme deuxieme plat. Ce plat va toujours acompaigne de all i oli.',
 	'caldero ingredientes'=>'<ul>
-				<li> 1,5 kg de pescado variado (pescado de roca)
+				<li> 1,5 kg de poisson varié (poisson de roche)
 				(gallina, rata, mero, lechola, rape, rascasa, araña, mújol, dorada, caballa, etc.)</li>
-				<li> 1 sepia (opcional) para el arroz a banda</li>
-				<li> 2 ñoras</li>
+				<li> 1 sepia (optionel) pour le riz</li>
+				<li> 2 ñoras (gendre de petite poivre rouge)</li>
 				<li> 1 cabeza de ajos</li>
-				<li>300 gr de tomate triturado</li>
-				<li> 3,5 litros de agua</li>
-				<li> Sal gorda</li>
-				<li> 150 ml de aceite de oliva</li>
-				<li> Allioli</li>
+				<li>300 gr de tomate écrasé</li>
+				<li> 3,5 litres d&#39;eau</li>
+				<li> Sel grosse</li>
+				<li> 150 ml d&#39;huile d&#39;olive</li>
+				<li> All i oli</li>
 				</ul>',
 	'caldero elaboracion'=>'Cogemos el pescado con cuidado para no pincharnos (sus espinas son muy peligrosas) y lo limpiamos muy bien de escamas, tripas y de algún pincho que tengan (recuerda que tienes que llevar mucho cuidado). Lavamos bien y los cortamos en trozos grandes. Una vez cortado lo salamos con abundante sal, por los dos lados del pescado, dejando mínimo 2 horas con la sal. Pasado este tiempo lo desalamos bajo el grifo con abundante agua y reservamos. Ponemos una cazuela al fuego con el aceite. Freímos las ñoras y las apartamos. En un mortero ponemos los ajos pelados y los picamos con un poquito de sal. Cuando estén bien picados los sacamos con la ayuda de una cuchara y los reservamos. Agregamos al mortero las ñoras y las picamos muy bien. En la cazuela al fuego echamos los ajos que tenemos picados, removemos hasta que empiecen a dorarse y vertemos el tomate rallado. Sofreímos muy bien. Una vez sofrito agregamos unos tres litros de agua y ponemos un poco de agua en el mortero que tenemos las ñoras picadas. Movemos y agregamos también a la olla. Vertemos un poco de colorante y dejamos hervir. Añadimos el pescado unos 20 ó 30 minutos después. Una vez hervido el pescado lo colocamos en una bandeja. En un cazo ponemos un poco de caldo de hervir el pescado, una cucharada de allioli, removemos y lo agregamos al pescado por encima. Del caldo del pescado prepararemos el arroz a banda.',
 	'intro gachamiga'=> 'Uno de los platos típicos de las comarcas del Vinalopó es la Gachamiga',
 	'gachamiga ingredientes'=>'<ul>   
-							   <li>* 1/2 l. de aceite de oliva</li>
-								 <li>* Una cabeza de Ajos</li>
-								 <li>* 4 l. de Agua</li>
-								 <li>* 1 Kg de harina de pan</li>
-								 <li>* 2-3 puñados de s</li>
+							   <li>* 1/2 l. huile d&#39;olive</li>
+								 <li>* Une tête d&#39;ail</li>
+								 <li>* 4 l. d&#39;eau</li>
+								 <li>* 1 Kg de farine de pan</li>
+								 <li>* 2-3 poigné de s</li>
 								 </ul>',
-	'gachamiga elaboracion'=>'Se calienta el aceite en una sartén grande y se echan los dientes de ajo con un corte cada uno. Una vez dorados los ajos se sacan y se apartan. Se echa el kilo de harina y se remueve con el aceite hasta que toda la harina queda empapada y con grumos. Empezar a echar el agua y deshacer los grumos de la harina hasta que empiece a hacerse una pasta cada vez más densa. A partir de aquí hay que trabajarla mucho intentando que no se pege la masa por los bordes. Cuando la masa empieze a no pegarse se le empieza ha dar vueltas agarrando la sartén con las 2 manos y con mucho cuidado. El tiempo estimado es aproximadamente de 1 hora a 1 y 20 min.',
-	'gazpacho villena ingredientes'=>'Medio conejo. Medio pollo. 2 docenas de caracoles. Una cebolla. dos tomates maduros. Aceite de oliva. 250 grs. de setas. 2 tortas de gazpacho de 500 grs. Pebrella.',
-	'gazpacho villena elaboracion'=>'Se sofríe el pollo, conejo, cebolla y tomate rallado poniendo a cocer. Añadir las setas, pebrella, caracoles previamente engañados dejando que continúe la cocción. Se parte la torta de gazpachos en trozos muy pequeños y agrega a la cocedura, dejando parte de ella entera que nos servirá de lecho en el plato donde se sirvan. Nota: no necesitan mucho tiempo de cocción y es costumbre acompañarlos con un poco de all i oli.',
+	'gachamiga elaboracion'=>'On chauffe l&#39;huile dans une grande poêle et on ajoute l&#39;ail. Une fois dorés on les sépare. On ajoute le kilo de farine et on bouge tout avec l&#39;huile jusqu&#39;on a toute la farine impregnée et grumeleuse. Commencer à ajouter l&#39;eau et  deshacer los grumos de la harina hasta que empiece a hacerse una pasta cada vez más densa. A partir de aquí hay que trabajarla mucho intentando que no se pege la masa por los bordes. Cuando la masa empieze a no pegarse se le empieza ha dar vueltas agarrando la sartén con las 2 manos y con mucho cuidado. El tiempo estimado es aproximadamente de 1 hora a 1 y 20 min.',
+	'gazpacho villena ingredientes'=>'La moitié d&#39;un lapin. demi poulet. 2 dozenes d&#39;escargots. Une onion. Deux tomates rouges. Huile d&#39;olive. 250 grs. de champignons. 2 tortes de gazpacho de 500 grs. Pebrella.',
+	'gazpacho villena elaboracion'=>'On fris le poulet, lapin, onion et tomate et on le met a cuire. Ajouter les champignons, pebrella, escargots déjà trichés, et on laisse cuire. On coupe la torte de gazpacho dans petits morceaux et on l&#39;ajoute à la cuisson, on laisse une partie de la torte sans couper pour l&#39;utiliser après dans la présentation du plat. Note: Les gazpachos n&#39;ont pas besoin de beaucoup de temps de cuisson et il es normal acompaigner avec all i oli.',
 	'intro gastronomia elche' => 'El principal plato en Elche es el Arroz con costra, que se elabora en un perol de barro y cuyos ingredientes son el arroz, el conejo o/y pollo, embutidos varios, aceite, sal, azafrán, huevo, tomate y garbanzos. Otros platos típicos de la gastronomía ilicitana son el Arroz con Conejo y Caracoles y el tradicional Puchero con Pelotas, así como el Mújol del Hondo con alioli. Como aperitivo cabe resaltar las delicias de Elche, que son unos entrantes formados por un dátil relleno con una almendra, envuelto a su vez por bacon frito, unificando las texturas y sabores. Además, también se encuentra el plato llamado Pipes i carases, compuesto principalmente de bacalao seco, ñoras y aceite. Como postres destacan los dátiles, las granadas, los higos y como dulces la Tortada de Elche o pan de higo, y las fogasetas que se elaboran en Pascua. En cuanto a dulces, destacar la tarta de Elche, que se trata de un bizcocho hecho a base de harina de almendra, almibarado para evitarle la sequedad, y con merengue por encima.',
 	'ingredientes' => ' Ingrédients',
 	'preparacion' =>'Préparation',

@@ -46,13 +46,15 @@ T. 965 70 71 45.<br>
 <h2><a class="enlacetipo1" href="http://turismodetorrevieja.com/web/?page_id=714">Mas hoteles en Torrevieja</a></p></h2>
 
 <h1><?php echo Yii::t('guia','imgAltRestaurante')?>s </h1>
-<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> Restaurante Casas Corro</b> <br>Av. Doctor García Rogel, 23 <br>
+<p><b><?php echo Yii::t('guia','imgAltRestaurante')?> Casas Corro</b> <br>Av. Doctor García Rogel, 23 <br>
 Orihuela<br>965 30 29 63<br>
 <a class="enlacetipo1" href="http://www.restaurantecasacorro.es/?lang=en">Web Site</a></p>
 <p>Mesón Las Jarras <br>Avda. de los Europeos, 12<br> 
 La Mata, Torrevieja<br>
 966920070<br>
-	
+<p><b> Restaurante El Cruce</b> <br>Partida Camino de Catral, 156 <br>
+03160 Almoradí<br>965 70 03 56<br>
+<a class="enlacetipo1" href="https://www.facebook.com/pages/Restaurante-El-Cruce-Almorad%C3%AD/279493265486330">Web Site</a></p>	
 	
 <h2><a class="enlacetipo1" href="http://turismodetorrevieja.com/web/?page_id=1235">Mas Restaurantes en Torrevieja</a></p></h2>	
 

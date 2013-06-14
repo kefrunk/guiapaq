@@ -46,7 +46,9 @@ return array(
 	'imgAltArenaGruesa' => 'Sable Brut',
 	
 	'Mas Info' => 'Plus Info',
-	
+	'Anchura Media'=>'Average width',
+	'Longitud Media'=>'Longitud',
+	'Ocupacion'=>'Ocupation rate',
 	//--------------------------//
 	
 	
@@ -142,6 +144,8 @@ return array(
 	'intro huerto del cura' =>'Le "Huerto del Cura" est un jardin botanique d&#39;environ 13.000 m², densément peuplé avec des palmiers. Il fait partie de la collection botanique de plantes méditerranéennes comme la grenade, jujube, orangers, figuiers et de citronniers, et d&#39;autres qui ont été ajoutés avec le temps comme plantes subtropicales et une collection de cactus. Ce jardin, est crée par le chapelain José Castaño Sanchez, à qui appartenait jusqu&#39;au 1918.',
 	'intro centro de Elche' =>'Dans le centre ville de Elchee, les voyageurs peuvent trouver des monuments historiques comme le château du XII siècle appelé Palais d&#39;Altamira. Vous pouvez aussi visiter la Basilique de Santa Maria, de style baroque, où a lieu la représentation du Mystère d Elche. <br> De grande valeur et d&#39;intérêt sont également deux bâtiments d&#39;origine musulmane, comme la Tour de Calahorra et les bains arabes.',
 	'intro outlets elche' => 'Elche est une ville traditionnellement dédié à l&#39;industrie de la chaussure. Actuellement, les grandes entreprises de chaussures ont une présence dans le parc d&#39;affaires d&#39;Elche, situé à 7 km du centre-ville vers l&#39;aéroport, on trouve également 319 entreprises de tous les secteurs, commandé par les chaussures et les textiles. Ces grandes usines offrent également vente au détail à des prix très bas',
+	'intro rio safari' => 'Surrounded by near four thousand palm trees, Río Safari Elche recieve many animal species from around the world, from Florida turtles and chameleons, to wallabies, zebras, crocodiles, ostriches, lions, parrots, an Asian elephant or European lynx, among many others',
+	'intro pola park' =>'Pola Park is a beautiful theme park located in Santa Pola ideal for kids and adults',
 	'intro Crevillente'=> 'Crevillente est une ville située au pied d&#39;une montagne qui conserve la fonction complexe urbain de ses origines islamiques.
 							Il est fier de ses traditions, sa culture et fait de leur activité principale un art.
 							Le festival de Maures et Chrétiens ont été déclarés d&#39;intérêt touristique national,
@@ -270,6 +274,9 @@ Se promener dans ses rues révèle clairement l&#39;effort de son peuple à pros
 	'intro turismo rural'=> 'La oferta de turismo rural en la provincia de Alicante es muy variada, destacamos una interesante asociación cercana a nuestra entidad. Se trata de la Asociacion para el desarrollo rural del campo de Elche',
 	'intro casa catral'=>' En Catral se encuentra una acogedora y hospitalaria Casa Rural ideal para relejarse y disfrutar en familia de la naturaleza y de la huerta',
 	'intro campings'=>'Marjal Costa Blanca Eco Camping Resort pertenece al municipio de Crevillente.Marjal Costa Blanca es uno de los Campings Resorts más modernos de Europa. Con unas instalaciones de gran calidad, un clima privilegiado y un equipo humano a su entera disposición hará que sus vacaciones sean inolvidables. Idóneo para disfrutarlo en cualquier época del año.',
+	'intro casa pinoso'=>'Situada entre viñedos, cerezos y olivares, la casa rural Casa 10-11 Guest House Hotel ofrece un lugar para disfrutar, despejarse, relajarse o practicar actividades alternativas',
+	'intro casa petrer'=>'En petrer podemos encontrar dos casas rurales lugar idóneas para disfrutar de un marco natural, etnológico y cultural incomparable.',
+	
 	//-------------------------//
 	
 	
