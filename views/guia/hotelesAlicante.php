@@ -47,9 +47,9 @@ Alicante<br>965 200 368<br>
 <br>965 20 73 99<br>
 <a class="enlacetipo1" href="http://www.darsena.com">Web Site</a></p>
 
-<p><b>Restaurante Pil Pil</b> <br>	ñl,ll  <br>  Alicante
-<br>9666 <br>
-<a class="enlacetipo1" href="">Web Site</a></p>
+<p><b>Restaurante Katagorri</b> <br>	Calle de Portugal, 29  <br>  03003 Alicante
+<br>965 92 60 08 <br>
+<a class="enlacetipo1" href="http://www.katagorri.com">Web Site</a></p>
 
 
 

@@ -45,7 +45,7 @@ return array(
 	'imgAltPlataformasFlotantes' => 'Plataformes Flotantes',
 	'imgAltArenaGruesa' => 'Sable Brut',
 	
-	'Mas Info' => 'Plus Info',
+	'Mas Info' => 'Mehr Info',
 	'Anchura Media'=>'Average width',
 	'Longitud Media'=>'Longitud',
 	'Ocupacion'=>'Ocupation rate',
@@ -262,9 +262,17 @@ Se promener dans ses rues révèle clairement l&#39;effort de son peuple à pros
 	'intro fiestas elche2'=>'Remarquable est la nuit du 13 connu sous le nom nit de l&#39;Alba. Ce soir à 23h15 les gens d&#39;Elche lancent des feux d&#39;artifice en continu depuis les terrasses des bâtiments, ça devient un scpéctacle incomparable(17,000 kg net de poudre sont lancéa). Cette tradition, qui se remonte au Moyen Age, était à l&#39;origine une façon qu&#39;ils avaient à remercier les familles de la Vierge qui avaient des enfants (lancement d&#39;une fusée pour chaque enfant).',
 	'intro semana santa elche' => 'La Semaine Sainte à Elche est une célébration de grande importance. Le principal attrayant est le dimanche des Rameaux',
 	'intro misteri elche' =>'Le Mystère d&#39;Elche, est un trésor culturel de la ville d&#39;Elche et un des principaux patrimoines de la région de Valence , Il est declarée monument national en 1931, et y compris, en 2001, dans la première annonce de chefs-d&#39;œuvre du patrimoine oral et immatériel de l&#39;humanité par l&#39;UNESCO',
+	
 	//Vega baja
 	'intro semana santa orihuela' => 'La Semaine Sainteà Orihuela est l&#39;une des expressions religio-culturel a remarquer en Espagne, déclarée d&#39;Intérêt Touristique International, représente une autre attraction culturelle de la ville à côté de la vieille ville qui a été déclarée monument historique-artistique et monumental depuis 1969. Il ya des processions le Vendredi Saint (ou Vendredi de Dolores) et chaque jour de la Semaine Sainte du dimanche des Rameaux au dimanche de Pâques, étant la procession du Vendredi la plus importante pour recueillir des dix confréries et plus de 8000 Nazaréens 1200 musiciens, deux cents romains et une garde prétorienne de plus de cent personnes. Particulièrement unique est la Procession du Silence, qui se dérroulle le jeudi saint depuis l&#39;église de Santiago de Orihuela où vous pouvez entendre le chant de la Passion écrasante ',
 	'intro feria mayo torrevieja'=>'Ça qui était à l&#39;origine une fête de sevillanas entre amis, avec le temps est devenue une des célébrations les plus importantes de la ville, une fêtee qui a émergé en 1987 et qui a donné couleur et chaleur à la ville de Torrevieja dépuis cette époque. A été déclarée Fête du Tourisme de Valence. L&#39;événement, qui se déroule du mercredi au dimanche, à partir de l&#39;ouverture et de l&#39;éclairage du spectacle. Cet acte compris au même temps la danse, équitation, spectacles équestres et des spectacles quotidiens qui en font une expérience mémorable.',
+	
+	//Elda-Petrel
+	'Fiestas en Elda y Petrer' => 'Festivities in Elda and Petrer',
+	'intro fallas elda' => 'Elda Fallas are held every year the second week of September from Wednesday to Sunday. They consist of the plant and subsequent burning of artistic wood and cardboard monumets decorated with satirical tone of humor and protest. There are reports documented that, in 1929, along with bonfires on the night of San Juan, were planted in Elda fallas, especially in the Barrio Nuevo and Prosperity neighbournhood.',
+	'intro moros petrel' => 'The Petrel Moors and Christians in honor of Saint Boniface Martyr take place from Thursday to Monday on the closest weekend to May 14, day of of the patron of the village. These parties are listed as National Tourist Interest since 1966.
+						With five days of duration, are one of the oldest Moors and Christians in the province, taking place already in the seventeenth century, specifically in 1614 and already marked and with all rules established on May 12, 1822.',
+	
 	//------------------------------------------------//
 	
 	
@@ -292,6 +300,8 @@ Se promener dans ses rues révèle clairement l&#39;effort de son peuple à pros
 	//---------GOLF--------//
 	'Campos de Golf en' => 'Golf Spielplatz in',
 	//---------------------//
+	
+	
 	
 	//-------------------GASTRONOMIA-------------------//
 	

@@ -52,28 +52,31 @@ return array(
 	//--------------------------//
 	
 	
-	//555555555555555555555555555555555555555555555555//
 	
 	//---------CASTILLOS DEL VINALOPO-------//
 	
 	'Castillos y Vino' => 'Châteaux et Vin',
+	
 	'Ruta de los castillos' => 'Route des Châteaux',
+	
 	'castillos parrafo 1' => 'La «Route des Châteaux de la Haute Vinalopó" permet de connaître quelques villages qui
 						ont été créés et ont grandi autour d&#39;un château,  et qui ont acquis une grande importance au Moyen Age. ils étaient
 						dans une région limitrophe et de ces châteaux ont contrôlé des routes d&#39;importance stratégique, tels que
-						cells qui connectent la côte d&#39;Alicante avec l&#39;intérieur de la péninsule (actuellement
-						l&#39;autoroute Albacete-Alicante-Madrid). C&#39;est pour ça, que nous pouvons affirmerire que la visite aux châteaux de la Haute
+						celles qui connectent la côte d&#39;Alicante avec l&#39;intérieur de la péninsule (actuellement
+						l&#39;autoroute Albacete-Alicante-Madrid). C&#39;est pour ça, que nous pouvons affirmer que la visite aux châteaux de la Haute
 						Vinalopó nous permet de faire un voyage à travers l&#39;histoire.',
-	
+		
 	'castillos parrafo 2' =>'Villes avec châteaux remarquables sont:
 				Villena, Biar, Banyeres de Mariola et Sax, mais nous ne devons pas oublier l&#39;existence dans d&#39;autres municipalités
 				d&#39;autres vestiges de bastions et des tours, comme Beneixama et Camp de Mirra',
+	
 	'castillo Villena' =>'Le château de Villena est
 						d&#39;origine arabe, mais a été réparé et étendu après la conquête chrétienne par des seigneurs féodaux,
 						On recommande également de visiter à Villena les belles églises gothiques de Santiago et Santa
-						Mary ainsi que le palais municipal et le Musée Archéologique "José María
+						Marie ainsi que le palais municipal et le Musée Archéologique "José María
 						Soler ", dans lequel est montré le célèbre trésor de Villena, une fabuleuse collection d&#39;objets
 						 d&#39;or faites milliers d&#39;années avant Jésus-Christ',
+	
 	'castillo Sax' =>' Le Château de Sax, situé
 					au sommet d&#39;une crête rocheuse, a deux tours: le plus vieux, du douzième siècle (almohade)
 					et le plus grand, le Tour de l&#39;Hommage, du XIVe siècle. Le château de Biar
@@ -87,7 +90,7 @@ return array(
 						qui sont célebrés dépuis plusieurs siècles, du 22 au 25 Avril.',
 	'castillos parrafo final 1' =>' Lors qu&#39;on fait la visite à ceux villages comprend le voyageur parfaitement que les grandes fêtes des municipalités d&#39;haute Vinalopó sont les Maures et Chrétiens, depuis les faits historiques sous-jacentes semblent toujours rester relativement proches, en aidant à la préservation de la mémoire collective, l&#39;existence de forteresses arabes au sommet de différentes villages.',
 	
-	'castillos parrafo final 2' =>'Une grande partie de la "Route des Châteaux de la Haute Vinalopó" peut être couvert par une voie verte unique: «le Xixarra". Cette voie verte utilise classement d&#39;un chemin de fer à voie étroite qui a commencé à fonctionner en 1884 (entre Villena et Banyeres), qui reliait Yecla Muro de Alcoy et a été abolie en 1970. Vous pouvez suivre le parcours avec peu de difficulté. A partir de Villena et continue par Biar, Beneixama et le Caserío de "El Salze" jusqu&#39;à Banyeres de Mariola, d&#39;où vous pouvez continuer jusq&#39;à Bocairent, Alfafara, Agres et Muro de Alcoy',
+	'castillos parrafo final 2' =>'Une grande partie de la "Route des Châteaux de la Haute Vinalopó" peut être couverte par une voie verte unique: «le Xixarra". Cette voie verte utilise un chemin de fer à voie étroite qui a commencé à fonctionner en 1884 (entre Villena et Banyeres), qui reliait Yecla-Muro de Alcoy et a été abolie en 1970. Vous pouvez suivre le parcours avec peu de difficulté. A partir de Villena et continuer par Biar, Beneixama et le Caserío de "El Salze" jusqu&#39;à Banyeres de Mariola, d&#39;où vous pouvez continuer jusq&#39;à Bocairent, Alfafara, Agres et Muro de Alcoy',
 	
 	'Vinos del Vinalopo' => 'Vins du Vinalop&oacute;',
 	
@@ -139,6 +142,8 @@ return array(
 	'intro huerto del cura' =>'Le "Huerto del Cura" est un jardin botanique d&#39;environ 13.000 m², densément peuplé avec des palmiers. Il fait partie de la collection botanique de plantes méditerranéennes comme la grenade, jujube, orangers, figuiers et de citronniers, et d&#39;autres qui ont été ajoutés avec le temps comme plantes subtropicales et une collection de cactus. Ce jardin, est crée par le chapelain José Castaño Sanchez, à qui appartenait jusqu&#39;au 1918.',
 	'intro centro de Elche' =>'Dans le centre ville de Elchee, les voyageurs peuvent trouver des monuments historiques comme le château du XII siècle appelé Palais d&#39;Altamira. Vous pouvez aussi visiter la Basilique de Santa Maria, de style baroque, où a lieu la représentation du Mystère d Elche. <br> De grande valeur et d&#39;intérêt sont également deux bâtiments d&#39;origine musulmane, comme la Tour de Calahorra et les bains arabes.',
 	'intro outlets elche' => 'Elche est une ville traditionnellement dédié à l&#39;industrie de la chaussure. Actuellement, les grandes entreprises de chaussures ont une présence dans le parc d&#39;affaires d&#39;Elche, situé à 7 km du centre-ville vers l&#39;aéroport, on trouve également 319 entreprises de tous les secteurs, commandé par les chaussures et les textiles. Ces grandes usines offrent également vente au détail à des prix très bas',
+	'intro rio safari' => 'Entouré par près de quatre milliards de palmieres, Río Safari Elche recieve plusieures animaux de tous les coins du monde, des tortues et chamaleons de Florida, jusqu&#39;à wallabies, zèbres, crocodiles, lions, perroquets, un éléphant d&#39;Asie et un lynx européen, parmi beaucoup d&#39;autres',
+	'intro pola park' =>'Pola Park est un beau park d&#39;attractions situé à Santa Pola ideal pour les enfants et les adultes',
 	'intro Crevillente'=> 'Crevillente est une ville située au pied d&#39;une montagne qui conserve la fonction complexe urbain de ses origines islamiques.
 							Il est fier de ses traditions, sa culture et fait de leur activité principale un art.
 							Le festival de Maures et Chrétiens ont été déclarés d&#39;intérêt touristique national,
@@ -255,20 +260,18 @@ Se promener dans ses rues révèle clairement l&#39;effort de son peuple à pros
 	'intro fiestas elche2'=>'Remarquable est la nuit du 13 connu sous le nom nit de l&#39;Alba. Ce soir à 23h15 les gens d&#39;Elche lancent des feux d&#39;artifice en continu depuis les terrasses des bâtiments, ça devient un scpéctacle incomparable(17,000 kg net de poudre sont lancéa). Cette tradition, qui se remonte au Moyen Age, était à l&#39;origine une façon qu&#39;ils avaient à remercier les familles de la Vierge qui avaient des enfants (lancement d&#39;une fusée pour chaque enfant).',
 	'intro semana santa elche' => 'La Semaine Sainte à Elche est une célébration de grande importance. Le principal attrayant est le dimanche des Rameaux',
 	'intro misteri elche' =>'Le Mystère d&#39;Elche, est un trésor culturel de la ville d&#39;Elche et un des principaux patrimoines de la région de Valence , Il est declarée monument national en 1931, et y compris, en 2001, dans la première annonce de chefs-d&#39;œuvre du patrimoine oral et immatériel de l&#39;humanité par l&#39;UNESCO',
+	
 	//Vega baja
 	'intro semana santa orihuela' => 'La Semaine Sainteà Orihuela est l&#39;une des expressions religio-culturel a remarquer en Espagne, déclarée d&#39;Intérêt Touristique International, représente une autre attraction culturelle de la ville à côté de la vieille ville qui a été déclarée monument historique-artistique et monumental depuis 1969. Il ya des processions le Vendredi Saint (ou Vendredi de Dolores) et chaque jour de la Semaine Sainte du dimanche des Rameaux au dimanche de Pâques, étant la procession du Vendredi la plus importante pour recueillir des dix confréries et plus de 8000 Nazaréens 1200 musiciens, deux cents romains et une garde prétorienne de plus de cent personnes. Particulièrement unique est la Procession du Silence, qui se dérroulle le jeudi saint depuis l&#39;église de Santiago de Orihuela où vous pouvez entendre le chant de la Passion écrasante ',
 	'intro feria mayo torrevieja'=>'Ça qui était à l&#39;origine une fête de sevillanas entre amis, avec le temps est devenue une des célébrations les plus importantes de la ville, une fêtee qui a émergé en 1987 et qui a donné couleur et chaleur à la ville de Torrevieja dépuis cette époque. A été déclarée Fête du Tourisme de Valence. L&#39;événement, qui se déroule du mercredi au dimanche, à partir de l&#39;ouverture et de l&#39;éclairage du spectacle. Cet acte compris au même temps la danse, équitation, spectacles équestres et des spectacles quotidiens qui en font une expérience mémorable.',
+	
+	//Elda-Petrel
+	'Fiestas en Elda y Petrer' => 'Fêtes à Elda et Petrer',
+	'intro fallas elda' => 'Les Fallas d&#39;Elda sont organisés chaque année la deuxième semaine de Septembre, du mercredi au dimanche. Ils sont constitués de la plante et la combustion des monumets en carton décorée avec ton satirique de l&#39;humour et de protestation. Il ya des rapports documentés qui montrent que, en 1929, on été plantés fallas à Elda avec des fogueres à la nuit de San Juan, en particulier dans le quartier Barrio Nuevo et de la Prosperidad',
+	'intro moros petrel' => 'Les Maures et chrétiens de Petrel en l&#39;honneur de Saint-Boniface Martyr se déroulent du jeudi au lundi le week-end le plus proche au 14 mai, jour de la patronne du village. Ces fêtes sont inclues comme intérêt touristique national depuis 1966.
+							Avec cinq jours de durée, sont l&#39;un des plus anciens Maures et Chrétiens dans la province, qui se&#39;est déroulé déjà au XVIIe siècle, plus précisément en 1614 et déjà marqué et avec toutes les règles établies, le 12 mai 1822.',
+	
 	//------------------------------------------------//
-	
-	
-	
-	//------------RURAL Y CAMPINGS----------//
-	'intro turismo rural'=> 'L&#39;offrre de turisme rural dans la région d&#39;Alicante es très variée, on suggére une intéresante association proche à notre entité. Il s&#39;agit de l&#39;Association pour le dévelopement rural de la campagne d&#39;Elx',
-	'intro casa catral'=>' À Catral se trouve une confortable et accueillante maison idéal pour profiter en famille de la nature',
-	'intro campings'=>'Marjal Costa Blanca Eco Camping Resort est dans la commune de Crevillente. C&#39;est l&#39;un des Campings Resorts le plus moderne de l&#39;Europe. Avec des installations de grande qualité, un climat privilegiado et un équipe humain a votre disposition pour fair de vos vacanaces un séjour mémorable. Idéal pour n&#39;importe quelle saison de l&#39;année.',
-	'intro casa pinoso'=>'Situada entre viñedos, cerezos y olivares, la casa rural Casa 10-11 Guest House Hotel ofrece un lugar para disfrutar, despejarse, relajarse o practicar actividades alternativas',
-	'intro casa petrer'=>'En petrer podemos encontrar dos casas rurales lugar idóneas para disfrutar de un marco natural, etnológico y cultural incomparable.',
-	//-------------------------//
 	
 	
 	
@@ -284,6 +287,18 @@ Se promener dans ses rues révèle clairement l&#39;effort de son peuple à pros
 	//---------GOLF--------//
 	'Campos de Golf en' => 'Practiquer le Golf à',
 	//---------------------//
+	
+	
+	//------------RURAL Y CAMPINGS----------//
+	'intro turismo rural'=> 'L&#39;offrre de turisme rural dans la région d&#39;Alicante es très variée, on suggére une intéresante association proche à notre entité. Il s&#39;agit de l&#39;Association pour le dévelopement rural de la campagne d&#39;Elx',
+	'intro casa catral'=>' À Catral se trouve une confortable et accueillante maison idéal pour profiter en famille de la nature',
+	'intro campings'=>'Marjal Costa Blanca Eco Camping Resort est dans la commune de Crevillente. C&#39;est l&#39;un des Campings Resorts le plus moderne de l&#39;Europe. Avec des installations de grande qualité, un climat privilegiado et un équipe humain a votre disposition pour fair de vos vacanaces un séjour mémorable. Idéal pour n&#39;importe quelle saison de l&#39;année.',
+	'intro casa pinoso'=>'Situé entre des vignes, des cerisiers et oliviers, la maison Casa 10-11 Guest House Hôtel offre un endroit idéal pour profiter, se détendre ou pratiquer des activités alternatives',
+	'intro casa petrer'=>'À Petrer on peut trouver deux maison rurales ideaux pour profiter d#39;un quadre naturel, etnologique et culturel incomparable',
+	//-------------------------//
+	
+	
+	
 	
 	
 	//-------------------GASTRONOMIA-------------------//
@@ -320,7 +335,7 @@ le riz le plus typique de Crevillente est l&#39;arròs amb pota i mondongo(riz a
 				<li> 150 ml d&#39;huile d&#39;olive</li>
 				<li> All i oli</li>
 				</ul>',
-	'caldero elaboracion'=>'Cogemos el pescado con cuidado para no pincharnos (sus espinas son muy peligrosas) y lo limpiamos muy bien de escamas, tripas y de algún pincho que tengan (recuerda que tienes que llevar mucho cuidado). Lavamos bien y los cortamos en trozos grandes. Una vez cortado lo salamos con abundante sal, por los dos lados del pescado, dejando mínimo 2 horas con la sal. Pasado este tiempo lo desalamos bajo el grifo con abundante agua y reservamos. Ponemos una cazuela al fuego con el aceite. Freímos las ñoras y las apartamos. En un mortero ponemos los ajos pelados y los picamos con un poquito de sal. Cuando estén bien picados los sacamos con la ayuda de una cuchara y los reservamos. Agregamos al mortero las ñoras y las picamos muy bien. En la cazuela al fuego echamos los ajos que tenemos picados, removemos hasta que empiecen a dorarse y vertemos el tomate rallado. Sofreímos muy bien. Una vez sofrito agregamos unos tres litros de agua y ponemos un poco de agua en el mortero que tenemos las ñoras picadas. Movemos y agregamos también a la olla. Vertemos un poco de colorante y dejamos hervir. Añadimos el pescado unos 20 ó 30 minutos después. Una vez hervido el pescado lo colocamos en una bandeja. En un cazo ponemos un poco de caldo de hervir el pescado, una cucharada de allioli, removemos y lo agregamos al pescado por encima. Del caldo del pescado prepararemos el arroz a banda.',
+	'caldero elaboracion'=>'On prend le poisson avec soin pour éviter de tirer vers le haut (leurs épines sont très dangereux) et nettoye-le très bien avec les échelles, les viscères et quelque grosses épines qui ont (rappelez-vous que vous devez être très prudent). On lave bien et coup en morceaux. Une fois coupé, on le je sel avec beaucoup de sel, sur les deux côtés du poisson, en laissant au moins deux heures avec du sel. Passé ce temps, dessaler sous le robinet avec de l&#39;eau on réserve le poisson pou après. Mettez une casserole sur le feu avec de l&#39;huile. Faire frire les poivrons(ñoras) et les réservons. Dans un mortier mettre les gousses d&#39;ail et hachez-les avec un peu de sel. Quand ils sont coupés les avec une cuillère et réserver. Nous avons ajouté au mortier les poivrons et les hacher finement. À le poêle, nous lançons l&#39;ail haché, mélanger jusqu&#39;à ce qu&#39;ils commencent à dorer et verser la tomate râpée. Faire frire très bien. Une fois frits ajouter environ trois litres d&#39;eau et de mettre un peu d&#39;eau dans un mortier pour avoir les poivrons hachés. Déplacer et également ajouter à la casserole. Verser un peu de colorant et laisser bouillir. Ajouter le poisson environ 20 ou 30 minutes plus tard. Une fois le poisson bouilli placer dans un plateau. Dans une casserole mettre un peu de bouillon de poisson bouillant, une cuillerée d&#39;aïoli, mélanger et ajouter le poisson sur le dessus. Préparer avec le bouillon de poisson "arroz a banda"',
 	'intro gachamiga'=> 'Uno de los platos típicos de las comarcas del Vinalopó es la Gachamiga',
 	'gachamiga ingredientes'=>'<ul>   
 							   <li>* 1/2 l. huile d&#39;olive</li>
@@ -332,18 +347,15 @@ le riz le plus typique de Crevillente est l&#39;arròs amb pota i mondongo(riz a
 	'gachamiga elaboracion'=>'On chauffe l&#39;huile dans une grande poêle et on ajoute l&#39;ail. Une fois dorés on les sépare. On ajoute le kilo de farine et on bouge tout avec l&#39;huile jusqu&#39;on a toute la farine impregnée et grumeleuse. Commencer à ajouter l&#39;eau et  deshacer los grumos de la harina hasta que empiece a hacerse una pasta cada vez más densa. A partir de aquí hay que trabajarla mucho intentando que no se pege la masa por los bordes. Cuando la masa empieze a no pegarse se le empieza ha dar vueltas agarrando la sartén con las 2 manos y con mucho cuidado. El tiempo estimado es aproximadamente de 1 hora a 1 y 20 min.',
 	'gazpacho villena ingredientes'=>'La moitié d&#39;un lapin. demi poulet. 2 dozenes d&#39;escargots. Une onion. Deux tomates rouges. Huile d&#39;olive. 250 grs. de champignons. 2 tortes de gazpacho de 500 grs. Pebrella.',
 	'gazpacho villena elaboracion'=>'On fris le poulet, lapin, onion et tomate et on le met a cuire. Ajouter les champignons, pebrella, escargots déjà trichés, et on laisse cuire. On coupe la torte de gazpacho dans petits morceaux et on l&#39;ajoute à la cuisson, on laisse une partie de la torte sans couper pour l&#39;utiliser après dans la présentation du plat. Note: Les gazpachos n&#39;ont pas besoin de beaucoup de temps de cuisson et il es normal acompaigner avec all i oli.',
-	'intro gastronomia elche' => 'El principal plato en Elche es el Arroz con costra, que se elabora en un perol de barro y cuyos ingredientes son el arroz, el conejo o/y pollo, embutidos varios, aceite, sal, azafrán, huevo, tomate y garbanzos. Otros platos típicos de la gastronomía ilicitana son el Arroz con Conejo y Caracoles y el tradicional Puchero con Pelotas, así como el Mújol del Hondo con alioli. Como aperitivo cabe resaltar las delicias de Elche, que son unos entrantes formados por un dátil relleno con una almendra, envuelto a su vez por bacon frito, unificando las texturas y sabores. Además, también se encuentra el plato llamado Pipes i carases, compuesto principalmente de bacalao seco, ñoras y aceite. Como postres destacan los dátiles, las granadas, los higos y como dulces la Tortada de Elche o pan de higo, y las fogasetas que se elaboran en Pascua. En cuanto a dulces, destacar la tarta de Elche, que se trata de un bizcocho hecho a base de harina de almendra, almibarado para evitarle la sequedad, y con merengue por encima.',
+	'intro gastronomia elche' => 'Le plat principal à Elche est le riz croustillant (Arroz con costra) qui est cuit dans un pot d&#39;argile dont les ingrédients sont le riz, le lapin et / ou de poulet, viandes diverses, l&#39;huile, le sel, le safran, oeuf, tomate et les pois chiches. D&#39autres plats typiques de la gastronomie ilicitane  sont riz avec lapin et des escargots et ragoût traditionnel avec des balles et le mulet du Hondo à l&#39;aïoli. En apéritif noter les "delicias de Elche", qui sont formées par une date, amandes farcies enveloppé à son tour par le bacon frit, avec les textures et les saveurs unifiés. En outre, le plat aussi appelé Pipes i carases, composé principalement de morue séchée, de poivrons et de l&#39;huile. Comme desserts incluent les dates, les grenades, les figues douces et le Tortada Elche ou pain aux figues et fogasetas qui sont faites à Pâques. Quant aux bonbons, gâteau Elche souligner qu&#39;il s&#39;agit d&#39;un gâteau à base de farine d&#39;amande, sirupeux pour éviter la sécheresse et meringue sur le dessus.',
 	'ingredientes' => ' Ingrédients',
 	'preparacion' =>'Préparation',
-	'otros platos elche' =>'Además existen otros platos típicos de Elche como los elaborados con dátil: Delicias de Elche o Pastel de Dátil. Otros dulces como las almojábenas o la coca salada también tienen gran tadición como en otros pueblos de la zona',
-	'otros platos Vinalopo' =>'Otros platos típicos de la zona son las toñas, borreta de Sax o el Triguico de Villena',
+	'otros platos elche' =>'Il ya aussi d&#39;autres plats préparés avec Elche que la date: Delicias de Elche ou gâteau Dátil. D&#39;autres sucreries comme le sel ou almojábenas coca ont également une grande tadición comme dans d&#39;autres villes de la région  »..',
+	'otros platos Vinalopo' =>'D&#39;autres plats typiques sont Tonas région, ou Sax borreta Villena Triguico',
+		
+	
+
 	//-------------------------------------------------//
-	
-	
-	
-	
-	//-------------------------------------------------//
-	
 	
 	
 	//-------------INFORMACION DE INTERES------------//

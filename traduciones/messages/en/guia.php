@@ -105,6 +105,8 @@ is very ancient, for obtaining wine and also for harvesting <strong> table grape
 
 	
 	
+	
+	
 	//----------------ESCAPADAS--------------------//
 	
 	//Alicante
@@ -160,26 +162,28 @@ is very ancient, for obtaining wine and also for harvesting <strong> table grape
 	//Vega Baja
 	'Recorrido por la comarca de la Vega baja' =>'La Vega Baja of Rio Segura',
 	'intro visita Vegabaja' => 'The meadow of Segura River The Vega Baja Segura is an area that has a big number of sandy beaches and pleasant landscapes that guarantee quality tourism.
-In addition to the well known coastal tourism offers such as Torrevieja, this region also has charms related with
-its cultivated gardens, its mountains, its people and gastronomy particularly closely related to gardening and the sea. Not forgetting the rich culture and heritage of historic cities like Orihuela. ',
+				In addition to the well known coastal tourism offers such as Torrevieja, this region also has charms related with
+				its cultivated gardens, its mountains, its people and gastronomy particularly closely related to gardening and the sea. Not forgetting the rich culture and heritage of historic cities like Orihuela. ',
+	
 	'intro orihuela 1' => 'Orihuela is a municipality located in a privileged area of south-eastern Spain.
 							Capital of the region of Vega Baja, the colors you see on the Orihuela represent all the Spanish Mediterranean colors. It is a prosperous place in agriculture, monumental and artistic heritage houses historic architectural gems',
 	'intro orihuela 2' => 'Birthplace of Miguel Hernandez in the streets can be found memories of the life and work of one of the most international Spanish poets.
 						Orihuela is one of the main tourist destinations in the Valencian Community. A city that has many treasures,
 						as the work of Diego Velázquez Silva "The Temptation of St. Thomas" and unique works of the great sculptor Francisco Housed.
 						Part of the artistic variety can be watched during the easter week, declared of International Tourist Interest. ',
-'intro casa miguel hernandez' => 'The museum preserves the furnishings of the that time and pictures of different moments in the life of the poet. <br>
-Opening hours: Tuesday to Saturday from 10:00 to 14:00 hours and from 16:00 to 19:00 hours. Sundays and holidays 10h-14h.
-<br> More information about the house of Miguel Hernández Here <a href="http://culturaorihuela.es/mh/mh/mh.html"> www.culturaorihuela.es </ a>',
+	'intro casa miguel hernandez' => 'The museum preserves the furnishings of the that time and pictures of different moments in the life of the poet. <br>
+								Opening hours: Tuesday to Saturday from 10:00 to 14:00 hours and from 16:00 to 19:00 hours. Sundays and holidays 10h-14h.
+								<br> More information about the house of Miguel Hernández Here <a href="http://culturaorihuela.es/mh/mh/mh.html"> www.culturaorihuela.es </ a>',
 	'intro sierra orihuela' => 'Sierra de Orihuela is a part of southern Betic foothills. It is a steep terrain over the floodplain of the River Segura. There are different hills, special mention diserves "Cruz de la Muela", whose summit is very popular among walkers',
 	'intro gastronomia orihuela' => 'The gastronomy of Orihuela is distinguished because of its dishes prepared with products of its fertile land, obtaining delicious flavors',
 	'intro torrevieja natural' => 'Torrevieja offers alternatives to the beaches such as the natural park of the salt lakes and the Museum of the sea and the salt. ',
+	
 	//Vinalopo medio y alto
 	'Recorrido por las comarcas del Vinalopo' =>'Through Vinalopo region',
 	'intro visita Vinalopo' => 'From the peaks of the Sierra de Mariola, Vinalopó River begins its journey through the lands of the region to which it gives its name. The river flows through the valleys between mountains. To discover  these lands it is necessary to walk on the country ways, getting lost in the medieval streets of the towns and visit castles.
 			The landscape changes with every step. The pine, Kermes, black hawthorn and thyme are present in the mountains where the fox are hidden, and also hare, partridge or raptors. In contrast to that, in the flat plain, almond groves and olive trees alternate with extensive vineyards.
 			Besides recommending the visit to the  <a href="www.paquitorentacar.com/guia/castillosVinalopo" class="enlacetipo1">castles and vineyards</a>  we also invite the traveler to not miss the beauty of the cities of this region ',
-'intro novelda' => 'Novelda is a city placed only 20 minutes away from Alicante airport. It is located in the region called Valle Medio del Vinalopó, on the right-hand shore of Vinalopó River, at 241 m above the sea level. It is 17 km away from El Altet international airport and 28 km away from Alicante city',
+	'intro novelda' => 'Novelda is a city placed only 20 minutes away from Alicante airport. It is located in the region called Valle Medio del Vinalopó, on the right-hand shore of Vinalopó River, at 241 m above the sea level. It is 17 km away from El Altet international airport and 28 km away from Alicante city',
 	'intro villena' => 'Villena is located northwest of the province of Alicante, in the region of Alto Vinalopó. It is an important crossroads between the Communities of Valencia, Murcia and Castilian-Manchego ',
 	'intro visita Elda' =>'Elda is the largest city in the Vinalopó valley , located just 40 km away from the airport has as main tourist attractions: nature, festivals, monuments and leisure activities and gastronomy, qualities that will undoubtedly make it an attractive city to visit.
 					The reason why Elda is known is mainly because of footwear industry.
@@ -196,7 +200,8 @@ Opening hours: Tuesday to Saturday from 10:00 to 14:00 hours and from 16:00 to 1
 					<p> Wax Museum which is located on Avenida Mediterraneo, has more than 130 wax figures arranged scenes. It is a series of wax characters from all eras exposed in their typical environments. Inside is also the Museum of Erotic Art. </ P> ',
 	'intro altea' => 'The town of Altea is located between Benidorm and Calpe. North is the Sierra Bernia, which has 1129 m. at its highest point.
 			The Algar river flows through the city direction NW-SW . The old town is ideal for getting lost in its streets and enjoy its views getting wrapped by the atmosphere of the place',
-'intro villajoyosa' => 'Villajoyosa is a beautiful city where you can observe their typical colorful houses, or the chocolate museum since the chocolate industry has a great tradition in Villajoyosa ',
+'intro villajoyosa' => 'Villajoyosa is a beautiful city where you can observe their typical colorful houses, 
+						or the chocolate museum since the chocolate industry has a great tradition in Villajoyosa ',
 	'intro guadalest' => 'All travelers comming across the Costa Blanca have an obligatory stop in Guadalest. ',
 	'intro algar' =>'The sources of river Algar are a natural place with a high degree of conservation of the environment, has at the same time tourist services and activities for environmental education. This area was declared a protected wetland in 2002 ',
 	'intro escalada benidorm' =>'Very close to Benidorm you can find great places for climbing, waterfalls, natural pools and other wonders of nature ',
@@ -221,6 +226,10 @@ reaching Denia crossing paradises like Moraira, the capes of San Antonio and La 
 					Declared of National Touristic Interest, it is the pursuit of the bulls from Campos street until the bullring improvised on the port of Denia, and in which people
 					try to cheat the bull so that he falls into the sea. ',
 
+	
+	
+	
+	
 	//Jijona ibi alcoy
 	'Interior de Alicante, Aproximandonos a Alcoy' => 'Inland of Alicante, reaching Alcoy',
 	'intro visita interior' => 'If our start point is Alicante airport, we can actually enjoy in a few minutes the wonderful beaches and coastal charms. However, make sure you have a few extra days in order to visit the inland of Alicante region and do not miss the essence of this land.',
@@ -229,12 +238,12 @@ reaching Denia crossing paradises like Moraira, the capes of San Antonio and La 
 	'intro alcoy' => 'Alcoy is a city that marks an unexpected contrast with the rest of the province of Alicante. Approximately 54 km.away from Alicante and 105 km. from Valencia is located this city, whose waters powered waterwheels that decided the laborious and industrial vocation of the people, who whith  imagination and courage developped textile, paper and metal industries centuries ago.
 						Surrounded by mountains,  having one of the most authentic Mediterranean forest and in the same city the remains of what was the social change that brought the industrial revolution in Spain.
 						Walking through its streets reveals clearly the effort of its people to prosper in an environment of great natural beauty, but extraordinarily difficult for urban development ',	
+	
 	//Frases comunes escapadas
 	'Cosas que visitar' => 'Places to visit', 
 	//---------------------------------------------//
 	
 
-	
 	//------------------FIESTAS-----------------------//
 	'Fiestas' => 'Festivities',
 	//Alicante
