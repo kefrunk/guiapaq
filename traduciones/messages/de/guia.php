@@ -10,44 +10,44 @@ return array(
 	'intro arenales 2' => 'Der Strand ist 2800 meteres lang und 40 Meter breit. Die Besatzung ist hoch. Stadtstrand geschützt. Der normale Zustand des Meeres ist langsame Wellen. Strand mit Behinderten-Zugang, Parkplätze, Toiletten, Duschen, Telefone, Sonnenschirme, Liegestühle und Sonnenschirme für die Vermietung und Wassersports',
 	'intro Gran Playa' => 'Enthält ein Windsurf-Zone und auch eine rollerskate Promenade. Ein chiringuito, Restaurants und ein Zugang zu den Schiffen. Seine feinen Sand und die große Fläche machen diesen Strand ein guter Ort für Sport und Spiele am Strand Wassersport. Dieser Strand bietet Behinderte Zugang',
 	'intro Playa Levante' => '<p>Platziert in der Mitte des Dorfes et mit einer großen Auswahl an Dienstleistungen, hat auch einen großen Platz für Sports. Behinderte Zugang. Erhielt die blaue Flagge wieder im Jahr 2013',
-	'intro Varadero' => 'Il possède toutes les commodités des plages urbaines. A reçu, comme toutes les dernières années, le drappeau Bleu en 2013.',
-	'intro Calas Santa Pola' =>'Il s&#39;agit de criques melangés avec zones de sable et des zones rocheuses avec des eaux très propres d&#39;un bleu profond. Certains d&#39;entre eux ont été déclarées d&#39;intérêt  touristique national',
-	'intro Tamarit' => 'Il possède toutes les commodités des plages urbaines. A reçu, comme toutes les dernières années, le drappeau Bleu en 2013.',
-	'intro La Marina' => '<p>Il s&#39;agit d&#39;une plage de sable doré, ouvert et vierge qui et offre unes eaux bleues et propres. Son environnement est marqué par une bande de dunes qui donnent une image très naturelle.',
-	'intro playas Elche' => 'Entre Arenales del Sol et La Marina vous pouvez trouver quelques-unes des plus belles et spacieuses plages dans la province d&#39;Alicante.',
-	'intro playas Elche 2' => 'On citera à titre d&#39;exemple certains plage comme Carabassí, où on peut voir au fond la ville d&#39;Alicante parce-qu&#39;elle est situé au milieu de la baie, ou celles de Santa Pola, avec ses installations touristiques le plus completes. Les criques qui rappellent celles de Tabarca qui est à seulement 25 minutes du port de Santa Pola. Au sud se trouve La Marina, caractérisée par des dunes et le Pinet qui a une forêt de pins où vous pouvez profiter d&#39;une plage avec du caractère 100%  naturel.',
+	'intro Varadero' => 'Mit allen Funktionen und Dienste der städtischen Strände. Er hat  der Blauen Flagge im Jahr 2013 erhielt, wie jedes Jahr ',
+	'intro Calas Santa Pola' =>'Es ist eine Zone mit vielen Buchten, wo sandige und steinige Strände sind gemischt. Das Wasser ist sauber und mit einer besonder blau Farbe. Einige dieser Buchten sind als Nationalen Touristischen Interesse erklärt worden.',
+	'intro Tamarit' => 'Mit allen Funktionen und Dienste der städtischen Strände. Er hat  der Blauen Flagge im Jahr 2013 erhielt, wie jedes Jahr ',
+	'intro La Marina' => '<p>In La Marina können Sie  einen goldenen Sandstrand genießen, offene und natürliche, mit blauen und sauberen Wasser. Es wird von einer Düne Barriere umgeben, damit ist die Persönlichkeit dieses Strand 100% natürlichen .',
+	'intro playas Elche' => 'Zwischen Arenales del Sol und La Marina finden Sie einige der schönsten und geräumige Strände in der Provinz Alicante',
+	'intro playas Elche 2' => 'Wir haben als Beispiel einige Strände wie Carabassí Strand, wo wir die Stadt Alicante als Hintergrund sehen können, dank der Position dieser Strand genau in der Mitte der Bucht von Alicante . Nicht weniger spektakulär sind die Strände von Santa Pola mit seiner kompletten Anlagen. Die Bäche sind wie jene von Tabarca, die nur 25 Minuten vom Santa Pola Hafen erreicht werden kann. Richtung Süden finden wir die Strände von La Marina mit seinen besondere Dünen und El Pinet, mit natürlichen Charakter.',
 		//Vega Baja
-	'intro playas Vega Baja' => 'Vers le sud de l&#39;embouchure de la rivière Segura à Guardamar jusqu&#39;à la province de Murcie,  on peut trouver grand nombre de plages, quelques d&#39;entre elles des vrais paradises méditerranées. Torrevieja est la principal ville côtière avec les plages Los Locos, El náufrago, El Cura et La Mata. Orihuela Costa a La Zenia, Playa Flamenca et déjà très proche de Murcia et Cartagena on trouve les belles plages de Pilar de la Horadada.',
-	'intro Guardamar' =>'<p>Placé sur la côte sud d&#39;Alicante, Guardamar del Segura, a un littoral de nombreuses plages de sable de haute qualité, ses dunes exotiques qui portent des traces de civilisations passées et une gamme complète de services touristiques pour profiter de son séjour. Dunes et pins conforment un beau paysage qui invite à rester.',
-	'intro torrevieja' =>'Torrevieja est une ville côtière qui possède un long littoral de plages. C&#39;est une destination idéale pour profiter de la mer, prendre le soleil ou vous détendre dans n&#39;importe pas quel de ses plages avec toutes les commodités telles que restaurants, cafés, jeux sportives,  surveillance, des stands d&#39;information, des drappeaux avec l&#39;état de la mer et accès pour handicapés. En plus, sont situés a coté de la prommenade un lier idéale pour marcher à pied.',
-	'intro orihuela costa' => 'Orihuela Costa dispose de 16 kilométres de côte où les falaises alternent avec des eaux claires et ses plages de sable fin de prestige reconnu.',
-	'intro playas pilarhoradada' => 'La côte de Pilar de la Horadada s&#39;étend sur plus de quatre kilomètres, où nous trouvons deux longues plages de sable fin et blanc en contraste frappant avec la mer bleue et les petites falaises rocheuses, qui donnent comme resultat un sable doré.',
+	'intro playas Vega Baja' => 'Richtung Süden entlang der Küste von der Mündung des Rio Segura, bis der Provinz Murcia findet man viele Strände, einige von denen authentische mediterrane Paradiese sind. Torrevieja ist die wichtigste Küstenstadt mit den Stränden Los Locos, Los Náufragos, El Cura y La Mata Strand. Orihuela Costa hat La Zenia und Playa Flamenca und schon in der Nähe dem Mar Menor Region sind die schönen Strände von Pilar de la Horadada.',
+	'intro Guardamar' =>'<p> Platziert auf der südlichen Küste von Alicante, Guardamar del Segura, hat eine Küstenlinie mit vielen hochwertigen Sandstrände, exotische Dünen die Spuren vergangener Zivilisationen tragen und eine vollständige Palette von touristischen Dienstleistungen um jede Minute zu genießen. Dünen und Pinien entsprechen eine wunderschöne Landschaft, die zum bleiben einlädt. ' ,
+	'intro torrevieja' =>'Torrevieja ist eine Küstenstadt mit einer langen Stränden Raum. Es ist ein ideales Reiseziel, um das Meer zu genießen, sich sonnen oder entspannen sich in jeder seiner Strände mit allen Dienstleistungen wie Restaurants, Cafés, Sport-Spiele, Baywatch, Informationen Fahnen mit dem Zustand des Meeres und behindertengerechtem Zugang. Darüber hinaus werden neben dem prommenade ein idealer Ort für spazieren gehen.',
+	'intro orihuela costa' => 'Orihuela Costa hat 16 Kilometer Küste, wo Klippen wechseln sich mit klarem Wasser und bekannten Sandstrände. ',
+	'intro playas pilarhoradada' => 'Die Küste von Pilar de la Horadada ist über vier Kilometer lang, wo wir zwei langen weißen Sandstränden in starkem Kontrast zu dem Blau des Meeres finden können. Auch kleine Felsen kan man sehen, die geben eine goldene Sand als Ergebnis. ',
 		//Benidorm
-	'intro playa levante benidorm' => 'Entre Punta Pinet y Punta Canfali se forma una amplia bahía de más de dos kilómetros con una playa urbana que sin duda es una de las más animadas y concurridas de la costa mediterránea. Gracias a su orientación, es posible tomar el sol en ella hasta última hora de la tarde en verano y hasta su puesta en invierno. Es de arena fina y dorada, aguas transparentes y está adornada con palmeras que le dan un aspecto muy atractivo. Está delimitada por un cuidado paseo marítimo en el que se suceden restaurantes, cafeterías y pubs. Es una playa adaptada para personas con movilidad reducida.',
-	'intro playas Benidorm'=>'Les plages de Benidorm sont l&#39;une des grandes attractions de la côte Méditerranée',
-	'intro playa poniente benidorm' => 'Du port à la pointe de Cabezo Tossal se trouve cette plage de plus de troiskilometres de longeur, eaux propres et sable fin et doré où une succession de palmiers donnent, si quoi que ce soit, plus attrayant. La plage et la promenade qui définit une exposition d&#39;image en mouvement à n&#39;importe quel moment de la journée. Cette plage est équipée de tous les services nécessaires pour les personnes handicapées',
-	'intro cala mal pas benidorm' => 'Entre Punta Canfali et le port est cette petite crique de sable doré qui a une atmosphère plus calme et sépare des plages bondées de Levante et Poniente. en face on peut apprécier l&#39;îlle de Benidorm, une réserve marine importante avec d&#39;excellents fonds qui sont un cadeau pour les plongeurs',
+	'intro playa levante benidorm' => 'Von Punta Pinet nach Punta Canfali erscheint eine weite Bucht von mehr als zwei Meilen lang, die einen städtischen Strand, ohne Zweifel ist eine der lebendigsten und meist an der Mittelmeerküste. Dank seiner Ausrichtung, können Sie in der Sonne bis zum späten Abend im Sommer und bis zum Sonnenuntergang im Winter liegen. Es hat dünne goldene Sand, sauberes Wasser und ist mit Palmen, die ein attraktiveres Aussehen zu geben dekoriert. Es wird von einer Promenade mit vielen Restaurants, Cafés und Kneipen begrenzt. Dieser Strand ist auch für behinderte Gäste geeignet. ',
+	'intro playas Benidorm'=>'Benidorm Strände sind eine der Hauptattraktionen der Mittelmeerküste ',
+	'intro playa poniente benidorm' => 'Vom Hafen bis Cabezo Tossal ist dieser Strand mit mehr als 3 Kilometer lang, sauberes Wasser und dünn und goldenen Sand, wo eine Kette von Palmen machen es noch schöner verlängert. Wandern auf der Promenade ist ein Vergnügen. Dieser Strand bietet alle notwendigen Dienstleistungen für behinderte Menschen',
+	'intro cala mal pas benidorm' => 'Zwischen Punta Canfali und dem Hafen finden wir den kleinen Bach mit goldenem Sand, die eine beruhigte Atmosphäre hat im Vergleich zu den überfüllten Stränden von Levante und Poniente. Direkt vor dem Bach genießen Sie den Blick auf Benidorm Insel, ein wichtiges Meeresschutzgebiet mit einer ausgezeichneten Meeresboden, die ein Schatz für Taucher ist',
 	
 	//Alt imagenes playas
-	'imgAltPlayaAbierta' => 'Plage Ouverte',
-	'imgAltPlayaSemiurbana' => 'Plage Semi Urbaine',
-	'imgAltEstadodelmar'  => 'État de la mer',
+	'imgAltPlayaAbierta' => 'Offener Strand',
+	'imgAltPlayaSemiurbana' => 'Semi Urban',
+	'imgAltEstadodelmar'  => 'Zustand des Meer',
 	'imgAltPasarelas' => 'Pasarelles',
-	'imgAltAccesomovreducida' => 'Access handicapés',
-	'imgAltRestaurante' =>' Restaurant',
-	'imgAltVela' => 'Voile',
-	'imgAltLavapies' => 'Lavapies',
-	'imgAltJuegosDeportivos'=>'Jeux Deportives',
-	'imgAltPatines' => 'Patines',
-	'imgAltBanderazul' =>'Drappeau Bleu',
-	'imgAltPlayavirgen' =>'Plage Vierge',
-	'imgAltMotoagua' => 'Moto d&#39;eau',
-	'imgAltPlataformasFlotantes' => 'Plataformes Flotantes',
-	'imgAltArenaGruesa' => 'Sable Brut',
+	'imgAltAccesomovreducida' => 'Zugang Behinderte',
+	'imgAltRestaurante' =>' Restaurants',
+	'imgAltVela' => 'Segeln',
+	'imgAltLavapies' => 'footwash',
+	'imgAltJuegosDeportivos'=>'Sport Spielplatz',
+	'imgAltPatines' => 'Rollerskate',
+	'imgAltBanderazul' =>'Blaue Flagge',
+	'imgAltPlayavirgen' =>'Virgin Strand',
+	'imgAltMotoagua' => 'Wasser Motorrad',
+	'imgAltPlataformasFlotantes' => 'Schwimmende Plattform',
+	'imgAltArenaGruesa' => 'dicken Sand',
 	
 	'Mas Info' => 'Mehr Info',
-	'Anchura Media'=>'Average width',
-	'Longitud Media'=>'Longitud',
+	'Anchura Media'=>'Durchschnittliche Breite',
+	'Longitud Media'=>'Länge',
 	'Ocupacion'=>'Ocupation rate',
 	//--------------------------//
 	
@@ -55,54 +55,47 @@ return array(
 	
 	//---------CASTILLOS DEL VINALOPO-------//
 	
-	'Castillos y Vino' => 'Châteaux et Vin',
-	'Ruta de los castillos' => 'Route des Châteaux',
-	'castillos parrafo 1' => 'La &ldquo;Ruta de los Castillos del Alto Vinalop&oacute;&rdquo; permite conocer algunas de las poblaciones que 
-			se crearon y crecieron en torno a una fortaleza, que adquirieron una gran importancia durante la Edad Media. Eran 
-			tierras fronterizas y desde esos castillos se controlaban caminos de gran importancia estrat&eacute;gica, como los 
-			que un&iacute;an el litoral alicantino con el interior de la Pen&iacute;nsula (por donde ahora discurre 
-			la autov&iacute;a y el ferrocarril Alicante-Albacete-Madrid) y las que conectaban importantes localidades 
-			murcianas (Yecla o Jumilla, por ejemplo) con poblaciones valencianas (Biar, Banyeres, Bocairent, Ontinyent,
-			 Alcoy, la Font de la Figuera, etc.). Por todo ello, se puede afirmar que la visita a las fortalezas del Alto 
-			 Vinalop&oacute; nos posibilita efectuar un recorrido por la historia.',
+	'Castillos y Vino' => 'Schlösser und Wein',
+	'Ruta de los castillos' => 'Route der Schlösser',
+	'castillos parrafo 1' => 'Die "Route der Schlösser des ober Vinalopó" ermöglichen es uns, einige der Dörfer, die erstellt wurden und wuchs um eine Festung entdecken, die hatten große Bedeutung während des Mittelalters. Sie waren
+						Grenzland und aus diesen Burgen kontrolliert wurde strategisch wichtige Straßen, wie
+						die Verbiendung  Alicante Küste mit dem Hinterland des Iberischen Halbinsel (wo es läuft jetzt
+						der Zug Schiene und Autobahn Albacete-Alicante-Madrid) und diese Verbindung wichtigsten Städte
+						Murcia (Yecla und Jumilla, zum Beispiel) Valencia Städte (Biar, Banyeres, Bocairent Ontinyent
+						Alcoy, Font de la Figuera, etc..). Daher können wir sagen, dass der Besuch zu den Burgen des Ober
+						Vinalopó ermöglicht es uns, eine Reise durch die Geschichte zu machen',
+	'castillos parrafo 2' =>'Bemerkenswerte Burgen sind in Villena , Biar, Banyeres Mariola und Sax, aber wir haben nicht zu vergessen die Existenz in anderen Dorfen von anderen archäologischen Gütern und Türme, wie Beneixama und Camp de Mirra. ',
+	'castillo Villena' =>'Villena Castle has
+					arab origin, but was enlarged after the Christian conquest by feudal lords,
+					In Villena, we also recommend visiting the beautiful Gothic churches of Santiago and Santa
+					Mary as well as the Municipal Palace and the Archaeological Museum "José María
+					Soler "in which is showed the famous Treasure of Villena, a fabulous collection of art objects
+					made of gold thousands of years before Christ.',
 	
-	'castillos parrafo 2' =>'Destacan los castillos de 
-			 Villena, Biar, Banyeres de Mariola y Sax, aunque no debemos olvidar la existencia en los dem&aacute;s municipios 
-			 de restos de otros baluartes y torres, como los de Beneixama y Camp de Mirra.',
+	'castillo Sax' =>' Sax Castle, located on top of a rocky ridge, has two towers: the oldest, from twelfth century (Almohad)
+					and the largest, the Tower of Homage, from fourteenth century. Biar Castle
+					(declared a national monument in 1931) kept inside its main tower an interesting
+					vault made by the Almohads in the twelfth century. In the historic center
+					of Biar you should not forget to visit the church and around
+					the village, the Shrine of Our Lady of Grace and the medieval aqueduct.',
 	
-	'castillo Villena' =>'El Castillo de Villena es de 
-			 origen &aacute;rabe, aunque fue ampliado despu&eacute;s de la conquista cristiana por los se&ntilde;ores feudales,
-			 adem&aacute;s en Villena aconsejamos visitar las bell&iacute;simas iglesias g&oacute;ticas de Santiago y de Santa 
-			 Mar&iacute;a, as&iacute; como el Palacio Municipal y el Museo Arqueol&oacute;gico &ldquo;Jos&eacute; Mar&iacute;a 
-			 Soler&rdquo;, en donde se exhibe el famoso Tesoro de Villena, una fabulosa colecci&oacute;n de objetos 
-			 art&iacute;sticos realizados en oro miles de a&ntilde;os antes de Cristo.',
+	'castillo Banyeres' =>' In the Arab castle of Banyeres located 830 meters above sea level in the center of the
+						town special mention for the great Tower of Homage (or "Major Tower"), which has importance for the Moors and Christians that, in honor of the patron Sant Jordi,
+						have been held for several centuries from 22 to 25 April every year. ',
 	
-	'castillo Sax' =>' El Castillo de Sax, situado 
-			 en lo alto de una cresta rocosa, cuenta con dos torres: la m&aacute;s antigua, del siglo XII (&eacute;poca almohade),
-			 y la m&aacute;s grande, la Torre del Homenaje, del siglo XIV. El Castillo de Biar
-			 (declarado monumento nacional en 1931) conserva en el interior de su torre principal una interesante 
-			 b&oacute;veda de crucer&iacute;a realizada por los almohades durante el siglo XII. En el centro hist&oacute;rico 
-			 de Biar no debemos olvidarnos de visitar la bell&iacute;sima iglesia parroquial y, en los alrededores de 
-			 la poblaci&oacute;n, el Santuario de Nuestra Se&ntilde;ora de Gracia y el acueducto medieval.',
+	'castillos parrafo final 1' =>' Visiting those villages understand the traveler perfectly that the biggest festivities of the municipalities of Alto Vinalopó are the Moors and Christians, since the underlying historical facts still seem to remain relatively close, helping to the preservation of the collective memory the existence of Arab fortresses on the top of the villages. ',
 	
-	'castillo Banyeres' =>' En el castillo &aacute;rabe de Banyeres &ndash;situado a 830 metros de altitud, en el centro de la
-			 poblaci&oacute;n- destaca la gran Torre del Homenaje (o &ldquo;Torre Major&rdquo;), que adquiere gran 
-			 importancia durante las fiestas de Moros y Cristianos que, en honor al patr&oacute;n Sant Jordi, 
-			 se celebran desde hace varios siglos del 22 al 25 de abril.',
+	'castillos parrafo final 2' =>'A large part of the "Route of the Castles of the High Vinalopó" can be covered following a unique greenway: "El Xixarra". This greenway uses railway which began operating in 1884 (between Villena and Banyeres), linked Yecla Muro de Alcoy and was abolished by 1970. You can make the trip with no difficulty following the intinerary that the popular "El Xixarra" used to follow, starting from Villena and continuing to Biar, Beneixama until Banyeres de Mariola, from where you can continue to Bocairent, Alfafara, Agres and Muro de Alcoy. ',
 	
-	'castillos parrafo final 1' =>' Al realizar la visita a las poblaciones citadas, comprende el viajero perfectamente que las fiestas mayores de los municipios del Alto Vinalop&oacute; son las de Moros y Cristianos, ya que los hechos hist&oacute;ricos que las fundamentan todav&iacute;a parecen permanecer relativamente cercanos, ayudando a la conservaci&oacute;n de la memoria colectiva la existencia de las fortalezas &aacute;rabes en lo alto de las diferentes poblaciones. Bocairent.',
+	'Vinos del Vinalopo' => 'Vinalop&oacute; Wein',
 	
-	'castillos parrafo final 2' =>'Una gran parte de esta &ldquo;Ruta de los Castillos del Alto Vinalop&oacute;&rdquo; puede recorrerse mediante una singular v&iacute;a verde: la &ldquo;del Xixarra&rdquo;. Dicha v&iacute;a verde utiliza la explanaci&oacute;n de un ferrocarril de v&iacute;a estrecha que comenz&oacute; a funcionar en 1884 (entre Villena y Banyeres), que enlazaba Yecla con Muro de Alcoy y que fue suprimido hacia 1970. Se puede seguir sin apenas problemas el trayecto que segu&iacute;an el popular tren de vapor conocido popularmente como &ldquo;El Xixarra&rdquo; y &ldquo;el Autov&iacute;a&rdquo; (automotor para viajeros, de tracci&oacute;n diesel), partiendo de Villena y continuando por Biar, Beneixama y el caser&iacute;o de &ldquo;el Salze&rdquo; hasta llegar a Banyeres de Mariola, desde donde se puede proseguir hasta Bocairent, Alfafara, Agres y Muro de Alcoy.',			 
-	
-	'Vinos del Vinalopo' => 'Vins du Vinalop&oacute;',
-	
-	'Vinos parrafo 1' =>'<p> Le&nbsp;<strong>cultive de la vid dans la vallée du Vinalop&oacute;</strong>&nbsp;(Alicante) 
-			es très antique, pour l&#39;obtention de vin et même pour l&#39;obtention de <strong>raisin de table</strong>.',
-	
-	'Vinos parrafo 2' => 'Dans le cultive de raisin à Alicante, on peut distinguer deux grands domaines: ceux qui se consacrent pour
-<strong> produire des vins </ strong>, comme.<a href="http://es.wikipedia.org/wiki/Vino_moscatel" title="Vino moscatel">Moscatel</a>, Fondill&oacute;n (<a href="http://es.wikipedia.org/wiki/Mon%C3%B3var" title="Mon&oacute;var">Mon&oacute;var</a>,&nbsp;<a href="http://es.wikipedia.org/wiki/Pinoso" title="Pinoso">Pinoso</a>, etc,); ou celles engagés dans la production de raisin de table (<a href="http://es.wikipedia.org/wiki/Novelda" title="Novelda">Novelda</a>,&nbsp;<a href="http://es.wikipedia.org/wiki/Aspe" title="Aspe">Aspe</a>,&nbsp;<a href="http://es.wikipedia.org/wiki/Monforte_del_Cid" title="Monforte del Cid">Monforte del Cid</a>, etc,). La grande qualité du raisin récolte dans la région a conduit à la dénomination d&#39;origin&nbsp;<a href="http://es.wikipedia.org/wiki/Uva_de_mesa_embolsada_Vinalop%C3%B3" title="Uva de mesa embolsada Vinalop&oacute;">Raisin de table Vinalop&oacute;</a></p> <p> Autour de cettes villages on peut observer un très beau landscape entouré de vignes, montagnes et aussi d&#39;une spectaculaire marbrière</p> ',
+	'Vinos parrafo 1' =>'<p><strong>The cultive of grapes in Vinalopo Valley</ strong> (Alicante)
+is very ancient, for obtaining wine and also for harvesting <strong> table grapes </ strong>. ',
+	'Vinos parrafo 2' => 'In the cultive of grapes in Alicante, we can differentiate two big domains: Those for<strong> wine production </ strong>,such as<a href="http://es.wikipedia.org/wiki/Vino_moscatel" title="Vino moscatel">Moscatel</a>, Fondill&oacute;n (<a href="http://es.wikipedia.org/wiki/Mon%C3%B3var" title="Mon&oacute;var">Mon&oacute;var</a>,&nbsp;<a href="http://es.wikipedia.org/wiki/Pinoso" title="Pinoso">Pinoso</a>, etc,); or those focused on the production of table grapes(<a href="http://es.wikipedia.org/wiki/Novelda" title="Novelda">Novelda</a>,&nbsp;<a href="http://es.wikipedia.org/wiki/Aspe" title="Aspe">Aspe</a>,&nbsp;<a href="http://es.wikipedia.org/wiki/Monforte_del_Cid" title="Monforte del Cid">Monforte del Cid</a>, etc,). The high quality of the grapes in the region has achived a origin denomination <a href="http://es.wikipedia.org/wiki/Uva_de_mesa_embolsada_Vinalop%C3%B3" title="Uva de mesa embolsada Vinalop&oacute;">grapes Vinalop&oacute;</a></p> <p> Around these villages we can contemplate a very beautiful landscape surronded by vineyards, mountains and also a spectacular marble factory</p> ',
 	
 	//-----------------------------------------------------//
+	
+	
 	
 	
 	
@@ -110,134 +103,131 @@ return array(
 	//----------------ESCAPADAS--------------------//
 	
 	//Alicante
-	'Recorrido por la ciudad de Alicante' =>'Alicante Ville',
-	'intro visita Alicante' => 'La ville d&#39;Alicante est l&#39;une des destinations les plus visitées d&#39;Espagne grâce à la grande variété de possibilités touristiques offertes. Voici lerépertorie des informations pour certains des charmes de cette ville à ne pas manquer.',
-	'Puerto'=>' La déclaration de la ville d&#39;Alicante comme port public de la Méditerranée se remonte à 1271,
-				selon le privilège accordé par Alfonso X le Sage .Le port comme ouvre d&#39;ingénieriene a commencé sa construction en 1476,
-				pendant le règne de Jean II.
-				Historiquement, le port a joué un rôle décisive dans le commerce de la ville d&#39;Alicante.
-				Aujourd&#39;hui, c&#39;est un centre touristique plein de magasins, restaurants, cafés, Pub. musique.
-				C&#39;est un grand plaisir de se promener ou pour faire des randonées en bateau.',
-	'texto Mercado Alicante' => 'Le marché central de Alicante est placé sur l&#39;Avenue Alfonso X le Sage, il est un bâtiment de style éclectique avec des ornements Art Nouveau qui a été conçu par l&#39;architecte Enrique Sanchez Sedeño et construit en 1921 par l&#39;architecte Juan Vidal Ramos ',
-	'texto Explanada Alicante' => 'L&#39;Esplanade d&#39;Espagne, également connu sous le nom de Promenade de l&#39;Esplanade est une promenade de la ville d&#39;Alicante. Il longe le port, de la Puerta del Mar jusqu&#39;au parc de Canalejas, et est l&#39;un des itinéraires les plus populaires de la ville.',
-	'texto Luceros Alicante' => 'C&#39;est l&#39;une des places les plus emblématiques de Alicante. Situé en plein cœur du centre-ville, c&#39;est ici que les célèbres détonations pirotechniques sont organisés chaque année dans le cadre des principaux fêtes d&#39;Alicante, las Hogueras. ',
-	'Castillo de Santa Barbara 2' => 'Dans le château de Santa Barbara est situé MUSA (Musée de la ville d&#39;Alicante). La visite du château peut être effectuée tous les jours de l&#39;année. <a href="http://www.alicante.es/redir.php?apartado=cultura&pagina=museos-santabarbara.html&titulo=Castillo%20de%20Santa%20B%E1rbara%20-%20Patronato%20Municipal%20de%20Cultura%20/%20Ayuntamiento%20de%20Alicante">Ici </a>vous pouvez trouver les horaires des élévateurs',
-	'Castillo de Santa Barbara 1' => 'Le château de Santa Barbara est situé dans le centre de la ville d&#39;Alicante, sur le mont Benacantil masse rocheuse de 166 m au-dessus de la mer en bordure de la mer, ça que lui a donné un valeur stratégique considérable, car on put voir toute la baie d&#39;Alicante et les terres environnantes.
-										Sur ses pentes on trouve des restes archéologiques de l&#39;âge du bronze, ibérique et de l&#39;époque romaine, bien que l&#39;origine de l&#39;actuel forte est au IXe siècle, à l&#39;époque musulmane.',
-	'intro Museos' =>'La ville d&#39;Alicante a quelques musées importants',
-	'Museos Alicante MACA' => 'Situé dans la vieille ville. La base du MACA est la collection d&#39;art du XX siècle donnée par l&#39;artiste Eusebio Sempere Alicante en 1977. Composée de peintures, sculptures, techniques mixtes et lithographies d&#39;artistes espagnols et étrangers tels que Dali, Picasso, Chillida, Manolo Millares, Pablo Serrano, Joan Miró, Kandinsky, Chagall et Vasarely.',
-	'Museos Alicante MUBAG' => 'Musée consacré principalement à la peinture et la sculpture alicantine, du XVIe siècle aux premières décennies du XXe siècle.',
-	'Museos Alicante MARQ' => 'Dans le MARQ son exposées des pièces archéologiques provenant de partout dans la province, de l&#39;âge de pierre à l&#39;âge moderne, comme la dame ibérique Cabezo Lucero. Remarquée pour son style novateur et l&#39;utilisation des méthodes audiovisuelles: sans surprise, a été declaré Musée européen de l&#39;année en 2004.',
-	'Museos Alicante otros' => 'Il y a d&#39;autres musées comme le Musée de l&#39;Université d&#39;Alicante, le Musée de l&#39;Eau Garrigós, musée de Belenes, ou le Musée des Fogueres ',
-	'Comarca de Alicante' => 'Région de Alicante',
+	'Recorrido por la ciudad de Alicante' =>'Alicante Stadt',
+	'intro visita Alicante' => 'The city of Alicante is one of the most visited in Spain thanks to the great variety of touristic choices. Here we show information for some of the charms of this city that mustn&#39;t be missed.',
+	'Puerto'=>' The declaration of the city of Alicante as a public port in the Mediterranean was in 1271,
+				according to the privilege granted by Alfonso X . The port as enginnering construction began in 1476,
+				during John II kingdom.
+				Historically, the port has played a decisive role in the commerce of the city of Alicante.
+				Today it is a tourist center with shops, restaurants, cafes, Pub. music...
+				It is a great pleasure to walk along or to make short boat trips',
+	'texto Mercado Alicante' => 'The central market of Alicante is located on the Avenue Alfonso X "el sabio", it is an eclectic styled building with Art Nouveau ornaments which was designed by architect Enrique Sanchez Sedeño and was built in 1921 by the architect Juan Vidal Ramos ',
+	'texto Explanada Alicante' => 'The Esplanade of Spain, also known as the Promenade on the Esplanade is a walk in the city of Alicante. It goes along the harbor, from the Puerta del Mar to Canalejas Park, and is one of the most popular itineraries in the city',
+	'texto Luceros Alicante' => 'This is one of the most emblematic places of Alicante. Located in the heart of downtown, this is where the famous pirotechniques detonations are held each year as part of the main festivals of Alicante, las Hogueras. ',
+	'Castillo de Santa Barbara 2' => 'Inside the Castle of Santa Barbara is located the MUSA (Museum of the City of Alicante). The tour of the castle can be visited every day of the year. <a href="http://www.alicante.es/redir.php?apartado=cultura&pagina=museos-santabarbara.html&titulo=Castillo%20de%20Santa%20B%E1rbara%20-%20Patronato%20Municipal%20de%20Cultura%20/%20Ayuntamiento%20de%20Alicante">Here </a>you can find all informations about elevators',
+	'Castillo de Santa Barbara 1' => 'The Santa Barbara Castle is located in the center of Alicante, on Mount Benacantil, a mass of rock 166 m above the edge of the sea, that gave it a considerable strategic value because from there could be watched the whole bay of Alicante and the surrounding inland.
+									On its slopes there are archaeological remains from the Bronze Age, Iberian and Roman times, although the origin of the current fortress is the ninth century, during the Muslim era. ',
+	'intro Museos' =>'Alicante City has some interesting museums',
+	'Museos Alicante MACA' => 'Placed in the old side of the city. The base of MACA is the XX century art collection by the artist Eusebio Sempere donated to Alicante in 1977. Composed by paintings, sculptures, mixed techniques and lithographies of spanish and foreign artists like Dali, Picasso, Chillida, Manolo Millares, Pablo Serrano, Joan Miró, Kandinsky, Chagall and Vasarely.',
+	'Museos Alicante MUBAG' => 'Museum dedicated mainly to paintings and sculptures of Alicante, from XVI century until the first decades of XX century.',
+	'Museos Alicante MARQ' => 'Inside the MARQ are shown archaeological pieces comming from everywhere in the province, from stone age until modern age, like the iberic lady Cabezo Lucero. Interesting because of its innovation and the use of audiovisual effects, with no surprise, have been declared European museum of the year 2004.',
+	'Museos Alicante otros' => 'There are some other museums such as Museum of the university of Alicante, Garrigos Water museum, Bethlehem museum, or the Fogueres museum ',
+	'Comarca de Alicante' => 'Alicante Land',
 	'Tranvia Alicante Parrafo 1' =>'Tranvia Alicante Parrafo 1',
 	
+	
 	//Elche
-	'Recorrido por la comarca del Baix Vinalopo' =>'On traverse le Baix Vinalopo<br>Elche, Crevillente et Santa Pola',
-	'intro visita Elche' => 'La ville d&#39;Elche a deux sites du patrimoine de l&#39;humanité, le mystère de Elche et le palmeraie d&#39;Elche et aussi de la Dame d&#39;Elche. Les origines de Elche se remontent à l&#39;an 500. C., à l&#39;ère néolithique, lorsque les premiers humains ont peuplé la pente nord-est de ce qui est maintenant connu sous le nom de La Alcudia.
-							Entrez dans cette oasis de la mediterranée avec des palmiers partout et profiter de leur patrimoine.',
-	'intro MAHE' => 'Le Musée d&#39;archéologie et d&#39;histoire d&#39;Elche (MAHE) est devenu une référence avec de l&#39;importance archéologique régional. Il est situé à l&#39;intérieur du Palais d&#39;Altamira, dans le centre historique d&#39;Elche, près de la Basilique de Santa Maria. Le MAHE a été inauguré le 18 mai 2006 avec une grande exposition sur la culture ibérique parmi lesquels se trouvait la Dame d&#39;Elche, l&#39;une des pièces les plus significatives de l&#39;art ibérique.',
-	'intro historia elche' => 'Au cours du siècle V. a.C. la ville ibérique d&#39Ilici a été fondée, dans ce moment a été sculpte le buste connu comme la Dame d&#39;Elche',
-	'intro alcudia' => 'Le site archéologique et le musée Monographique de La Alcudia sont situés dans la municipalité d&#39;Elche sur la CV-855-Elche Dolores, au km. 2.
-						On peut trouver des monuments ibériques, romaines et wisigothes. Les points culminants incluent des maisons, des bains, des temples, des bâtiments publics et une bonne partie du mur.',
-	'intro palmeral' => 'Le "Parmeral de Elche" a été proclamé patrrimoine de l&#39;humanité par l&#39;UNESCO, est une grande région de palmiers dattiers dans la zone urbaine de la ville. C&#39;est la plus grande palmeraie d&#39;Europe et dans le monde seulement dépassé par quelques palmeraies arabes. Selon la tradition, ce sont les Phéniciens qui ont introduit la paume sur ces terres, mais la disposition du Palm a été consolidée au cours du période musulmane.',
-	'intro huerto del cura' =>'Le "Huerto del Cura" est un jardin botanique d&#39;environ 13.000 m², densément peuplé avec des palmiers. Il fait partie de la collection botanique de plantes méditerranéennes comme la grenade, jujube, orangers, figuiers et de citronniers, et d&#39;autres qui ont été ajoutés avec le temps comme plantes subtropicales et une collection de cactus. Ce jardin, est crée par le chapelain José Castaño Sanchez, à qui appartenait jusqu&#39;au 1918.',
-	'intro centro de Elche' =>'Dans le centre ville de Elchee, les voyageurs peuvent trouver des monuments historiques comme le château du XII siècle appelé Palais d&#39;Altamira. Vous pouvez aussi visiter la Basilique de Santa Maria, de style baroque, où a lieu la représentation du Mystère d Elche. <br> De grande valeur et d&#39;intérêt sont également deux bâtiments d&#39;origine musulmane, comme la Tour de Calahorra et les bains arabes.',
-	'intro outlets elche' => 'Elche est une ville traditionnellement dédié à l&#39;industrie de la chaussure. Actuellement, les grandes entreprises de chaussures ont une présence dans le parc d&#39;affaires d&#39;Elche, situé à 7 km du centre-ville vers l&#39;aéroport, on trouve également 319 entreprises de tous les secteurs, commandé par les chaussures et les textiles. Ces grandes usines offrent également vente au détail à des prix très bas',
-	'intro rio safari' => 'Surrounded by near four thousand palm trees, Río Safari Elche recieve many animal species from around the world, from Florida turtles and chameleons, to wallabies, zebras, crocodiles, ostriches, lions, parrots, an Asian elephant or European lynx, among many others',
-	'intro pola park' =>'Pola Park is a beautiful theme park located in Santa Pola ideal for kids and adults',
-	'intro Crevillente'=> 'Crevillente est une ville située au pied d&#39;une montagne qui conserve la fonction complexe urbain de ses origines islamiques.
-							Il est fier de ses traditions, sa culture et fait de leur activité principale un art.
-							Le festival de Maures et Chrétiens ont été déclarés d&#39;intérêt touristique national,
-							Crevillente est également connue pour son industrie traditionnel du tapis, qui lui a donné le surnom de tapis City',
-	'intro sierra Crevillente' => 'La ville est située au pied de la montagne appellé "de Crevillent", qui sont les plus hauts sommets de la region Baix Vinalopo
-									et qui séparent la plaine côtière du vallee du Vinalopo au Nord.
-									C&#39;est un joli coin de nature préservée concienciadamente où vous pouvez vous arrêter une bonne journée d&#39;excursion en famille. Les principales routes et les sentiers des
-									être trouvé ici:',
-	'intro Hondo' => 'Ce parc naturel a deux lacs et est connue pour son avifaune. Parmi les nombreuses espèces existantes ion remarque la sarcelle marbrée et le canard à tête blanche avec deux des grandes populations mondiales. Il ya une abondance de hérons dans la saison de reproduction surtout les héron pourpré et le héron crabier. Vous pouvez également trouver d&#39;autres espèces telles que les avocettes, les échasses, le Pratincole, la Foulque à crête et l&#39;oiseau mouche. Parmi les Raptors comprennent le balbuzard pêcheur, le busard des roseaux et l&#39;aigle tacheté',
+	'Recorrido por la comarca del Baix Vinalopo' =>'Durch die Baix Vinalopo<br>Elche, Crevillente et Santa Pola',
+	'intro visita Elche' => 'The city of Elche have two World Heritage sites, The mistery of Elche and the Palm grove, and also the sculpture "Dama de Elche". The origins of Elche are dated around the year 500. B.C., in the neolithic, when the first habitants lived near the north-east hillside known as La Alcudia.
+							Come to discover this mediterranean oasis with palm trees everywhere and enjoy its patrimony.',
+	'intro MAHE' => 'The archaeological and history museum of Elche(MAHE) has become an important regional archaeological reference. It&#39; placed inside the Altamira Palace, in the historical center of the city, near the Santa Maria Basilica. The MAHE has been inaugurated on mai of 2006 with a big exposition about iberian culture, including the Dama de Elche, one of the most significatif pieces of iberian art.',
+	'intro historia elche' => 'During the V century B.C.  the iberian city Illici has been founded, at that moment has been sculpted the bust known as la Dama de Elche',
+	'intro alcudia' => 'The archaeological site and the Monographic Museum of La Alcudia is located in the municipality of Elche on the CV-855-Elche Dolores, at km. 2.
+						are Iberian, Roman and Visigoth monuments including houses, baths, temples, public buildings and a partial of the wall. ',
+	'intro palmeral' => 'The "Palmeral of Elche" which was proclaimed World Heritage by UNESCO, is a large area of palm trees in the urban area of Elche. It is the largest palm grove in Europe and in the world only surpassed by some arabian palm groves. It&#39;s believed that were the Phoenicians who introduced the palm tree on the land, but the layout of the Palm grove was consolidated during the Muslim period. ',
+	'intro huerto del cura' =>'The "Huerto del Cura" is a botanical garden of about 13,000 sqm, densely populated with palm trees. It is part of the botanical collection of Mediterranean plants such as pomegranate, jujube, orange, fig and lemon trees, and others that have been added lately like subtropical plants and a cactus collection. This garden, was created by the chaplain José Castaño Sanchez, who owned until 1918. ',
+	'intro centro de Elche' =>'In the center of the City, travelers can discover historical monuments such as the castle of the XII century called Altamira Palace. You can also visit the Basilica of Santa Maria, Baroque styled, where takes place the representation of the Mystery of Elche. Of great value and interest are also two buildings of Muslim origin: the Tower of Calahorra and the Arab baths. ',
+	'intro outlets elche' => 'Elche is a city traditionally dedicated to the shoe industry. Currently, the major shoe companies have presence in the Elche business park, located 7 km away from the city center direction airport.There are also 319 firms representing all sectors, controlled by the footwear and textiles . These factories also offer retail at very low prices. Remember that there is a Paquito Rent A Car office inside the Elche Enterprise Park, in Juan de la Cierva street',
+	'intro rio safari' => 'Umgeben von fast viertausend Palmen, Río Safari Elche erhalten, viele Tierarten aus der ganzen Welt, von Florida Schildkröten und Chamäleons, bis Wallabies, Zebras, Krokodile, Strauße, Löwen, Papageien, ein asiatischer Elefant oder Europäischer Luchs, zwischen vielen anderen ',
+	'intro pola park' =>'Pola Park ist ein schöner Freizeitpark in Santa Pola Objektes besonders für Kinder und Erwachsene',
+	'intro Crevillente'=> 'Crevillente ist eine Stadt am Fuße eines Berges, der städtischen komplexe Struktur ihrer islamischen Herkunft haltet.
+							Das Fest der Mauren und Christen haben von Nationalen Touristischen Interesse erklärt,
+							Crevillente ist auch für seine traditionelle Teppich-Industrie bekannt, die geben den Spitznamen "Teppich City" zu Crevillente.',
+	'intro sierra Crevillente' => 'Die Stadt liegt am Fuße des Berges "von Crevillente" genannt, die die höchsten Gipfel in der Region Baix Vinalopo befinden. Sie trennen die Küstenebene vom Vinalopo Tal.
+		Es ist eine wunderschöne Gegend, wo Sie halten kann und einen guten Familienausflug machen . Die wichtigsten Wanderwege können Sie
+		Hier finden :',
+	'intro Hondo' => 'Dieser Park hat zwei Seen und ist wegen seine Vogelwelt bekannt. Unter den vielen existierenden Arten können wir eine besondere Erwähnung von Marmelente und Weisskopfruderente mit zwei großen globalen Bevölkerung . Es gibt eine Fülle von Reihern in der Brutzeit besonders Purpurreiher und die Krabbe Reiher. Dort finden Sie auch andere Spezien wie Säbelschnäbler, Stelzenläufer, der Pratincole, der Crested Blässhuhn und der Vogel fliegen. Unter den Raptors gibt es Fischadler, Rohrweihe und Schreiadler ',
 
-	'intro alfombras Crevillente' => 'Les tapis faites a Crevillente sont de qualité de renommée mondiale. Il ya plusieurs sociétés actives dans ce secteur',
+	'intro alfombras Crevillente' => 'Die Teppiche in Crevillente gemacht sind Weltklasse-Qualität. Es gibt viele Unternehmen die in diesem Sektor arbeiten und sie verkaufen auch Einzelhandel in den Fabriken ab niedrigen Preisen',
 						 
 						
 	//Vega Baja
-	'Recorrido por la comarca de la Vega baja' =>'La Vega Baja du Segura',
-	'intro visita Vegabaja' => 'La Vega Baja du fleuve Segura est une région qui a un certain nombre de plages de sable et des paysages agréables qui garantissent un tourisme de qualité.
-						En plus des offres touristiques côtières bien connues telles que Torrevieja, cette région a également des charmes en rélation avec
-						ses cultives de jardin, ses montagnes, ses habitants et la gastronomie particulièrement étroitement liée au jardinage et la mer.. Sans parler de la richesse culturelle et patrimoniale de villes historiques comme Orihuela .',
+	'Recorrido por la comarca de la Vega baja' =>'Die Vega Baja von Rio Segura',
+	'intro visita Vegabaja' => 'Die Wiese des Flusses Segura (Vega Baja del Segura) ist eine Region, der eine große Menge von Sandstränden und angenehmen Landschaften, die Qualität des Tourismus garantiert.
+							Zusätzlich zu den bekannten Küstentourismus Angebote wie Torrevieja, hat diese Region andere Charmes wie seine Gärten, seine Berge, seine Menschen und Gastronomie besonders eng für die Gartenarbeit und das Meer zusammen. Nicht zu vergessen die reiche Kultur und das Erbe der historischen Städte wie Orihuela. ',
+	'intro orihuela 1' => 'Orihuela is a municipality located in a privileged area of south-eastern Spain.
+							Capital of the region of Vega Baja, the colors you see on the Orihuela represent all the Spanish Mediterranean colors. It is a prosperous place in agriculture, monumental and artistic heritage houses historic architectural gems',
+	'intro orihuela 2' => 'Birthplace of Miguel Hernandez in the streets can be found memories of the life and work of one of the most international Spanish poets.
+						Orihuela is one of the main tourist destinations in the Valencian Community. A city that has many treasures,
+						as the work of Diego Velázquez Silva "The Temptation of St. Thomas" and unique works of the great sculptor Francisco Housed.
+						Part of the artistic variety can be watched during the easter week, declared of International Tourist Interest. ',
+	'intro casa miguel hernandez' => 'The museum preserves the furnishings of the that time and pictures of different moments in the life of the poet. <br>
+								Opening hours: Tuesday to Saturday from 10:00 to 14:00 hours and from 16:00 to 19:00 hours. Sundays and holidays 10h-14h.
+								<br> More information about the house of Miguel Hernández Here <a href="http://culturaorihuela.es/mh/mh/mh.html"> www.culturaorihuela.es </ a>',
+	'intro sierra orihuela' => 'Sierra de Orihuela is a part of southern Betic foothills. It is a steep terrain over the floodplain of the River Segura. There are different hills, special mention diserves "Cruz de la Muela", whose summit is very popular among walkers',
+	'intro gastronomia orihuela' => 'The gastronomy of Orihuela is distinguished because of its dishes prepared with products of its fertile land, obtaining delicious flavors',
+	'intro torrevieja natural' => 'Torrevieja offers alternatives to the beaches such as the natural park of the salt lakes and the Museum of the sea and the salt. ',
 	
-	'intro orihuela 1' => 'Orihuela est une municipalité située dans une zone privilégiée du sud-est espagnol.
-						Capitale de la région de la Vega Baja,  les couleurs qu&#39;on voit à Orihuela représentent celle de la Méditerranée espagnole propre. Il s&#39;agit d&#39;un endroit prospère dans l&#39;agriculture, patrimoine artistique monumental et abrite des joyaux architecturaux historiques Méditerranée ..',
-	'intro orihuela 2' => 'Ville de naissance de Miguel Hernandez,  dans ses rues ont peut trouver souvenirs de la vie et l&#39;œuvre de l&#39;un des poètes espagnols les plus internationaux.
-						Orihuela est l&#39;une des principales destinations touristiques dans la Communauté Valencienne. Une ville qui a de nombreux trésors,
-						comme le travail de Diego Velázquez Silva "La Tentation de saint Thomas» et des œuvres uniques du grand sculpteur Francisco Logé.
-						Une partie de la variété artistique peut être vu dans la semanine sainte, déclarée d&#39;Intérêt Touristique International.',
-	'intro casa miguel hernandez' => 'Le musée conserve l&#39;ameublement de l&#39;époque, des photos de différents moments de la vie du poète. <br>
-									Horaire d&#39;ouverture: du mardi au samedi de 10:00 à 14:00 heures et de 16:00 à 19:00 heures. Dimanches et jours fériés 10h-14h.
-									<br> Plus d&#39;informations sur la maison de Miguel Hernández Ici <a href="http://culturaorihuela.es/mh/mh/mh.html"> www.culturaorihuela.es </ a>',
-	'intro sierra orihuela' => 'La Sierra de Orihuela fait partie des contreforts sud Bétique. Il s&#39;agit d&#39;un relief escarpé avec la plaine inondable de la rivière Segura. A remarquer la Cruz de la Muela, dont le sommet est très fréquenté par les promeneurs',
-	'intro gastronomia orihuela' => 'La gastronomie d&#39;Orihuela a des plats préparées avec des produits de ses terres fertiles, obtenant des délicieuses saveurs',
-	'intro torrevieja natural' => 'Torrevieja a une offerte touristique alternative à la plage, avec le parc naturel des salines et le musée de la mer et le sel.',
 	//Vinalopo medio y alto
-	'Recorrido por las comarcas del Vinalopo' =>'Recorrido por las comarcas del Vinalopo',
-	'intro visita Vinalopo' => 'Desde las cumbres de la sierra de Mariola, el río Vinalopó inicia su andadura por las tierras de las comarcas a las que da nombre. El río atraviesa su cuenca compuesta de valles dispuestos entre elevadas sierras. Para conocer estas tierras hace falta recorrer sus caminos, perderse en las callejas medievales de las poblaciones y visitar sus castillos.
-								El paisaje cambia a cada paso. El pino, la coscoja, el espino negro y el tomillo están presentes en los montes donde se refugia el zorro, la liebre, la perdiz o las rapaces. En contraste con ellos, en el llano, los campos de almendros y olivos alternan con extensos viñedos.
-								Además de aconsejar la visita a los castillos y viñedos en la seccion(link viñedos)
-								también invitamos al viajero a no perderse la belleza de las ciudades de esta comarca',
-	'intro novelda' => 'Novelda is a city in the south of the Community of Valencia. It is located in the region called Valle Medio del Vinalopó, on the right-hand bank of the Vinalopó River, at over a height of 241 m above the sea level. It is 17 km away from El Altet international airport and 28 km from Alicante city.',
-	'intro villena' => 'Villena está situada al noroeste de la provincia de Alicante, en la comarca del Alto Vinalopó. Se encuentra en una importante encrucijada de caminos entre las Comunidades valenciana, murciana y castellano-manchega',
-	'intro visita Elda' =>'Elda est la plus grande ville de la vallée du Vinalopó, situé à seulement 40 km de l&#39;aéroport a des grandes attractions touristiques: espaces naturels, festivals, monuments, loisirs et gastronomie, qualités qui seront sans doute en faire une ville attrayante pour les visiter.
-						La raison pour laquelle Elda est connu est surtout pour l&#39;industrie des chaussures en cuir.
-						Connus sont également les Maures et chrétiens,  la Plaza Castelar, idéal pour les promenades de détente, le musée archéologique et ethnologique et le Teatro Castelar.',
-	'intro moros y cristianos' => 'Les Maures et les chrétiens de Villena se tiendra du 4 au 9 Septembre en l&#39;honneur de Notre-Dame des Vertus, patron de la ville et est reconnu comme Turístico.1 Parti d&#39;intérêt est une représentation massive de plusieurs milliers de personnes robe maure, étudiants, soldats, paysans, etc. plus de cinq days.The parti lui-même a eu lieu du 5 au 9 Septembre et est organisée par la participation de quatorze troupes, sept d&#39;entre eux appartenant au côté Moro et autant du côté chrétien, chacune composée de plusieurs des centaines de participants des deux sexes. Une des particularités des vacances, c&#39;est qu&#39;il suit Villena y compris Mahoma2 chiffre lors de l&#39;exécution des ambassades. </ P> ',
-	'Plano ciudad de Elda' => 'Plan Elda ville',
-	'Donde comer en Elda' => 'Ou manger à Elda',
+	'Recorrido por las comarcas del Vinalopo' =>'Durch die Vinalopo Lände',
+	'intro visita Vinalopo' => 'From the peaks of the Sierra de Mariola, Vinalopó River begins its journey through the lands of the region to which it gives its name. The river flows through the valleys between mountains. To discover  these lands it is necessary to walk on the country ways, getting lost in the medieval streets of the towns and visit castles.
+			The landscape changes with every step. The pine, Kermes, black hawthorn and thyme are present in the mountains where the fox are hidden, and also hare, partridge or raptors. In contrast to that, in the flat plain, almond groves and olive trees alternate with extensive vineyards.
+			Besides recommending the visit to the  <a href="www.paquitorentacar.com/guia/castillosVinalopo" class="enlacetipo1">castles and vineyards</a>  we also invite the traveler to not miss the beauty of the cities of this region ',
+	'intro novelda' => 'Novelda is a city placed only 20 minutes away from Alicante airport. It is located in the region called Valle Medio del Vinalopó, on the right-hand shore of Vinalopó River, at 241 m above the sea level. It is 17 km away from El Altet international airport and 28 km away from Alicante city',
+	'intro villena' => 'Villena is located northwest of the province of Alicante, in the region of Alto Vinalopó. It is an important crossroads between the Communities of Valencia, Murcia and Castilian-Manchego ',
+	'intro visita Elda' =>'Elda is the largest city in the Vinalopó valley , located just 40 km away from the airport has as main tourist attractions: nature, festivals, monuments and leisure activities and gastronomy, qualities that will undoubtedly make it an attractive city to visit.
+					The reason why Elda is known is mainly because of footwear industry.
+					Also known are Moors and Christians, Plaza Castelar, ideal for relaxing walks, archaeological and ethnological museum and Teatro Castelar. ',
+	'intro moros y cristianos' => 'Moors and Christians in Villena take place from 4th to 9th September in honor of Our Lady of Virtues, patron of the city and is recognized as turistic interest festivity. It is a massive representation of several thousand people dressed Moorish,  soldiers, peasants, etc.. more than five days.The party itself is organized by the participation of fourteen troops, seven of them belonging to the Moors side and as the Christian side, each consisting of several hundreds of participants of both sexes.  </ P>',
+	'Plano ciudad de Elda' => 'Elda Stadtplan',
+	'Donde comer en Elda' => 'Wo essen in Elda',
 	'Museo del calzado' =>'Schuhe Museum',
 	//Benidorm
 	'Recorrido por Benidorm y alrededores' => 'Benidorm und Umgebung',
-	'intro visita Benidorm' => 'Benidorm est une ville conçue pour un séjour mémorable.',
-	'intro paseos Benidorm' => 'En plus des nombreuses activités qui peuvent être réalisées autour de la ville, à quelques mètres des plages on peut jouir de
-						ses musées et ses monuments comme l&#39;église de San Jaime et Santa Ana qui se trouve au sommet de la vieille ville, au sommet de la colline Canfali </ p> Benidorm possède l&#39;un des plus grands ports de plaisance et modernes la côte méditerranéenne. </ p>
-						<p>Le musée de Cire qui se trouve sur l&#39;Avenida Mediterraneo, a plus de 130 personnages de cire disposées en coulisses. Il s&#39;agit d&#39;une série de caractères de toutes les époques en cire exposeés dans leurs environnements typiques. A l&#39;intérieur se trouve le Musée des Art érotique. </ p> ',
-	'intro altea' => 'La ville d&#39;Altea est située entre Benidorm et Calpe. Au nord, on voi la Sierra Bernia, dont le sommet atteint 1.129 m. à son point culminant.
-							Le fleuve Algar , traverse la ville de NO SO. La vieille ville est idéal pour se perdre dans ses rues et profiter de leurs points de vue et s&#39;imprégner de l&#39;atmosphère de l&#39;endroit.',
-	'intro villajoyosa' => 'Villajoyosa est une ville magnifique où on peut observer leurs typiques maisons colorées, ou
-						le musée du chocolat depuis l&#39;industrie du chocolat est d&#39;une grande tradition à Villajoyosa',
-	'intro guadalest' => 'Tous les voyageurs qui traversent la Costa Blanca ont un rendez-vous obligatoire à Guadalest.',
-	'intro algar' =>'Les sources du fleuve Algar sont un cadre naturel avec un degré élevé de conservation de la richesse écologique et équipée, au même temps, de services touristiques et activités pour l&#39;éducation environnementale. Cette zone a été déclarée zone humide protégée accord du gouvernement de Valence en Septembre de 2002',
-	'intro escalada benidorm' =>'Très proche de Benidorm vous pouvez trouver des endroits idéaux pour l&#39;escalade, chutes d&#39;eau, piscines naturelles et autres merveilles de la nature',
-	'intro canelobre' => 'Les grottes du Canelobre se trovent dans la commune de Busot à seulement 16km de Alicante et à 35km de l&#39;Aéroport d&#39;Alicante',
-	'intro noche benidorm' =>'Sans doute l&#39;une des principales attractions  de Benidorm et le loisir nocturne grâce à la qualité des locaux et
-						clubs, certains d&#39;entre ls plus mythiques de la zone Méditerranée.',
-	'intro parques Benidorm' => '<p>À Benidorm on trouve les plus importantes parques d&#39;attractions du levante espagnol</p>',
-	'intro terra mitica' => 'Terra Mitica est basé sur les anciennes civilisations de la Méditerranée, il est réparti sur cinq zones thématiques: Egypte, Grèce, Rome, Iberia et les îles. Ses principales attractions sont Magnus Colossus, montagnes russes en bois; titanide une grand huit inversé avec cinq inversions, Le Vol du Phoenix, une tour de 54 m de chute libre; Synkope un pendule géant, The Clash of Triton, un splash avec deux chutes de 10 et 17 mètres de haut, et Inferno, Les montagnes russes de quatrième génération dans laquelle les wagons tournent verticalement.',
+	'intro visita Benidorm' => 'Benidorm is a city designed for an unforgettable stay.',
+	'intro paseos Benidorm' => 'In addition to the many activities that can be carried around the city, a few meters away from the beach you can enjoy
+							museums and monuments such as the Church of San Jaime and Santa Ana, which is on top of the old town at the top of the hill Canfali </ p> Benidorm has one of the largest and modern port of Mediterranean coast. </ P>
+					<p> Wax Museum which is located on Avenida Mediterraneo, has more than 130 wax figures arranged scenes. It is a series of wax characters from all eras exposed in their typical environments. Inside is also the Museum of Erotic Art. </ P> ',
+	'intro altea' => 'The town of Altea is located between Benidorm and Calpe. North is the Sierra Bernia, which has 1129 m. at its highest point.
+			The Algar river flows through the city direction NW-SW . The old town is ideal for getting lost in its streets and enjoy its views getting wrapped by the atmosphere of the place',
+	'intro villajoyosa' => 'Villajoyosa is a beautiful city where you can observe their typical colorful houses, 
+						or the chocolate museum since the chocolate industry has a great tradition in Villajoyosa ',
+	'intro guadalest' => 'All travelers comming across the Costa Blanca have an obligatory stop in Guadalest. ',
+	'intro algar' =>'The sources of river Algar are a natural place with a high degree of conservation of the environment, has at the same time tourist services and activities for environmental education. This area was declared a protected wetland in 2002 ',
+	'intro escalada benidorm' =>'Very close to Benidorm you can find great places for climbing, waterfalls, natural pools and other wonders of nature ',
+	'intro canelobre' => 'The caves of Canelobre are located in Busot just 16km away from Alicante',
+	'intro noche benidorm' =>'Undoubtedly one of the main attractions of Benidorm is the night entertainment with the quality of bars, pubs and
+		clubs, some of the most legendary of Mediterranean coast.',
+	'intro parques Benidorm' => '<p> In Benidorm are the most important theme parks of the Spanish southeast </ p> ',
+	'intro terra mitica' => 'Terra Mitica is based on the ancient civilizations of the Mediterranean, it is divided in five zones: Egypt, Greece, Rome, Iberia and the Islands. Its main attractions are Magnus Colossus, a wooden roller coaster; titanide an inverted coaster with five inversions, Flight of the Phoenix, a tower of 54 m free fall; Synkope a giant pendulum, The Clash of Triton, a splash with two drops 10 and 17 meters high, and Inferno, A rollercoaster fourth generation in which the cars run vertically. ',
 	
 	//Javea, calpe, denia
-	'Recorriendo de Calpe hasta Denia'=>'Von Calpe bis Denia',
-	'intro visita Javea' => 'À seulement 75 km de l&#39;aéroport d&#39;Alicante est situé Calpe, une belle ville côtière où
-							vous pouvez voir le majestueux rocher de Ifach, et peut être le point de départ pour
-							arriver à Denia traversant des paradis comme Moraira, les caps de San Antonio et La Nao et Javea',
-	'intro javea' => 'On laisse arrière Moraira et Javea nous atteint. Délimité par les caps de San Antonio et La Nao, est une petite ville située au nord de la Costa Blanca,  baignée par la Méditerranée et à l&#39;abri des vents froids par la barrière montagneuse du Montgo ',
-	'intro calpe' => 'Sous la plus haute falaise sur la Méditerranée, le rocher de Ifach, Calpe a grandi des deux côtés de la grande roche, symbol et image de la Costa Blanca. 
-						Son status de destination touristique depuis les années 30 grâce principalement à la qualité de ses plages, de sable fin et ses eaux propres. La municipalité conserve les vestiges du passé dans la vieille ville et des sites tels que les ruines des thermes de la Reine, et quelques mines de sel abandonnées. Son port de pêche est plein de vitalité et de nombreux restaurants où vous pourrez déguster des fruits de mer de la région. ',
-	'intro denia' => 'Denia remonte ses origines au premier siècle avant JC, lorsque les troupes de Sertorius établisent dans Dianium une base navale pendant le haute Empire, et placent la polis en face du vieux port au nord de l&#39;emplacement actuel.',
-	'intro fiestas denia' => ' Les festivités de Denia sont reconnus et appreciés par les habitants et les voyageurs. Se déroulent en Juillet
-								en honneur du Saint-Sang. Parmi le vaste programme d&#39;événements, y compris: des concerts, des défilés
-								et l&#39;événement qui identifie les festivités: "bous a la mar» (taureaux à la mer).
-								Déclarée d&#39;intérêt touristique national,  il s&#39;agit de la libération de la manade de taureaux à
-								la rue Campos jusqu&#39;a la place de taureaux improvisé au port de Denia, et dans lequel les gens
+	'Recorriendo de Calpe hasta Denia'=>'From Calpe to Denia',
+	'intro visita Javea' => 'Just 75 km away from Alicante airport we find Calpe, a beautiful coastal city where
+		you can see the majestic rock of Ifach, and can be the starting point for
+		reaching Denia crossing paradises like Moraira, the capes of San Antonio and La Nao and the city of Javea',
+	'intro javea' => 'Leaving Moraira we arrive to Javea. Delimited by the capes of San Antonio and La Nao, is a small town located north of the Costa Blanca protected from cold winds by the Montgo mountain barrier ',
+	'intro calpe' => 'Under the highest cliff on the Mediterranean( the Rock of Ifach), Calpe has grown up on both sides of the big rock, symbol and image of the Costa Blanca.
+				His status of tourist destination since the 1930s is mainly due to the quality of its beaches of thin sand and clean waters. The municipality retains vestiges of the past in the old town and sites such as the ruins of the Baths of the Queen, and some abandoned salt mines. Its fishing port is full of vitality and many restaurants where you can enjoy seafood from the region. ',
+	'intro denia' => 'Denia has its origins in the first century BC, when the troops of Sertorius established Dianium, a naval base for the High Empire, and founded the polis in front of the old port in the north of the current location. ',
+	'intro fiestas denia' => ' The festivities of Denia cause great excitement among locals and travelers. They Take place in July
+					in honor of the Holy Blood. Among the extensive program of events including concerts, parades...
+					,there is the event that identifies the festivities: "bous a la mar" (Bulls to the sea).
+					Declared of National Touristic Interest, it is the pursuit of the bulls from Campos street until the bullring improvised on the port of Denia, and in which people
+					try to cheat the bull so that he falls into the sea. ',
 
-								assaient de tricher le taureau pour qu&#39;il tombe dans la mér. De l&#39;eau, un
-								bateau sans moteur, déplacé l&#39;animal et sans violence à une rampe
-								pour son retour sur l&#39;arène ',
-
+	
+	
+	
+	
 	//Jijona ibi alcoy
-	'Interior de Alicante, Aproximandonos a Alcoy' => 'Interieur d&#39;Alicante, on s&#39;approche à &#39;Alcoi',
-	'intro visita interior' => 'Si notre point de sortie est l&#39;aéroport d&#39;Alicante, nous pouvons certainement profiter en quelques minutes desmagnifiques plages et les charmes du littoral. Cependant, il est conseillé d&#39;avoir quelques jours supplémentaires pour visiter l&#39;intérieur de la province d&#39;Alicante et ne rater pas l&#39;essence de cette terre.',
-	'intro jijona' => 'Xixona, ville ou village de montagne se trouve à 30 minutes de l&#39;aéroport d&#39;Alicante avec une bonne communication. Idéal pour l&#39;hiver et l&#39;été grâce à son microclimat. La vieille ville est très bien conservé et séparée de la zone industrielle moderne. Vous pourrez se prommener dans les rues,  monter au château, ou il ya une vue spectaculaire sur la côte et les montagnes "Puerto de la Carrasqueta". Il ya des fours traditionnels comment le Forn "El Raval dela de Penita" le plus ancien de Valence, leurs artisans gelato sont parmi les meilleurs en Espagne, il est de coutume pour les xixonenses, prendere horchata café comme petite déjeuner. Vous pouvez visiter les usines de turron artisanal, vendu toute l&#39;année à des prix modérés. ',
-	'intro ibi' => 'Connu comme la Ville des jouets ou de la glace pour son artisanat traditionnel, Ibi est une de ces villes de l&#39;intérieur dont l&#39;attrait réside dans leur découverte. L&#39;histoire de la ville est écrite dans tous les coins et ses fêtes chaque saison de l&#39;année conforment un peuple riche de traditions et de la culture',
-	'intro alcoy' => 'Alcoy est une ville qui marque un contraste inattendu avec le reste de la province d&#39;Alicante. À environ 54 km.d&#39; Alicante et à 105 km. de Valence est placé cette  ville, dont ses eaux déplaçaient roues hydrauliques qui ont décidé de la vocation laborieuse et industrielle du peuple, à force d&#39;efforts, d&#39;imagination et de courage pour développer le textile, le papier et le métal.
-Entouré par les montagnes, possède une combinaison exceptionnelle d&#39;avoir une des forêts méditerranéennes les plus authentiques et de trouver dans la même ville les restes de ce qui fut le changement social qui a amené la révolution industrielle en Espagne.
-Se promener dans ses rues révèle clairement l&#39;effort de son peuple à prospérer dans un environnement d&#39;une grande beauté naturelle, mais extraordinairement compliqué pour le développement urbain ',
+	'Interior de Alicante, Aproximandonos a Alcoy' => 'Inland of Alicante, reaching Alcoy',
+	'intro visita interior' => 'If our start point is Alicante airport, we can actually enjoy in a few minutes the wonderful beaches and coastal charms. However, make sure you have a few extra days in order to visit the inland of Alicante region and do not miss the essence of this land.',
+	'intro jijona' => 'Xixona, mountain town is 30 minutes away from Alicante airport and has good road communication. Ideal for winter and summer thanks to its microclimate. The old town is very well preserved and separated from the modern industrial area. You can walk the streets up to the castle, where there is a spectacular view of the coast and the mountains "Puerto de la Carrasqueta". There are traditional ovens how Forn "El Raval de la Penita" the oldest of Valencia region, their gelato artisans are among the best in Spain, it is tradition for xixonenses, take horchata and ice coffee as breackfast. You can visit the artisan nougat factories, where nougat is sold every day of the year at affordable prices. ',
+	'intro ibi' => 'Known as the City of toys or ice for its traditional craftsmanship, Ibi is one of those inland towns, whose appeal lies in its discovery. The history of the city is written in every corner and the festivities in every season of the year conform a people with rich traditions and culture ',
+	'intro alcoy' => 'Alcoy is a city that marks an unexpected contrast with the rest of the province of Alicante. Approximately 54 km.away from Alicante and 105 km. from Valencia is located this city, whose waters powered waterwheels that decided the laborious and industrial vocation of the people, who whith  imagination and courage developped textile, paper and metal industries centuries ago.
+						Surrounded by mountains,  having one of the most authentic Mediterranean forest and in the same city the remains of what was the social change that brought the industrial revolution in Spain.
+						Walking through its streets reveals clearly the effort of its people to prosper in an environment of great natural beauty, but extraordinarily difficult for urban development ',	
 	
 	//Frases comunes escapadas
 	'Cosas que visitar' => 'Orte zu besuchen', 
@@ -249,7 +239,7 @@ Se promener dans ses rues révèle clairement l&#39;effort de son peuple à pros
 	//Alicante
 	'Fiestas en Alicante' =>'Fest in Alicante',
 	'intro hogueras' => 'Das wichtigste Volksfest in Alicante sind die "Fogueres de Sant Joan"',
-	'Hogueras Alicante parrafo 1' => 'Cette fête se remonte à l&#39;époque où les agriculteurs d&#39;Alicante célébreaient le jour le plus long de l&#39;année pour la récolte des fruits et de la nuit la plus courte pour destruir les mauvais esprits. Aujourd&#39;hui le Fogueres de Sant Joan sont les fêtes officielles d&#39;Alicante et ont été déclarées d&#39;intérêt touristique international.',								 
+	'Hogueras Alicante parrafo 1' => 'Dieses Fest hat seinen Ursprung als die Bauern, um den längsten Tag des Jahres für die Obsternte und die kürzeste Nacht, um böse Geister zu vernichten feiern. Heute, Fogueres de Sant Joan sind die offiziellen Feierlichkeiten von Alicante und haben als internationalen touristischen Interesse erklärt worden.',
 	'Hogueras Alicante parrafo 2' => 'Von 17. bis 20. Juni die "Fogueres" sind gebaut. Die Fogueres Sind Kunstdenkmälern aus Holz, Pappe, und Kork gebaute, mit satirische Repräsentationen, die Vier Tage später, nach monumentalen Starts Feuerwerk vor Benacantil, verbrannt sind. Das Spektakel ist sichtbar von fast jedem Punkt der Stadt. ',
 	'intro semana santa' => 'Karwoche in Alicante ist ein wichtiges Fest für Alicante Leute.',
 	'Carnavales' => 'Karnevals',
@@ -258,32 +248,33 @@ Se promener dans ses rues révèle clairement l&#39;effort de son peuple à pros
 	
 	
 	//Elche
-	'intro fiestas elche1'=>'Du 8 au 15 d&#39;Août la ville d&#39;Elche devient une fête de toutes sortes: Maures et des Chrétiens, des fanfares, des concerts gratuits, des parades, feux d&#39;artifice ... ',
-	'intro fiestas elche2'=>'Remarquable est la nuit du 13 connu sous le nom nit de l&#39;Alba. Ce soir à 23h15 les gens d&#39;Elche lancent des feux d&#39;artifice en continu depuis les terrasses des bâtiments, ça devient un scpéctacle incomparable(17,000 kg net de poudre sont lancéa). Cette tradition, qui se remonte au Moyen Age, était à l&#39;origine une façon qu&#39;ils avaient à remercier les familles de la Vierge qui avaient des enfants (lancement d&#39;une fusée pour chaque enfant).',
-	'intro semana santa elche' => 'La Semaine Sainte à Elche est une célébration de grande importance. Le principal attrayant est le dimanche des Rameaux',
-	'intro misteri elche' =>'Le Mystère d&#39;Elche, est un trésor culturel de la ville d&#39;Elche et un des principaux patrimoines de la région de Valence , Il est declarée monument national en 1931, et y compris, en 2001, dans la première annonce de chefs-d&#39;œuvre du patrimoine oral et immatériel de l&#39;humanité par l&#39;UNESCO',
-	
+	'intro fiestas elche1'=>'Von August 08 bis 15 die Stadt Elche lebt eine Feier mit aller Art: Mauren und Christen, Bands, kostenlose Konzerte, Paraden, Feuerwerk ... ',
+	'intro fiestas elche2'=>'Höhepunkte der Feierlichkeiten ist zum Beispiel in der Nacht vom 13. August as nit de l&#39;Alba bekannt. In dieser Nacht um 23:15 Uhr die Leute von Elche Einschalten Feuerwerk vom Dach der Gebäude, un es macht einem unvergleichlichen scpektakel (17.000 kg netto Pulver gestartet werden). Diese Tradition, die aus dem Mittelalter stammt, war ursprünglich ein Weg, die famillies mit Kindern hatte, um die Jungfrau (a Raketenstart für jedes Kind) zu danken. ',
+	'intro semana santa elche' => 'Die Osterwoche Feier hat Bedeutung in Elche. Die wichtigsten attraktiv ist Palmsonntag ',
+	'intro misteri elche' =>'Bekannt als La Festa in Großbuchstaben, wurde zum Weltkulturerbe der Menschheit von der UNESCO erklärt. Es ist die Schauspiel eines heiligen Singspiel das Thema, von denen die Dormitio, Krönung und Himmelfahrt der Heiligen Jungfrau in den Himmel, von Sängern aus Elche am 14. und 15. August durchgeführt wird. Vom 11. bis 13. August sind die Generalproben statt. Trotz der Tatsache, dass Leistungen in den Tempel El Misteri überlebte dank eines Stiers [Papstes Edikt], die im 17. Jahrhundert zugestanden wurde, wurden verboten. Im Laufe der Tage, die das Fest dauert auch hervorgehoben werden ist La Nit de l&#39;Alba, in denen die Städter Angebot Feuerwerk der Heiligen Jungfrau und La Roa aus ihren flachen Dächern, für das Gebiet der alten mittelalterlichen Mauern, eine Spur halten für Dormitio der Jungfrau Maria. Jedes Jahr, die in einer geraden Zahl gibt es auch außergewöhnliche Leistungen am 29. und 30. Oktober und am 1. November endet.
+					Es ist ein Meisterwerk des mündlichen und immateriellen Erbes der Menschheit.',
 	//Vega baja
-	'intro semana santa orihuela' => 'La Semaine Sainteà Orihuela est l&#39;une des expressions religio-culturel a remarquer en Espagne, déclarée d&#39;Intérêt Touristique International, représente une autre attraction culturelle de la ville à côté de la vieille ville qui a été déclarée monument historique-artistique et monumental depuis 1969. Il ya des processions le Vendredi Saint (ou Vendredi de Dolores) et chaque jour de la Semaine Sainte du dimanche des Rameaux au dimanche de Pâques, étant la procession du Vendredi la plus importante pour recueillir des dix confréries et plus de 8000 Nazaréens 1200 musiciens, deux cents romains et une garde prétorienne de plus de cent personnes. Particulièrement unique est la Procession du Silence, qui se dérroulle le jeudi saint depuis l&#39;église de Santiago de Orihuela où vous pouvez entendre le chant de la Passion écrasante ',
-	'intro feria mayo torrevieja'=>'Ça qui était à l&#39;origine une fête de sevillanas entre amis, avec le temps est devenue une des célébrations les plus importantes de la ville, une fêtee qui a émergé en 1987 et qui a donné couleur et chaleur à la ville de Torrevieja dépuis cette époque. A été déclarée Fête du Tourisme de Valence. L&#39;événement, qui se déroule du mercredi au dimanche, à partir de l&#39;ouverture et de l&#39;éclairage du spectacle. Cet acte compris au même temps la danse, équitation, spectacles équestres et des spectacles quotidiens qui en font une expérience mémorable.',
+	'intro semana santa orihuela' => 'Die Karwoche in Orihuela ist eines der Top-religiös-kultureller Ausdrucksformen von Spanien, der Internationalen Touristischen Interesse erklärt, ist eine weitere kulturelle Attraktion der Stadt zusammen mit dem Besuch der alten Stadt, die eine historisch-künstlerischen Denkmal erklärt wurde in 1969. Es gibt Prozessionen am Karfreitag (oder Freitag von Dolores), und an jedem Tag der Woche von Palmsonntag bis Ostersonntag, wobei die Prozession vom Freitag die größte mit der Teilnahme von zehn Bruderschaften und über 8.000 Nazarener, 1200 Musiker, zweihundert Roman Prätorianer und mehr als tausend Menschen. ',
+	'intro feria mayo torrevieja'=>'Was ursprünglich ein Sevillanas private Party zwischen einigen Freunden war, nach einigen Jahren hat sich zu einem der wichtigsten Feste der Stadt. Es ist The May Fair seit 1987 in die Stadt Torrevieja gefeiert. Es wurde von touristischem Interesse für Valencia Region erklärt. Die Veranstaltung läuft von Mittwoch bis Sonntag. Dieser Akt beinhaltet gleichzeitig tanzen, Reiten, Pferde-Shows und täglich zeigt, dass es ein unvergessliches Erlebnis zu machen',
 	
 	//Elda-Petrel
-	'Fiestas en Elda y Petrer' => 'Festivities in Elda and Petrer',
-	'intro fallas elda' => 'Elda Fallas are held every year the second week of September from Wednesday to Sunday. They consist of the plant and subsequent burning of artistic wood and cardboard monumets decorated with satirical tone of humor and protest. There are reports documented that, in 1929, along with bonfires on the night of San Juan, were planted in Elda fallas, especially in the Barrio Nuevo and Prosperity neighbournhood.',
-	'intro moros petrel' => 'The Petrel Moors and Christians in honor of Saint Boniface Martyr take place from Thursday to Monday on the closest weekend to May 14, day of of the patron of the village. These parties are listed as National Tourist Interest since 1966.
-						With five days of duration, are one of the oldest Moors and Christians in the province, taking place already in the seventeenth century, specifically in 1614 and already marked and with all rules established on May 12, 1822.',
-	
+	'Fiestas en Elda y Petrer' => 'Fest in Elda und Petrer',
+	'intro fallas elda' => 'Elda Fallas werden jedes Jahr gefeiert in der zweiten Woche von September von Mittwoch bis Sonntag. Sie bestehen aus der Anlage und die anschließende Verbrennung von Holz und Pappe künstlerischen Denkmäler mit satirischen Ton des Humors und der Protest eingerichtet. Es gibt Berichte dokumentiert, dass im Jahr 1929, zusammen mit Lagerfeuer in der Nacht von San Juan, wurden in Elda fallas gepflanzt, vor allem im Barrio Nuevo und Prosperidad Nachbarschaft.',
+	'intro moros petrel' => 'Die Petrel Mauren und Christen zu Ehren des Heiligen Bonifatius Martyr statt von Donnerstag bis Montag auf dem nächsten Wochenende bis zum 14. Mai, Tag der der Schutzpatron des Dorfes. Diese Parteien werden als nationalem touristischem Interesse seit 1966 aufgeführt.
+Mit fünf Tagen Dauer, sind eine der ältesten Mauren und Christen in der Provinz, findet bereits im siebzehnten Jahrhundert, und zwar im Jahre 1614 und bereits markiert und mit allen Regeln für 12. Mai 1822 gegründet. ',
 	//------------------------------------------------//
+	
 	
 	
 	
 	//------------RURAL Y CAMPINGS----------//
 	
-	'intro turismo rural'=> 'La oferta de turismo rural en la provincia de Alicante es muy variada, destacamos una interesante asociación cercana a nuestra entidad. Se trata de la Asociacion para el desarrollo rural del campo de Elche',
-	'intro casa catral'=>' En Catral se encuentra una acogedora y hospitalaria Casa Rural ideal para relejarse y disfrutar en familia de la naturaleza y de la huerta',
-	'intro campings'=>'Marjal Costa Blanca Eco Camping Resort pertenece al municipio de Crevillente.Marjal Costa Blanca es uno de los Campings Resorts más modernos de Europa. Con unas instalaciones de gran calidad, un clima privilegiado y un equipo humano a su entera disposición hará que sus vacaciones sean inolvidables. Idóneo para disfrutarlo en cualquier época del año.',
-	'intro casa pinoso'=>'Situada entre viñedos, cerezos y olivares, la casa rural Casa 10-11 Guest House Hotel ofrece un lugar para disfrutar, despejarse, relajarse o practicar actividades alternativas',
-	'intro casa petrer'=>'En petrer podemos encontrar dos casas rurales lugar idóneas para disfrutar de un marco natural, etnológico y cultural incomparable.',
+	'intro turismo rural'=> 'Der ländliche Tourismus in der Provinz Alicante ist reichhaltig und umfangreich, markieren wir eine interessante Verbindung in der Nähe unserer Einheit.
+Es ist die Vereinigung für ländliche Entwicklung von Elche Feld ',
+	'intro casa catral'=>'In Catral finden wir eine einladende und gastfreundliche Landhaus für entspannen und die Natur genießen mit Familie',
+	'intro campings'=>'Marjal Costa Blanca Eco Camping Resort befindet sich innerhalb der Gemeinde Crevillente. Marjal Costa Blanca ist eines der modernsten Campingplätze Resorts in Europa. Mit hochwertigen Anlagen, einer privilegierten Klima und Mitarbeiter, die Ihren Urlaub unvergesslich machen werden. Ideal für jeder Zeit des Jahres',
+	'intro casa pinoso'=>'Eingebettet in die Schönheit der Landschaft Spaniens, inmitten von Weinbergen, Kirschbäumen und Olivenhainen bietet das Casa 10-11 Guest House Hotel einen einzigartigen Urlaub. Hier während Ihres Aufenthaltes können Sie Spaß haben, chillen oder etwas anderes tun. ',
+	'intro casa petrer'=>'In petrer finden wir zwei ländlichen Gästehäuser, ein idealer Ort für den Genuss eine herrliche Naturlandschaft, ethnologischen und kulturellen. ',
 	
 	//-------------------------//
 	
@@ -308,54 +299,54 @@ Se promener dans ses rues révèle clairement l&#39;effort de son peuple à pros
 	'intro gastronomia provincia' => 'Die Gastronomie von Alicante hat zwei haupt gastronomische Zonen: Die Küste und das Inland. Am Inland die typische Platte enthalten Fisch und Meeresfrüchte, während am Inland es gibt typische Platten mit mehr Fleisch. Viel gekocht mit Reis, (Paellas), und viele Meeresfrüchte, Eintöpfe und Gartenprodukte. AusserdemEn outre haben einen gute Tradizion die Back-und Süßwaren.',
 	'Gastronomia de la Provincia de Alicante'=> 'Gastronomie von Alicante',	
 	'intro gastronomia elche' => 'El principal plato en Elche es el Arroz con costra, que se elabora en un perol de barro y cuyos ingredientes son el arroz, el conejo o/y pollo, embutidos varios, aceite, sal, azafrán, huevo, tomate y garbanzos. Otros platos típicos de la gastronomía ilicitana son el Arroz con Conejo y Caracoles y el tradicional Puchero con Pelotas, así como el Mújol del Hondo con alioli. Como aperitivo cabe resaltar las delicias de Elche, que son unos entrantes formados por un dátil relleno con una almendra, envuelto a su vez por bacon frito, unificando las texturas y sabores. Además, también se encuentra el plato llamado Pipes i carases, compuesto principalmente de bacalao seco, ñoras y aceite. Como postres destacan los dátiles, las granadas, los higos y como dulces la Tortada de Elche o pan de higo, y las fogasetas que se elaboran en Pascua. En cuanto a dulces, destacar la tarta de Elche, que se trata de un bizcocho hecho a base de harina de almendra, almibarado para evitarle la sequedad, y con merengue por encima.',
-	'intro arroz y mondongo' => 'En la mayoría de casas de Crevillent el domingo es el día por excelencia del arroz. Y aunque no sea el más consumido domingo tras domingo, no hay arroz más típico de Crevillent que el arròs amb pota i mondongo (arroz con tripa y pata de ternera). Ya sé que suena un poquito asquerosete, pero está buenísimo.
-     El mondongo no es más que la tripa de la ternera. Y la pota es la pata de la ternera.
-     Lo especial de este arroz, aparte de su sabor característico, es que sale muy meloso y al comerlo los labios se quedan pegados.',
+	'intro arroz y mondongo' => 'In most houses of Crevillente Sunday is the day of rice. And, although it is not consumed every Sunday, there is no more typical rice in Crevillente than Rice with "pota and mondongo" (rice with beef tripe and leg). I know it sounds a little disgusting, but it is great.
+      The tripe is nothing more than the guts of the calf. And the pota is the leg of veal.
+      The special thing about this rice, besides its flavor, is its sweet flavour and lips get stuck. ',
 	'arroz y mondongo ingredientes'=>'<ul>
-				<li>1 conejo</li>
-				<li>1/2 kg de pota y mondongo (entre los dos) </li>
-				<li>1 cabeza de ajos</li>
-				<li>1 pimiento rojo</li>
-				<li>4 tomates maduros</li>
-				<li>2 docenas de caracoles</li>
-				<li>200 gramos de garbanzos</li>
-				<li>600 gramos de arroz</li>
-				<li>2,5 litros de caldo</li>
-				<li>azafrán, sal, aceite</li>
+				<<li>1 Rabbit</li>
+				<li>1/2 kg pota and mondongo (1/2kg total) </li>
+				<li>1 garlic clove</li>
+				<li>1 red pepper</li>
+				<li>4 ripe tomatoes</li>
+				<li>2 dozens snails<li>
+				<li>200 gr. chickpeas</li>
+				<li>600 gr. rice</li>
+				<li>2,5 litres soup</li>
+				<li>saffron, salt, oil</li>
 				</ul>',
-	'arroz y mondongo elaboracion'=>'La noche anterior ponemos los garbanzos a remojo.Limpiamos la pota  y el mondongo y los ponemos a hervir junto con los garbanzos durante una hora en la olla rápida.Una vez hervido, deshuesamos la pota y cortamos ésta y el mondongo a trozos.Colamos el caldo de la cocción y lo reservamos. En una sartén, freímos la cabeza de ajos junto con el pimiento cortado a tiras.Lo reservamos.Cortamos el conejo en trozos y lo freímos hasta tenerlo bien dorado y lo reservamos. Freimos el tomate raspado.Una vez que esté bien frito, incorporamos los garbanzos y los caracoles y mezclamos unos minutos.Añadimos entonces todos los ingredientes excepto el pimiento, la pota y el mondongo en la paella.Ponemos el caldo de cocción reservado.Ponemos la sal y el azafrán.Cuando empiece a hervir, añadimos el arroz. Unos tres minutos después añadimos la pota, el mondongo y el pimiento.minutos después . . . listo!!',
-	'arroz con costra ingredientes'=>'400Grs. de arroz redondo, 150Grs. de pechuga de pollo,100Grs. de magra de cerdo,100Grs. de salchichas blancas, 50Grs. de salchicha roja(si puede ser de hinojo), 50Grs.de butifarron, 100Grs. de blanco(embutido tipico de Levante), 100 Grs. de garbanzos cocidos, 10 huevos frescos,1/2 vaso de aceite de oliva, 1 tomate grande rayado, 1 y1/2L. agua o caldo de pollo azafran y sal.',
-	'arroz con costra elaboracion'=>'Se sofrie toda la carne junto con las salchichas, reservando el resto de embutido. Cuando este doradita se añade el tomate y el azafran o colorante.Una vez este rehogado todo se añade el agua y se deja cocer durante 30 minutos. Debera quedar aproximadamente la mitad de agua, se añade el arroz y el resto de embutido, se deja cocer 5 minutos y se prueba de sal ya que no se pone hasta haber añadido el embutido. Se deja cocer durante unos 13 minutos a fuego medio y mientras se baten los huevos y se pone a calentar el horno de forma que caliente por todos lados y a la vez gratine.<br>Pasado este tiempo se aparta el arroz, se cubre con el huevo batido y se mete al horno otros 6/7 minutos para que cuaje y forme una costra dorada apetitosa',
-	'intro caldero'=> 'El Caldero es el principal plato de Santa Pola, siendo también típico en Tabarca y Alicante. Es un plato completo ya que tiene su pescado, que es el primer plato y su arroz abanda de segundo. Este plato va siempre acompañado de su allioli.',
+	'arroz y mondongo elaboracion'=>'The night before we put the chickpeas in water. We clean the leg and the mondongo and boil it together with the chickpeas for an hour in a quick pan. Once boiled, we bone the leg and we cut it and also cut the mondongo into small pieces. we strain and reserve the boiled broth. In a pan, we fry the garlic together with pepper in slices. We reserve it. We cut the rabbit into pieces and we fry it until is brown. We reserve rabbit, then we fry ripe tomatoes. And once is fried, we add the chick peas and snails and mix for some minutes. Add to the pan then the rest of ingredients except peppers, pota and mondongo. We put broth, salt, saffron, and when starts boiling we add rice. Three minutes later we add pota, mondongo and pepper, after some minutes. . . ready!!',
+	'arroz con costra ingredientes'=>'400Grs. Round rice, 150grs. chicken breast, 100g. of lean pork, 100g. white sausage, 50g. red sausage (fennel sausage if possible), 50Grs. butifarrón, 100grs. white (blanco,typical sausage Levante), 100 Grs. cooked chickpeas, 10 fresh eggs, 1/2 cup olive oil, 1 large grated tomato, One and a half Litre water(or chicken broth), saffron and salt. ',
+	'arroz con costra elaboracion'=>'Fry all meat together with sausages, reserving the butifarron and blanco. When is brown add the tomato and saffron. Once is becoming dry add water and cook it for 30 minutes. Should be left approximately half the water, at this moment add the rice and the remaining sausage, let it cook for 5 minutes and make a salt test, do not add salt before butifarron. Boil it for about 13 minutes around medium heat while the eggs are beaten and turn on the oven. <br> After this time reserve rice, we cover it with beaten egg and bake in the oven for another 6/7 minutes to form a golden crust ',
+	'intro caldero'=> 'The Caldero is the main dish of Santa Pola and is also typical from Tabarca and Alicante. It&#39;s a full meal as it has its fish, which is the first dish and secondly abanda rice. This dish is always accompanied by aioli. ',
 	'caldero ingredientes'=>'<ul>
-				<li> 1,5 kg de pescado variado (pescado de roca)
-				(gallina, rata, mero, lechola, rape, rascasa, araña, mújol, dorada, caballa, etc.)</li>
-				<li> 1 sepia (opcional) para el arroz a banda</li>
-				<li> 2 ñoras</li>
-				<li> 1 cabeza de ajos</li>
-				<li>300 gr de tomate triturado</li>
-				<li> 3,5 litros de agua</li>
-				<li> Sal gorda</li>
-				<li> 150 ml de aceite de oliva</li>
+				<li> 1,5 kg gemischten Fisch (Felsenfisch)
+				(Huhnfisch, Rattefisch, Zackenbarsch, lechola, Seeteufel, rascasa, Spinne Fisch, Meeräsche, Brassen, Makrelen, etc..) </ li>
+				<li> 1 Sepia (optional) für "a banda" Reis</li>
+				<li> 2 Ñoras(Speziellen Paprika)</li>
+				<li> 1 Knoblauch</li>
+				<li>300 gr zerdrückte Tomaten</li>
+				<li> 3,5 Liter Wasser</li>
+				<li> Dick Salz</li>
+				<li> 150 ml Oliven Öl</li>
 				<li> Allioli</li>
 				</ul>',
-	'caldero elaboracion'=>'Cogemos el pescado con cuidado para no pincharnos (sus espinas son muy peligrosas) y lo limpiamos muy bien de escamas, tripas y de algún pincho que tengan (recuerda que tienes que llevar mucho cuidado). Lavamos bien y los cortamos en trozos grandes. Una vez cortado lo salamos con abundante sal, por los dos lados del pescado, dejando mínimo 2 horas con la sal. Pasado este tiempo lo desalamos bajo el grifo con abundante agua y reservamos. Ponemos una cazuela al fuego con el aceite. Freímos las ñoras y las apartamos. En un mortero ponemos los ajos pelados y los picamos con un poquito de sal. Cuando estén bien picados los sacamos con la ayuda de una cuchara y los reservamos. Agregamos al mortero las ñoras y las picamos muy bien. En la cazuela al fuego echamos los ajos que tenemos picados, removemos hasta que empiecen a dorarse y vertemos el tomate rallado. Sofreímos muy bien. Una vez sofrito agregamos unos tres litros de agua y ponemos un poco de agua en el mortero que tenemos las ñoras picadas. Movemos y agregamos también a la olla. Vertemos un poco de colorante y dejamos hervir. Añadimos el pescado unos 20 ó 30 minutos después. Una vez hervido el pescado lo colocamos en una bandeja. En un cazo ponemos un poco de caldo de hervir el pescado, una cucharada de allioli, removemos y lo agregamos al pescado por encima. Del caldo del pescado prepararemos el arroz a banda.',
-	'intro gachamiga'=> 'Uno de los platos típicos de las comarcas del Vinalopó es la Gachamiga',
+	'caldero elaboracion'=>'We manipulate the fish carefully to avoid be pricked (their spines are very dangerous) and we remove scales, guts and some skewer they may have (remember you have to be very careful). We wash well and cut into chunks. Once cut we add plenty of salt, on both sides of the fish, leaving it at least two hours with salt. After this time desalinate it under the tap with water and reserve it. Put a pan on the fire with oil. Fry the ñoras and reserve them. In a mortar put the garlic cloves and chop them with a little salt. When they are chopped them out with a spoon and reserve. We add to the mortar the minced ñoras. Fry in chopped garlic, fry until they begin to brown and add the grated tomato. Fry very well. Once fried add about three litres of water and put a little water in the mortar where the chopped peppers(ñoras) are. Move and also add it to the pan. Put a bit of saffron and let it boil. Add the fish about 20 or 30 minutes later. Once boiled fish place it in a tray. In a saucepan put some boiling fish broth, a spoon of aioli, move and add the fish on top. Prepare paella with the fish broth. ',
+	'intro gachamiga'=> 'One of the typical dishes of the Vinalopo region is the Gachamiga',
 	'gachamiga ingredientes'=>'<ul>   
-							   <li>* 1/2 l. de aceite de oliva</li>
-								 <li>* Una cabeza de Ajos</li>
-								 <li>* 4 l. de Agua</li>
-								 <li>* 1 Kg de harina de pan</li>
-								 <li>* 2-3 puñados de s</li>
+							   <li>* 1/2 l. Oliven Öl</li>
+								 <li>*  1 Knoblauch</li>
+								 <li>* 4 Liter. Wasser</li>
+								 <li>* 1 Kg Mehl (Brot Mehl)</li>
+								 <li>* 2-3 löfeln Salz</li>
 								 </ul>',
-	'gachamiga elaboracion'=>'Se calienta el aceite en una sartén grande y se echan los dientes de ajo con un corte cada uno. Una vez dorados los ajos se sacan y se apartan. Se echa el kilo de harina y se remueve con el aceite hasta que toda la harina queda empapada y con grumos. Empezar a echar el agua y deshacer los grumos de la harina hasta que empiece a hacerse una pasta cada vez más densa. A partir de aquí hay que trabajarla mucho intentando que no se pege la masa por los bordes. Cuando la masa empieze a no pegarse se le empieza ha dar vueltas agarrando la sartén con las 2 manos y con mucho cuidado. El tiempo estimado es aproximadamente de 1 hora a 1 y 20 min.',
-	'gazpacho villena ingredientes'=>'Medio conejo. Medio pollo. 2 docenas de caracoles. Una cebolla. dos tomates maduros. Aceite de oliva. 250 grs. de setas. 2 tortas de gazpacho de 500 grs. Pebrella.',
-	'gazpacho villena elaboracion'=>'Se sofríe el pollo, conejo, cebolla y tomate rallado poniendo a cocer. Añadir las setas, pebrella, caracoles previamente engañados dejando que continúe la cocción. Se parte la torta de gazpachos en trozos muy pequeños y agrega a la cocedura, dejando parte de ella entera que nos servirá de lecho en el plato donde se sirvan. Nota: no necesitan mucho tiempo de cocción y es costumbre acompañarlos con un poco de all i oli.',
-	'intro gastronomia elche' => 'El principal plato en Elche es el Arroz con costra, que se elabora en un perol de barro y cuyos ingredientes son el arroz, el conejo o/y pollo, embutidos varios, aceite, sal, azafrán, huevo, tomate y garbanzos. Otros platos típicos de la gastronomía ilicitana son el Arroz con Conejo y Caracoles y el tradicional Puchero con Pelotas, así como el Mújol del Hondo con alioli. Como aperitivo cabe resaltar las delicias de Elche, que son unos entrantes formados por un dátil relleno con una almendra, envuelto a su vez por bacon frito, unificando las texturas y sabores. Además, también se encuentra el plato llamado Pipes i carases, compuesto principalmente de bacalao seco, ñoras y aceite. Como postres destacan los dátiles, las granadas, los higos y como dulces la Tortada de Elche o pan de higo, y las fogasetas que se elaboran en Pascua. En cuanto a dulces, destacar la tarta de Elche, que se trata de un bizcocho hecho a base de harina de almendra, almibarado para evitarle la sequedad, y con merengue por encima.',
-	'ingredientes' => ' Zutaten',
-	'preparacion' =>'Vorbereitung',
-	'otros platos elche' =>'Además existen otros platos típicos de Elche como los elaborados con dátil: Delicias de Elche o Pastel de Dátil. Otros dulces como las almojábenas o la coca salada también tienen gran tadición como en otros pueblos de la zona',
-	'otros platos Vinalopo' =>'Otros platos típicos de la zona son las toñas, borreta de Sax o el Triguico de Villena',
+	'gachamiga elaboracion'=>'Heat the oil in a large skillet and throw the garlic with one cut each. Once browned garlic are removed and set aside. Add 1kg. flour and move it with oil until all the flour is wet and lumpy. Begin to add the water and break up the lumps of flour until a dough starts to get increasingly dense. From here you have to work a lot trying to keep the dough from sticking the edges. When the dough starts to not stick start to spin the pan holding with 2 hands and carefully. The estimated time is about 1 hour to 1 and 20 min. ',
+	'gazpacho villena ingredientes'=>'Half rabbit. Half chicken. 2 dozen snails. An onion. two ripe tomatoes. Olive oil. 250 grams. mushrooms. 2 cakes 500g gazpacho. Pebrella. ',
+	'gazpacho villena elaboracion'=>'Fry the chicken, rabbit, grated onion and tomato putting it to boil. Add the mushrooms, pebrella, previously cheated snails and continue cooking. cut gazpacho into small pieces and add it to the boiling pan, leaving part of it which will be the entire bed in the dish when served. Note: You do not need much cooking time and it is typical to accompany them with a little all i oli',
+	'intro gastronomia elche' => 'The main dish in Elche is Arroz con costra (Rice with shell), that is made in a clay pot and whose ingredients are rice, rabbit and / or chicken, different types of sausages, oil, salt, saffron, egg, tomato and chickpeas. Other typical dishes of ilicitanian gastronomy are Rice with Rabbit and Snails and traditional stew with balls and the Mullet of Hondo with aioli. As an appetizer worth testing Elche delights, which are made of dates with an almond wrapped by fried bacon, unifying the textures and flavors. In addition, we find also the dish called Pipes i carases, composed primarily of dried cod, peppers and oil. As desserts includes dates, pomegranates, figs and the Tortada of Elche or fig bread, also fogasetas that are made at Easter.',
+	'preparacion' =>'Preparation',
+	'ingredientes' => ' Ingredients',
+	'otros platos elche' =>'In addition to mentioned gastronomy, There are another typical dishes elaborated with dates: Delicias de Elche or Date cake. Other sweers like almojábenas or Coca salada have also tradition as in other towns of the region',
+	'otros platos Vinalopo' =>'Weitere typische Gerichte in der Zone sind Toñas, borreta de Sax oder Triguico de Villena ',
 	
 	
 	
