@@ -34,7 +34,7 @@ return array(
 	'imgAltEstadodelmar'  => 'Zustand des Meer',
 	'imgAltPasarelas' => 'Pasarelles',
 	'imgAltAccesomovreducida' => 'Zugang Behinderte',
-	'imgAltRestaurante' =>' Restaurants',
+	'imgAltRestaurante' => 'Restaurants',
 	'imgAltVela' => 'Segeln',
 	'imgAltLavapies' => 'footwash',
 	'imgAltJuegosDeportivos'=>'Sport Spielplatz',
@@ -65,33 +65,32 @@ return array(
 						Alcoy, Font de la Figuera, etc..). Daher können wir sagen, dass der Besuch zu den Burgen des Ober
 						Vinalopó ermöglicht es uns, eine Reise durch die Geschichte zu machen',
 	'castillos parrafo 2' =>'Bemerkenswerte Burgen sind in Villena , Biar, Banyeres Mariola und Sax, aber wir haben nicht zu vergessen die Existenz in anderen Dorfen von anderen archäologischen Gütern und Türme, wie Beneixama und Camp de Mirra. ',
-	'castillo Villena' =>'Villena Castle has
-					arab origin, but was enlarged after the Christian conquest by feudal lords,
-					In Villena, we also recommend visiting the beautiful Gothic churches of Santiago and Santa
-					Mary as well as the Municipal Palace and the Archaeological Museum "José María
-					Soler "in which is showed the famous Treasure of Villena, a fabulous collection of art objects
-					made of gold thousands of years before Christ.',
+	'castillo Villena' =>'Villena Schloss hat arabischer Herkunft, wurde aber nach der christlichen Eroberung von Feudalherren vergrößert,
+						In Villena, empfehlen wir auch den Besuch der schönen gotischen Kirchen von Santiago und Santa
+						Maria sowie das Rathaus und das Archäologische Museum "José María
+						Soler ", wo die berühmte Schatz von Villena zeigen ist, eine fabelhafte Sammlung von Kunstgegenständen
+						aus Gold eigene Tausend Jahren vor Christus.',
 	
-	'castillo Sax' =>' Sax Castle, located on top of a rocky ridge, has two towers: the oldest, from twelfth century (Almohad)
-					and the largest, the Tower of Homage, from fourteenth century. Biar Castle
-					(declared a national monument in 1931) kept inside its main tower an interesting
-					vault made by the Almohads in the twelfth century. In the historic center
-					of Biar you should not forget to visit the church and around
-					the village, the Shrine of Our Lady of Grace and the medieval aqueduct.',
+	'castillo Sax' =>' Sax Schloss, auf einem felsigen Grat befindet, besteht aus zwei Türmen: die älteste, von zwölften Jahrhundert (Almohad)
+						und der größte, der Turm der Hommage von vierzehnten Jahrhundert. Biar Castle
+						(zum Nationaldenkmal erklärt wurde in 1931) gehalten innerhalb seiner Hauptturm eine interessante
+						Gewölbe gemacht von den Almohaden im zwölften Jahrhundert. Im historischen Zentrum
+						von Biar sollten Sie nicht vergessen, die Kirche zu besuchen und um
+						das Dorf, das Heiligtum Unserer Lieben Frau von Grace und dem mittelalterlichen Aquädukts.',
 	
-	'castillo Banyeres' =>' In the Arab castle of Banyeres located 830 meters above sea level in the center of the
-						town special mention for the great Tower of Homage (or "Major Tower"), which has importance for the Moors and Christians that, in honor of the patron Sant Jordi,
-						have been held for several centuries from 22 to 25 April every year. ',
+	'castillo Banyeres' =>' In der arabischen Burg von Banyeres 830 Meter über dem Meeresspiegel in der Mitte befindet sich der
+							Stadt besondere Erwähnung für die große Tower of Homage (oder "Große Turm"), die Bedeutung für die Mauren und Christen, dass zu Ehren des Schutzpatrons Sant Jordi, hat Seit mehreren Jahrhunderten vom 22. bis 25. 
+							April, jeden Jahres statt.',
 	
-	'castillos parrafo final 1' =>' Visiting those villages understand the traveler perfectly that the biggest festivities of the municipalities of Alto Vinalopó are the Moors and Christians, since the underlying historical facts still seem to remain relatively close, helping to the preservation of the collective memory the existence of Arab fortresses on the top of the villages. ',
+	'castillos parrafo final 1' =>' Mit die Besuch diese Dörfer versteht die Reisenden, dass die größten Feierlichkeiten der Gemeinden Alto Vinalopó der Mauren und Christen sind, da die zugrunde liegenden historischen Tatsachen noch zu bleiben relativ nah scheinen, hilft zur Erhaltung des kollektiven Gedächtnisses der Existenz der arabischen Festungen auf die höchste ort der Dörfer.',
 	
-	'castillos parrafo final 2' =>'A large part of the "Route of the Castles of the High Vinalopó" can be covered following a unique greenway: "El Xixarra". This greenway uses railway which began operating in 1884 (between Villena and Banyeres), linked Yecla Muro de Alcoy and was abolished by 1970. You can make the trip with no difficulty following the intinerary that the popular "El Xixarra" used to follow, starting from Villena and continuing to Biar, Beneixama until Banyeres de Mariola, from where you can continue to Bocairent, Alfafara, Agres and Muro de Alcoy. ',
+	'castillos parrafo final 2' =>'Ein großer Teil der "Route der Schlösser des Hohen Vinalopó" kan man durch einem einzigartigen greenway abgedeckt werden. Diese Greenway nutzt die Bahn den Betrieb im Jahre 1884 (zwischen Villena und Banyeres) begann, verknüpft Yecla Muro de Alcoy und wurde bis 1970 abgeschafft. Sie können die Reise ohne Schwierigkeiten nach der Reiseroute, dass die beliebte "El Xixarra" zu folgen, verwendet werden, ausgehend von Villena und Weiterbildung zu Biar, Beneixama machen, bis Banyeres de Mariola, von wo aus man zu Bocairent, Alfafara, Agres und Muro de weiter Alcoy. ',
 	
 	'Vinos del Vinalopo' => 'Vinalop&oacute; Wein',
 	
-	'Vinos parrafo 1' =>'<p><strong>The cultive of grapes in Vinalopo Valley</ strong> (Alicante)
-is very ancient, for obtaining wine and also for harvesting <strong> table grapes </ strong>. ',
-	'Vinos parrafo 2' => 'In the cultive of grapes in Alicante, we can differentiate two big domains: Those for<strong> wine production </ strong>,such as<a href="http://es.wikipedia.org/wiki/Vino_moscatel" title="Vino moscatel">Moscatel</a>, Fondill&oacute;n (<a href="http://es.wikipedia.org/wiki/Mon%C3%B3var" title="Mon&oacute;var">Mon&oacute;var</a>,&nbsp;<a href="http://es.wikipedia.org/wiki/Pinoso" title="Pinoso">Pinoso</a>, etc,); or those focused on the production of table grapes(<a href="http://es.wikipedia.org/wiki/Novelda" title="Novelda">Novelda</a>,&nbsp;<a href="http://es.wikipedia.org/wiki/Aspe" title="Aspe">Aspe</a>,&nbsp;<a href="http://es.wikipedia.org/wiki/Monforte_del_Cid" title="Monforte del Cid">Monforte del Cid</a>, etc,). The high quality of the grapes in the region has achived a origin denomination <a href="http://es.wikipedia.org/wiki/Uva_de_mesa_embolsada_Vinalop%C3%B3" title="Uva de mesa embolsada Vinalop&oacute;">grapes Vinalop&oacute;</a></p> <p> Around these villages we can contemplate a very beautiful landscape surronded by vineyards, mountains and also a spectacular marble factory</p> ',
+	'Vinos parrafo 1' =>'<p><strong>Die cultive der Trauben in Vinalopo Tal </ strong> (Alicante)
+						ist sehr alt, für den Erhalt von Wein und auch für die Ernte <strong> Tafeltrauben </ strong>.',
+	'Vinos parrafo 2' => 'Im cultive der Trauben in Alicante, können wir unterscheiden zwei große Bereiche: Diejenigen, für <strong> Weinproduktion wie <a href="http://es.wikipedia.org/wiki/Vino_moscatel" title="Vino moscatel">Moscatel</a>, Fondill&oacute;n (<a href="http://es.wikipedia.org/wiki/Mon%C3%B3var" title="Mon&oacute;var">Mon&oacute;var</a>,&nbsp;<a href="http://es.wikipedia.org/wiki/Pinoso" title="Pinoso">Pinoso</a>, etc,); or those focused on the production of table grapes(<a href="http://es.wikipedia.org/wiki/Novelda" title="Novelda">Novelda</a>,&nbsp;<a href="http://es.wikipedia.org/wiki/Aspe" title="Aspe">Aspe</a>,&nbsp;<a href="http://es.wikipedia.org/wiki/Monforte_del_Cid" title="Monforte del Cid">Monforte del Cid</a>, etc,). The high quality of the grapes in the region has achived a origin denomination <a href="http://es.wikipedia.org/wiki/Uva_de_mesa_embolsada_Vinalop%C3%B3" title="Uva de mesa embolsada Vinalop&oacute;">grapes Vinalop&oacute;</a></p> <p>Rund um diesen Dörfern können wir betrachten einen sehr schönen Landschaft von Weinbergen, Bergen und auch einem spektakulären Marmor Fabrik </ p> ',
 	
 	//-----------------------------------------------------//
 	
@@ -104,33 +103,32 @@ is very ancient, for obtaining wine and also for harvesting <strong> table grape
 	
 	//Alicante
 	'Recorrido por la ciudad de Alicante' =>'Alicante Stadt',
-	'intro visita Alicante' => 'The city of Alicante is one of the most visited in Spain thanks to the great variety of touristic choices. Here we show information for some of the charms of this city that mustn&#39;t be missed.',
-	'Puerto'=>' The declaration of the city of Alicante as a public port in the Mediterranean was in 1271,
-				according to the privilege granted by Alfonso X . The port as enginnering construction began in 1476,
-				during John II kingdom.
-				Historically, the port has played a decisive role in the commerce of the city of Alicante.
-				Today it is a tourist center with shops, restaurants, cafes, Pub. music...
-				It is a great pleasure to walk along or to make short boat trips',
-	'texto Mercado Alicante' => 'The central market of Alicante is located on the Avenue Alfonso X "el sabio", it is an eclectic styled building with Art Nouveau ornaments which was designed by architect Enrique Sanchez Sedeño and was built in 1921 by the architect Juan Vidal Ramos ',
-	'texto Explanada Alicante' => 'The Esplanade of Spain, also known as the Promenade on the Esplanade is a walk in the city of Alicante. It goes along the harbor, from the Puerta del Mar to Canalejas Park, and is one of the most popular itineraries in the city',
-	'texto Luceros Alicante' => 'This is one of the most emblematic places of Alicante. Located in the heart of downtown, this is where the famous pirotechniques detonations are held each year as part of the main festivals of Alicante, las Hogueras. ',
-	'Castillo de Santa Barbara 2' => 'Inside the Castle of Santa Barbara is located the MUSA (Museum of the City of Alicante). The tour of the castle can be visited every day of the year. <a href="http://www.alicante.es/redir.php?apartado=cultura&pagina=museos-santabarbara.html&titulo=Castillo%20de%20Santa%20B%E1rbara%20-%20Patronato%20Municipal%20de%20Cultura%20/%20Ayuntamiento%20de%20Alicante">Here </a>you can find all informations about elevators',
-	'Castillo de Santa Barbara 1' => 'The Santa Barbara Castle is located in the center of Alicante, on Mount Benacantil, a mass of rock 166 m above the edge of the sea, that gave it a considerable strategic value because from there could be watched the whole bay of Alicante and the surrounding inland.
-									On its slopes there are archaeological remains from the Bronze Age, Iberian and Roman times, although the origin of the current fortress is the ninth century, during the Muslim era. ',
-	'intro Museos' =>'Alicante City has some interesting museums',
-	'Museos Alicante MACA' => 'Placed in the old side of the city. The base of MACA is the XX century art collection by the artist Eusebio Sempere donated to Alicante in 1977. Composed by paintings, sculptures, mixed techniques and lithographies of spanish and foreign artists like Dali, Picasso, Chillida, Manolo Millares, Pablo Serrano, Joan Miró, Kandinsky, Chagall and Vasarely.',
-	'Museos Alicante MUBAG' => 'Museum dedicated mainly to paintings and sculptures of Alicante, from XVI century until the first decades of XX century.',
-	'Museos Alicante MARQ' => 'Inside the MARQ are shown archaeological pieces comming from everywhere in the province, from stone age until modern age, like the iberic lady Cabezo Lucero. Interesting because of its innovation and the use of audiovisual effects, with no surprise, have been declared European museum of the year 2004.',
-	'Museos Alicante otros' => 'There are some other museums such as Museum of the university of Alicante, Garrigos Water museum, Bethlehem museum, or the Fogueres museum ',
+	'intro visita Alicante' => 'Die Stadt Alicante ist eine der meistbesuchen in Spanien dank der großen Vielfalt der touristischen Angebote. Hier zeigen wir einige der Charme dieser Stadt, die nicht verpasst werden darf. ',	
+	'Puerto'=>' Die Erklärung der Stadt Alicante als öffentlicher Hafen im Mittelmeer war im Jahre 1271,
+nach dem Privileg von Alfonso X gewährt. Der Hafen als enginnering Bau begann im Jahre 1476,
+während John II Reich.
+Historisch gesehen hat der Hafen eine entscheidende Rolle in den Handel der Stadt Alicante gespielt.
+				HeuteDer Hafen ist das bestbesuchte Vergnügungsviertel von Alicante, wo es neben Restaurants, Pubs und Diskotheken auch einen Yacht-Club und Sportboote gibt.',
+	'texto Mercado Alicante' => 'Der zentrale Markt von Alicante an der Avenue Alfonso X "El Sabio" befindet, ist es eine eklektische Stil Gebäude mit Jugendstil-Ornamente, die von dem Architekten Enrique Sanchez Sedeño wurde entworfen und wurde im Jahre 1921 von dem Architekten Juan Vidal Ramos gebaut',
+	'texto Explanada Alicante' => 'Die Esplanade von Spanien, auch bekannt als die Promenade an der Esplanade bekannt, ist ein Spaziergang in der Stadt Alicante. Es geht entlang des Hafens, von der Puerta del Mar bis Canalejas Park, und ist einer der beliebtesten Routen in der Stadt ',
+	'texto Luceros Alicante' => 'Dies ist einer der schönsten Plätze von Alicante. Es ist plaziert im Herzen der Innenstadt, das ist, wo die berühmten pirotechniques Detonationen gehalten werden jedes Jahr als Teil der wichtigsten Festivals von Alicante, las Hogueras.',
+	'Castillo de Santa Barbara 2' => 'Im Inneren der Burg von Santa Barbara befindet sich das MUSA (Museum der Stadt Alicante). Sie können der Burg besuchen jeden Tag des Jahres. <a href="http://www.alicante.es/redir.php?apartado=cultura&pagina=museos-santabarbara.html&titulo=Castillo%20de%20Santa%20B%E1rbara%20-%20Patronato%20Municipal%20de%20Cultura%20/%20Ayuntamiento%20de%20Alicante">Hier</a>können sie alle Informatzion über der Aufzug finden',
+	'Castillo de Santa Barbara 1' => 'Santa Barbara Schloss befindet sich im Zentrum von Alicante, auf Benacantil Berg, eine Masse von Felsen 166 m über dem Rand des Meeres, die es gab einen erheblichen strategischen Wert liegt, weil von dort aus die ganze Bucht von Alicante beobachtet werden konnte und das umliegende Hinterland .
+An seinen Hängen gibt es archäologische Funde aus der Bronzezeit, iberischen und römischen Zeiten, obwohl der Ursprung der heutigen Festung ist das neunte Jahrhundert, während der islamischen Zeitrechnung. ',
+	'intro Museos' =>'Alicante Stadt hat einige interessanten Museums',
+	'Museos Alicante MACA' => 'Untergebracht in der alten Seite der Stadt. Die Basis des MACA ist die XX Jahrhunderts Kunstsammlung des Künstlers Eusebio Sempere gespendet, um im Jahr 1977 Alicante. Komponiert von Bilder, Skulpturen, Mischtechniken und Lithographien von spanischen und ausländischen Künstlern wie Dali, Picasso, Chillida, Manolo Millares, Pablo Serrano, Joan Miró, Kandinsky, Chagall und Vasarely',
+	'Museos Alicante MUBAG' => 'Museum über Bilder und Skulpturen von Alicante, von XVI Jahrhunderts bis die ersten Jahrzehnte des zwanzigsten Jahrhunderts. ',
+	'Museos Alicante MARQ' => 'Innerhalb der MARQ sind archäologische Stücke kommend von überall in der Provinz, von der Steinzeit bis in die moderne Zeit, wie die Dame iberic Cabezo Lucero gezeigt. Interessante wegen seiner Innovation und den Einsatz von audiovisuellen Effekten, ohne Überraschung, wurden zum Europäischen Museum des Jahres 2004.',
+	'Museos Alicante otros' => 'Es gibt einige andere Museen wie Museum der Universität von Alicante, Garrigos Wasser Museum, Bethlehem Museum oder dem Fogueres Museum ',
 	'Comarca de Alicante' => 'Alicante Land',
 	'Tranvia Alicante Parrafo 1' =>'Tranvia Alicante Parrafo 1',
 	
 	
 	//Elche
 	'Recorrido por la comarca del Baix Vinalopo' =>'Durch die Baix Vinalopo<br>Elche, Crevillente et Santa Pola',
-	'intro visita Elche' => 'The city of Elche have two World Heritage sites, The mistery of Elche and the Palm grove, and also the sculpture "Dama de Elche". The origins of Elche are dated around the year 500. B.C., in the neolithic, when the first habitants lived near the north-east hillside known as La Alcudia.
-							Come to discover this mediterranean oasis with palm trees everywhere and enjoy its patrimony.',
-	'intro MAHE' => 'The archaeological and history museum of Elche(MAHE) has become an important regional archaeological reference. It&#39; placed inside the Altamira Palace, in the historical center of the city, near the Santa Maria Basilica. The MAHE has been inaugurated on mai of 2006 with a big exposition about iberian culture, including the Dama de Elche, one of the most significatif pieces of iberian art.',
+	'intro visita Elche' => 'Die Stadt Elche haben zwei Welterbestätten, The Geheimnis der Elche und den Palmenhain, aber auch die Skulptur "Dama de Elche". Die Ursprünge der Elche sind um das Jahr 500 datiert. BC, in der Jungsteinzeit, als die ersten Bewohner in der Nähe des Nord-Ost Hanglage als La Alcudia bekannt lebte.
+Kommen Sie zu dieser mediterranen Oase mit Palmen überall entdecken und genießen ihre Erbe.',
+	'intro MAHE' => 'Das archäologische Museum und Geschichte von Elche (Mahé) hat sich zu einem wichtigen regionalen archäologischen Referenz. Im Altamira Palais platziert, im historischen Zentrum der Stadt, in der Nähe der Basilika Santa Maria. Die MAHE hat am Mai 2006 wurde mit einem großen Ausstellung über iberische Kultur eingeweiht, einschließlich der Dama de Elche, einer der significatif Stück iberische Kunst. ',
 	'intro historia elche' => 'During the V century B.C.  the iberian city Illici has been founded, at that moment has been sculpted the bust known as la Dama de Elche',
 	'intro alcudia' => 'The archaeological site and the Monographic Museum of La Alcudia is located in the municipality of Elche on the CV-855-Elche Dolores, at km. 2.
 						are Iberian, Roman and Visigoth monuments including houses, baths, temples, public buildings and a partial of the wall. ',
